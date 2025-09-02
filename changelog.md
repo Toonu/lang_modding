@@ -16,13 +16,242 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.13.01 - UNRELEASED
+## 1.13.03 — UNRELEASED
+
+I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for helping with the Hungarian ground tree rework. Without their help, this rework would not have been possible and the sourcing work they did for it was instrumental to it coming out as good as it did.
 
 ### General:
 
 - #### Changes:
 
-    - #### Additions:
+    - The Japanese package has been moved over to using Japanese numerals where they were used in real life to match the Chinese package currently in development. Writing every change would be a 400 line changelog so this is the 1 line covering it. Any additional listed changes for Japanese stuff are changes made for reasons that are not Japanese numerals. Modern Kanji have also been replaced with the old imperial Kanji where it is historically accurate, especially replacing the character 駆 with 驅 (this is being listed here because it would be another giant changelog) (this is mostly a naval thing that happpened when I was burying through documents for the **Dai 18 Gō** and everything spiraled out of control extremely fast and now I'm stuck here, please help me ahhhhhhhhh)
+
+### Vehicles:
+
+- #### Additions:
+
+    - "Black Hussar" event additions:
+        - **Mackensen**
+
+- #### Changes:
+
+    - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
+    - Hungarian ground vehicles rework:
+        - **Csaba** → **39 M. Csaba pc. gk.**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
+        - **Toldi IIA** → **38 M. Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi könnyű harckocsi B40**.
+        - **Turán I** → **40 M. Turán köz. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi**.
+        - **Turán II** → **41 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41 M. Turán nehéz harckocsi**.
+        - **Turán III** → **43 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43 M. Turán nehéz harckocsi**.
+        - **Zrínyi II** → **40/43 M. Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi roham tarack**.
+        - **Zrínyi I** → **44 M. Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44 M. Zrínyi roham ágyú (43 M. rakéta sorozatvető)**.
+        - **2SZ1** (Italy / Hungary): Statcard name → **Kharkìvs'kij traktornij zavod (KhTZ) | 122 mm-es 2SZ1 önjáró tarack "Gvozgyika"**.
+        - **ZSZU-57-2** (Italy / Hungary): Statcard name → **Omskij zavod № 174 im. Vorošilova | 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú "Büszke"**.
+        - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
+        - **PzH 2000 HU** (Italy / Hungary) → **PzH 2000HU**. Statcard name → **KNDS | 152 mm-es Panzerhaubitze 2000HU páncélos tarack**.
+        - **ZSZU-23-4** (Italy / Hungary) → **ZSZU-23-4V**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú "Silka"**.
+        - **T-72M1** (Italy / Hungary): Statcard name → **Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi**.
+        - **9A35M** (Italy / Hungary): Statcard name → **9A35M önjáró légvédelmi rakétakomplexum "Sztrela-10M"**.
+        - **KPz Leopard 2 A4 HU** (Italy / Hungary) → **Leopard 2A4HU**. Statcard name → **Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi**.
+        - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
+        - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
+    - **AMX 30 Au F1 / (T 142)** folder → **AMX 30 Au F1 / 10M** (they changed the vehicles in the folder).
+    - A shit ton Japan fixes (this is excluding the switching to Japanese numerals where accurate) (I reworked Japan air for Maple Syrupy's mod and I've been dragged into this hell for this mod now, god help me):
+        - **A7M2**: Statcard name → **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M2** (it accidentally said A7M1 before).
+        - **Ki 96** → **Ki 96 (3 Gō)**. Statcard name → **Kawasaki Kōkūki Kōgyō | Ki 96 (Shisei 3 Gō)**.
+            - Japanese package: **キ96** → **キ96 (三号)**. Statcard name → **川崎航空機工業 | キ96 (試製三号)**.
+        - **B7A1 (Homare 12 Gata)** → **B7A1 (NK9C)**.
+            - Japanese package: **B7A1 (誉12型)** → **B7A1 (NK9C)**.
+        - **Ki 102 Otsu**: Statcard name → **Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu**.
+            - Japanese package: Statcard name → **川崎航空機工業 | 五式双発襲撃機 | キ102乙**.
+        - **Ki 44-II / 61-I** folder → **Ki 44-II Hei / 61-I Otsu**.
+            - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
+        - **Ki 43-I / II** folder → **Ki 43-I Hei / II (late)**.
+            - Japanese package: **キ43-I丙 / II甲** → **キ43-I丙 / II (late)**.
+        - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki | Suisei 33 Gata Kō | D4Y3 Kō** (changed from 12 Gata to 33 Gata).
+            - Japanese package: Statcard name → **彗星三三型甲 | D4Y3甲**.
+        - **A7He1**: Statcard name → **Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1**.
+            - Japanese package: Statcard name → **Heinkel Flugzeugwerke | ハインケル112型陸上戦闘機 | A7He1**.
+        - **F4U-1A** (Japan): Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A "Shikorusukī"**.
+            - Japanese package: Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A「シコルスキー」**.
+        - **J2M4 (21 Kai Kō)** → **J2M4 (21 Kai Kō Shō)**.
+            - Japanese package: **J2M4 (21海航)** → **J2M4 (二一海航廠)**. Statcard name → **三菱重工業 / 第二一海軍航空廠 | 雷電三二型 | J2M4**.
+        - **Ha Gō (late) (94 Shiki) (1 Sen Ren)** → **Ha Gō (Shiki) (94 Shiki) (1 Sen Ren)**.
+            - Japanese package: **ハ号 (late) (94式) (1戦連)** → **ハ号 (指揮) (九四式) (一戦連)**.
+        - **Ke Ni A**:
+            - Japanese package: **ケニ甲** → **ケニA**. Statcard name → **ケニA**. This change was made a long time ago in English but I forgot to make it in Japanese.
+        - **Chi Ha Kai** (Standard & Twitch drop) → **Chi Ha (1 Shiki)**. Statcard name → **97 Shiki Chū Sensha | Chi Ha (1 Shiki 47 Mirimētoru Sensha Hō)**.
+            - Japanese package: **チハ改** → **チハ (一式)**. Statcard name → **三菱重工業 | 九七式中戦車 | チハ (一式四七粍戦車砲)**.
+        - **Chi Nu (5 Shiki II Gata)**:
+            - Japanese package: **チヌ (5式II型)** → **チヌ (五式II型)**. Statcard name → **三式中戦車 | チヌ (試製五式七糎半戦車砲 (長) II型)**.
+        - **Chi To (Shi 2 Gō)** → **Chi To (2 Gō)**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Kō) | Chi To (Shisei 2 Gōsha)**.
+            - Japanese package: **チト (試2号)** → **チト (二号)**. Statcard name → **三菱重工業 | 試製中戦車 (甲) | チト (試製二号車)**.
+        - **Chi Ri**: Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri**.
+            - Japanese package: Statcard name → **三菱重工業 | 試製中戦車 (乙) | チリ**.
+        - **SUB-I-2 (MK20)** → **SUB-I-2 (MK 20 DM 6 A1)**.
+        - **Ho Ri**: Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri**.
+            - Japanese package: Statcard name → **試製新砲戦車 (甲) | ホリ**.
+        - **Ho Ri (10 Senchi Han)** → **Ho Ri (late)**. Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri (late)**. It's a fake tank, it's never gonna be right. This is the third time I've done this dance of trying to figure out wtf I do with this damn thing and ngl, idc anymore. Gaijoobles made it up anyway.
+            - Japanese package: **ホリ (10糎半)** → **ホリ (late)**. Statcard name → **試製新砲戦車 (甲) | ホリ (late)**.
+        - **Sōkō Tei Dai 1 Gō** → **Sakigake**. Statcard name → **Sōkō Tei Dai 1 Gō | Sakigake**.
+            - Japanese package: **装甲艇第1号** → **さきがけ**. Statcard name → **装甲艇第一號 | さきがけ**.
+        - **Ka Ro 4 Gata**:
+            - Japanese package: Statcard name → **横浜ヨット | 四式四型驅逐艇 | カロ四型** (it previously was accidentally listed as the 2型).
+        - **Dai 2 Gō**: Statcard name → **Ishikawajima Zōsensho | Dai 1 Gō Gata Kusen Tei (K-3) | Dai 2 Gō** (the class was previously listed as the Dai 1 Gō Gata).
+            - Japanese package: Statcard name → **石川島造船所 | 第一號型驅潜艇 (K-3) | 第二號**.
+        - **Furutaka/Aoba** folder → **Furutaka / Aoba**.
+            - Japanese package: **Furutaka/Aoba** folder → **古鷹 / 青葉**.
+    - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
+    - **F-5A(G)-45-NO** (Sweden / Norway) → **F-5A(G)-40-NO (EoT)**. Statcard name → **Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)**.
+    - **Mārut Mk. 1** → **Mārut Mk I**.
+    - **Ersatz Yorck**: Statcard name → **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | großer Kreuzer Ersatz Yorck**.
+    - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
+    - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
+    - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
+
+### Weaponry:
+
+- #### Additions:
+    - "Black Hussar" event additions:
+        - **35 cm/45 SK L/45 cannon**
+        - **350 mm Spr.gr. L/4,2 Bdz.**
+        - **350 mm Psgr. L/3,6 APCBC**
+    - **Fuel tank for SEPR 841** (forgot to add this last update)
+
+- #### Changes:
+
+    - "Black Hussar" event changes:
+        - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
+        - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
+            - Full ammunition names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
+        - **350 mm Psgr. L/3,6 APCBC** → **35cm Pz.Spr.Gr. L/3,6**.
+            - Full ammunition names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
+    - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
+    - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **JM61A2** → **JM61A2** (not all of them, just the one that was supposed to be the **JM61A2** the whole time but I mislabeled it).
+    - **150 mm Wgr.41 Spr rocket** (the one used on the **44 M. Zrínyi (sorozatvető)**, not the one used on the **15 cm Pz.W.42**) → **43 M. rakéta sorozatvető**.
+    - Japan changes that happened with the move to Japanese numerals:
+        - **Senchi** and **Sanchi** have been changed to **Senchimētoru** and **Sanchimētoru** respectively. It's a pain in the ass to list all the guns changed, so here it is.
+        - **94 Shiki 37 Mirimētoru Sensha Hō**:
+            - Japanese package: **陸軍技術本部 | 94式37粍戦車砲** → **九四式三七粍戦車砲** (why tf did it have the manufacturer in it anyway, and why only in Japanese?? what was i smoking????).
+        - **47 mm Type 1 cannon** → **1 Shiki 47 Mirimētoru Sensha Hō**.
+            - Japanese package: **47 mm Type 1 cannon** → **一式四七粍戦車砲**.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
+    - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
+    - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**.
+        - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
+
+### Engines:
+
+- #### Changes:
+
+    - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
+        - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
+
+## 1.13.02 — 13-08-2025
+
+### General:
+
+- #### Changes:
+
+    - Simplified the format of `userlang.csv` by removing the requirement for the extra semicolons. They were unnecessary anyway and I'm not sure why I included them in there.
+    - Corrected the loading tip on the Anglo-Zanzibar War.
+
+### Vehicles:
+
+- #### Additions:
+
+    - **F-106A**
+
+- #### Changes:
+
+    - **F-106A** → **F-106A-100-CO (Polhemus)**. Statcard name → **Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter) (Project Speedline) (Polhemus Helmet-Mounted Sight)**.
+    - **Ki 43-III Kō** (China): Statcard name → **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō "Hayabusa"** (corrected a missing space).
+    - **Ki 44-II Otsu** (Japan): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
+    - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
+    - **CS/SA5 (2022)**: Statcard name → **CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)**.
+    - **NF-5A** (France / Netherlands): Statcard name → **Northrop Corporation N-156F / Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
+    - **Ho Ro**: Statcard name → **Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Jisō Hō | Ho Ro**.
+    - **Shi 12 Senchi Ji Hashi** → **Shi 12 Senchi Ji Hō**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Jisō Hō**.
+    - **Ho No I**: Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Jisō Hō | Ho Ni I**.
+    - **12 Senchi Ji Hashi** → **12 Senchi Ji Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Jisō Hō**.
+    - **M16** (Japan): Statcard name → **White Motor Company | M16 Jisō Kōsha Kikan Hō**.
+    - **Na To**: Statcard name → **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Jisō Hō | Na To**.
+    - **M44A1** (Japan): Statcard name → **Massey-Harris | M44A1 155mm Jisō Ryūdanhō**.
+    - **M19A1** (Japan): Statcard name → **Cadillac Motor Company | M19A1 Jisō Kōsha Kikan Hō**.
+    - **M42** (Japan): Statcard name → **GM Defense | M42 Jisō Kōsha Kikan Hō "Dasutā"**.
+    - **60SP (C)**: Statcard name → **Komatsu Seisaku | 60 Shiki Jisō 106mm Muhandō Hō C Gata "Mametan"**.
+    - **75HSP**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Jisō 155mm Ryūdanhō**.
+    - **99HSP**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō "Rongunōzu"**.
+    - **75MSSR**: Statcard name → **Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki**.
+    - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
+    - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
+    - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
+    - **LV IRIS-T SLM (Radarfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
+    - **LV IRIS-T SLM (Startfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
+    - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
+
+### Weaponry:
+
+- #### Additions:
+
+    - **AIM-4F**
+    - **AIM-4G**
+    - **HBX-3** (explosive type)
+    - **M61A1** (another one)
+    - **Drop tank** (for the **F-106A-100-CO (Polhemus)**)
+
+- #### Changes:
+
+    - **AIM-4F**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon**.
+    - **AIM-4G**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon**.
+    - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**.
+    - **Drop tank** (for the **F-106A-100-CO (Polhemus)**) → **Drop tank (358 gal)**.
+    - **Browning Machine Gun, Caliber .30, HB, M1919A4** → **Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel**.
+    - **Browning Machine Gun, Caliber .30, AN/M2** → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed**.
+    - **Browning Machine Gun, Caliber .30, AN/M2** (the turret one) → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible**.
+    - **Browning Machine Gun, Caliber .50, HB, M2** → **Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible**.
+    - **Browning Machine Gun, Caliber .50, AN/M2** → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed**.
+    - **Browning Machine Gun, Caliber .50, AN/M2** (the turret one) → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate**.
+    - **Browning Machine Gun, Caliber .50, AN/M3** → **Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed**.
+    - Corrected the type tag of the **UPAB-500B** from BMB-LG to BMB-GNSS.
+    - Corrected the caliber tag of the **L/PW1975** from 75 mm to 105 mm.
+
+### Engines:
+
+- #### Additions:
+
+    - **VK-1F** (forgot to add this earlier)
+    - **J75-P-17**
+
+### Decals:
+
+- #### Additions:
+
+    - **Emblem of the 112th Fighter Squadron**
+    - **Emblem of the 159th Fighter Squadron**
+    - **Emblem of the California Air National Guard**
+
+### Skins:
+
+- #### Additions:
+
+    - **"City of Jacksonville" anniversary camouflage**
+    - **"Jersey Devils" camouflage**
+
+- #### Changes:
+
+    - **"City of Jacksonville" anniversary camouflage** → **F-106A-95-CO — "City of Jacksonville", 58-0760, 159th FIS, 125th FIG, FL ANG, 1976**.
+    - **"Jersey Devils" camouflage** → **F-106A-110-CO — 59-0031, 119th FIS, 177th FIG, NJ ANG, 1987**.
+    - **B-25K — M-433, 18 Squadron, ML-KNIL** → **B-25K — M-433, 18 Squadron, ML-KNIL, 1949**.
+
+## 1.13.01 - 24-07-2025
+
+### General:
+
+- #### Additions:
 
     - Added 11 new loading tips (one of them is about the Emu War hehe):
         - General: 3
@@ -32,15 +261,25 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **SB-25J** (France / Netherlands) (jesus christ smh)
+    - **WZ141-1**
+    - **Shisaka**
+
 - #### Changes:
 
+    - **SB-25J** (France / Netherlands) → **B-25K**. Statcard name → **North American Aviation NA-108 | B-25K Mitchell**.
+    - **WZ141-1** → **141 (1 Hào)**. Statcard name → **141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)**.
+    - **Shisaka**: Statcard name → **Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shisaka**.
+        - Japanese package: **Shisaka** → **四阪**. Statcard name → **日立造船 | 甲型海防艦 | 日振型海防艦 (E-20B) | 四阪**.
     - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**
     - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
     - **T86 GMC (early)**: Statcard name → **Marmon-Herrington Company | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**
     - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **L/Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
-        - Japanese package: Mid distance name **チハ改**.
+        - Japanese package: Mid distance name → **チハ改**.
     - **M3 / M5** (China) folder → **M3A3 / 5A1**
     - **HMS Brave Borderer (P 1011)** now appears properly (it was in the files before but I never removed the unchanged base game one from the files and that overrid the redone one).
     - **Begleitpanzer 57** → **BgPz 57**. Statcard name → **Thyssen Henschel | Begleitpanzer 57**.
@@ -49,10 +288,92 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **105 mm Recoilless Rifle Type 75**
+    - **Type 75 HEAT**
+    - **Type 75 HESH**
+    - **12.7 mm Type 77 machine gun**
+    - **IR+IOG+DL** (forgot to add in last update)
+    - **Flare** (some random text, forgot to add in last update)
+    - **Chaff** (some random text, forgot to add in last update)
+    - **1.1 inch Mk.1 HE-T** (forgot to add in last update)
+### Weaponry:
+
+- #### Additions:
+
+    - **105 mm Recoilless Rifle Type 75**
+    - **Type 75 HEAT**
+    - **Type 75 HESH**
+    - **12.7 mm Type 77 machine gun**
+    - **IR+IOG+DL** (forgot to add in last update)
+    - **Flare** (some random text, forgot to add in last update)
+    - **Chaff** (some random text, forgot to add in last update)
+    - **1.1 inch Mk.1 HE-T** (forgot to add in last update)
+
 - #### Changes:
 
+    - **105 mm Recoilless Rifle Type 75** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
+    - **Type 75 HEAT** → **DTP/PW75-105**.
+        - Full Ammo Names package: **Type 75 HEAT** → **DTP/PW75 Shì 105 Háomi Pò Jia Dàn**.
+    - **Type 75 HESH** → **DTJ/PW75-105**.
+        - Full Ammo Names package: **Type 75 HESH** → **DTJ/PW75 Shì 105 Háomi Suì Jia Dàn**.
+    - **12.7 mm Type 77 machine gun** → **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **1.1 inch Mk.1 HE-T** → **1.1" A.A. Mk S.D. 1**.
+    - **IR+IOG+DL** → **IR + IOG + DL**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
+    - Weird **Launcher, Tubular, Guided Missile, M220A1** stuff:
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Ground-Launched, Surface-Attack, Guided Missile, BGM-71A-3 TOW**.
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Ground-Launched, Surface-Attack, Guided Missile, BGM-71C ITOW**.
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Launcher, Tubular, Guided Missile, M233**.
+        - It's all confusing. Different file entries labeled almost exactly the same and used for different things. I don't really understand it and there's no good way to explain it in the changelog. Just roll with it, the point is that the TOW boxes' ammunition loadouts make sense now.
+
+### Decals:
+
+- #### Additions:
+
+    - **Emblem of the Special Forces of the Nanjing Military Region**
+    - **Emblem of the 84th Brigade**
+
+- #### Changes:
+
+    - **Emblem of the Special Forces of the Nanjing Military Region** → **Emblem of the Tèzhong Zuòzhàn Dì 73 Lü**.
+    - **Emblem of the 84th Brigade** → **Emblem of the Tèzhong Zuòzhàn Dì 84 Lü**.
+
+### Decorations:
+
+- #### Additions:
+
+    - **Type 64**
+    - **Automatic grenade launcher (China)**
+    - **MRLS (China)**
+
+- #### Changes:
+
+    - **Type 64** → **L/QCW1964 Shì Wēishēng Chōngfēng Qiāng**.
+    - **Automatic grenade launcher (China)** → **L/QLZ1987 Shì 35 Háomi Zìdòng Liúdàn Fāshè Qì**.
+    - **MRLS (China)** → **L/PH1963 Shì 107 Háomi Lún Shì Huǒjiàn Pào**.
+
+### Skins:
+
+- #### Additions:
+
+    - **Unpainted camouflage** (**B-25K** (France / Netherlands))
+
+- #### Changes:
+
+    - **Unpainted camouflage** (**B-25K** (France / Netherlands)) → **B-25K — M-433, 16 Squadron, ML-KNIL**.
+
+### Loading Screens:
+
+- #### Additions:
+
+    - **IJN Shisaka**
+
+- #### Changes:
+
+    - **IJN Shisaka** → **Shisaka**
 
 ## 1.13.00 - 26-06-2025
 

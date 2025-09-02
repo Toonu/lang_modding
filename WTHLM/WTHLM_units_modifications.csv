@@ -34,6 +34,8 @@ modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;"16""/50 Mk 7 Mod 0"
 modification/406mm_ussr_navy_sapcbc;PB obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc;BR obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc_ammo_pack;BR obr. 1915/28 gg.
+modification/350mm_germ_skl_45_navy_apcbc;35cm Pz.Spr.Gr. L/3,6
+modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;35cm Pz.Spr.Gr. L/3,6
 
 //UK AMMUNITION
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
@@ -147,10 +149,14 @@ modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Naá
 //UNCATEGORIZED ROCKETS
 
 //USA MISSILES
+modification/us_aim_4f;AIM-4F
+modification/us_aim_4f/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4F Super Falcon</color> semi-active radar homing air-to-air missile.
+modification/us_aim_4g;AIM-4G
+modification/us_aim_4g/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4G Super Falcon</color> infrared-guided air-to-air missile.
 modification/us_aim_9n;AIM-9N
 modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
 modification/us_aim_120c;AIM-120C-5
-modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
+modification/us_aim_120c/desc;Loadout unlocked: <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
 
 //GERMANY MISSILES
 modification/sws_flz_lwf_63_75;Flz.Lwf. 63/75
@@ -209,6 +215,9 @@ modification/j_aaq_2_pod/desc;Loadout unlocked: the <color=@userlogColoredText>J
 //SWEDEN SENSORS
 
 //ISRAEL SENSORS
+
+//UAV STUFF
+modification/score_multiprier_with_uav;When your reconnaissance UAV is in the air, SP decrease {scoreMulWithUav} {scoreMulWithUav=time/times} slower
 
 //UNCATEGORIZED
 modification/category/lth;Flight performance

@@ -7,7 +7,30 @@ turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
 
 //USA GUNS
-weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
+weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf_tutorial;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf_tutorial/short;AN/M2
+weapons/gunBrowning50_raf_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
@@ -18,6 +41,8 @@ weapons/cannonM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> Cannon, 20mm
 weapons/cannonM61A1_pgu_28/short;M61A1
 weapons/cannonM61A1_pgu_28_f15;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A1_pgu_28_f15/short;M61A1
+weapons/cannonM61A1_low_rpm;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
@@ -41,6 +66,7 @@ weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
+weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone Lange/45 <color=#ff6f00>CNN</color>
 
 //USSR GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
@@ -55,17 +81,28 @@ weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Den
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
-weapons/cannonJM61A2;JM61A1
-weapons/cannonJM61A2/short;JM61A1
-weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchi Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
+weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
+weapons/cannonJM61A2/short;JM61A2
+weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
+weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
+weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchimētoru Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchimētoru Hō
 
 //CHINA GUNS
+weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
+weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> 1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
 
 //ITALY
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
+weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 M. harckocsiágyú <color=#ff6f00>CNN</color>
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
@@ -85,6 +122,7 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 20mm_m594;M594
 25mm_pgu_32;PGU-32/U
 25mm_hedp;25 mm HEDP
+28mm_usa_navy_he_t/name;"1.1"" A.A. Mk S.D. 1"
 30mm_mk320;MK320
 37mm_AN_M4_naval_HE/name;37 mm HE
 37mm_AN_M4_naval_AP/name;37 mm AP-T
@@ -102,7 +140,9 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 40mm_bofors_flak28_navy_he_t/name;4cm Pzgr.Patr.L'spur.
 40mm_bofors_mel58_navy_he/name;M-DN51
 40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 1
-88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr.L/4,5 (Kz)
+88mm_sprgr_dist_fuse;8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)
+350_psgr_l_4_2_apc;35cm Spr.Gr. L/4,2 (Bd.Z.)
+350_psgr_l_3_6_apc;35cm Pz.Spr.Gr. L/3,6
 
 //USSR AMMUNITION
 i_ball_mdz/name;Immediate-action incendiary bullet
@@ -147,6 +187,8 @@ b_mk_1z/name/short;I
 30mm_china_HE;CS/BAH06-30
 30mm_china_PTFP;CS/BAE05-30
 30mm_dtc10_30;L/DTC10-30
+105mm_type_75_heat;DTP/PW75-105
+105mm_type_75_hesh;DTJ/PW75-105
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
@@ -247,6 +289,7 @@ weapons/in_nasser_240/short;Naṣr 240
 //CHINA ROCKETS
 
 //ITALY ROCKETS
+weapons/158mm_NB_Wf_41_rocket_launcher;43 M. rakéta sorozatvető <color=#ff6f00>RKT</color>
 
 //FRANCE ROCKETS
 weapons/fr_sneb_type23s;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
@@ -261,7 +304,7 @@ weapons/fr_sneb_type23_md_460;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_md_460/short;SNEB F1 Type 23
 weapons/fr_sneb_type23_4fin;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
-weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P
+weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
 
 //SWEDEN ROCKETS
@@ -271,6 +314,14 @@ weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
 //UNCATEGORIZED ROCKETS
 
 //USA MISSILES
+weapons/us_aim4f_falcon;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim4f_falcon/short;AIM-4F
+weapons/us_aim4f_falcon_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim4f_falcon_default/short;AIM-4F
+weapons/us_aim4g_falcon;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon <color=#ff6f00>AAM-IR</color>
+weapons/us_aim4g_falcon/short;AIM-4G
+weapons/us_aim4g_falcon_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon <color=#ff6f00>AAM-IR</color>
+weapons/us_aim4g_falcon_default/short;AIM-4G
 weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9n_sidewinder/short;AIM-9N
 weapons/us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)
@@ -288,6 +339,12 @@ weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-12
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
+weapons/127mm_bgm_71b_tow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71A-3 TOW <color=#ff6f00>ATGM-WG</color>
+weapons/127mm_bgm_71b_tow_rocket_launcher/short;BGM-71A-3
+weapons/127mm_bgm_71c_itow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71C ITOW <color=#ff6f00>ATGM-WG</color>
+weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C
+weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
+weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 
 //GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -310,6 +367,7 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz.Lwf. LB 82
+weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM Startgerät
 us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
@@ -359,6 +417,10 @@ weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 //UNCATEGORIZED MISSILES
 
 //USA FUEL TANKS
+weapons/us_358gal_f_106_1;Drop tank (358 gal)
+weapons/us_358gal_f_106_1/short;Drop tank (358 gal)
+weapons/us_358gal_f_106_2;Drop tank (358 gal)
+weapons/us_358gal_f_106_2short;Drop tank (358 gal)
 
 //GERMANY FUEL TANKS
 weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
@@ -403,6 +465,7 @@ weapons/mirage_3s_sepr_tank_7;Fuel tank SEPR 844 Pod
 weapons/mirage_3s_sepr_tank_7/short;Fuel
 weapons/mirage_3s_sepr_tank_8;Fuel tank SEPR 844 Pod
 weapons/mirage_3s_sepr_tank_8/short;Fuel
+weapons/mirage_3c_fuel_tank_8;Fuel tank for SEPR 841
 
 //SWEDEN FUEL TANKS
 weapons/sw_510l_wdns_drop_tank;Drop tank (510 L)
@@ -445,11 +508,10 @@ weapons/80mm_brenus_smoke_grenade_launcher/short;GALIX 13
 //EXPLOSIVE TYPES
 explosiveType/octogel;Oktogel
 explosiveType/tg_50;TG-50
+explosiveType/hbx_3;HBX-3
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/gunType97;7.7 mm Type 97 machine gun
 weapons/gunType97_turret;7.7 mm Type 97 machine gun
 weapons/cannonType99;20 mm Type 99 Model 1 cannon
@@ -481,31 +543,13 @@ weapons/gunMle38;7.5 mm Fabrique Nationale Mle 38 machine gun
 weapons/gunBrowning303;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
 weapons/gunBrowning303_turret;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
 weapons/gunBrowning303_raf;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
-weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M3;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M3 <color=#ff6f00>MG</color>
 weapons/gunFN_M3P;12.7 mm FN M3P machine gun
 weapons/gunfn_60_30;7.62 mm FN 60.30 machine gun
 weapons/gunfn_60_30_mgp;7.62 mm FN 60.30 machine gun
 weapons/gunFN_M3P_cwp;12.7 mm FN M3P machine gun
 weapons/gunFN_M3M;12.7 mm FN M3M machine gun
-weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M3 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunLKk_42;<color=@userlogColoredText>12.7 mm</color> 12,70 mm lentokonekivääri mallia 1942 <color=#ff6f00>MG</color>
 weapons/gunLKk_42/short;12,70 lkk/42
-weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_tutorial;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_tutorial/short;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunDA762;<color=@userlogColoredText>7.62 mm</color> 56-P-323 | DA <color=#ff6f00>MG</color>
 weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Gun, Automatic, Hispano, 20-mm, Mk. I <color=#ff6f00>ACNN</color>
 weapons/cannonHispano404;20 mm Hispano 404 cannon
@@ -900,7 +944,7 @@ weapons/su_kab_250lg;<color=@userlogColoredText>256 kg</color> KAB-250LG <color=
 weapons/su_kab_250lg/short;KAB-250LG
 weapons/su_kab_1500kr;<color=@userlogColoredText>1525 kg</color> KAB-1500Kr <color=#ff6f00>BMB-EO</color>
 weapons/su_kab_1500kr/short;KAB-1500Kr
-weapons/su_upab_500b;<color=@userlogColoredText>560 kg</color> UPAB-500B <color=#ff6f00>BMB-LG</color>
+weapons/su_upab_500b;<color=@userlogColoredText>560 kg</color> UPAB-500B <color=#ff6f00>BMB-GNNS</color>
 weapons/su_upab_500b/short;UPAB-500B
 weapons/su_upab_1500b;<color=@userlogColoredText>1525 kg</color> UPAB-1500B <color=#ff6f00>BMB-GNSS</color>
 weapons/su_upab_1500b/short;UPAB-1500B
@@ -2045,7 +2089,6 @@ weapons/90mm_M3A1_user_cannon;<color=@userlogColoredText>90 mm</color> Gun, 90mm
 weapons/90mm_90_50_M3A1_user_cannon;<color=@userlogColoredText>90 mm</color> Cannone da 90/50 M3A1 <color=#ff6f00>CNN</color>
 weapons/90mm_M36_user_cannon;<color=@userlogColoredText>90 mm</color> Gun, 90mm, M36 <color=#ff6f00>CNN</color>
 weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm Browning MG4 machine gun
-weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, HB, M1919A4 <color=#ff6f00>MG</color>
 weapons/7_62mm_SGMT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-428MT | SGMT <color=#ff6f00>MG</color>
 weapons/7_62mm_maxim_garford_user_machinegun;<color=@userlogColoredText>7.62 mm</color> PM-10 obr. 1910 g. <color=#ff6f00>MG</color>
 weapons/7_62mm_Maxim_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
@@ -2082,13 +2125,10 @@ weapons/12_7mm_M85_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Ma
 weapons/7_62mm_L3A1_user_machinegun;7.62 mm L3A1 machine gun
 weapons/13_2mm_Breda_mod31_user_machinegun;13.2 mm Breda Mod.31 machine gun
 weapons/12_7mm_M3P_user_machinegun;12.7 mm M3P machine gun
-weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_leclerc;MIT 12.7 CRC F1
 weapons/12_7mm_sMG_50_user_machinegun;12.7 mm s.MG.50 machine gun
 weapons/12_7mm_Ksp_m88_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 12,7 mm kulspruta m/88 <color=#ff6f00>MG</color>
 weapons/7_62mm_ksp_m94_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 7,62 mm kulspruta m/94 <color=#ff6f00>MG</color>
-weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
-weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/7_7mm_Vikkers_user_machinegun;7.7 mm Vickers machine gun
 weapons/7_7mm_vickers_go_no5_naval_user_machinegun;7.7 mm Vickers GO No.5 machine gun
 weapons/152mm_StuH_443_r_user_cannon;152 mm StuH 443(r) howitzer
@@ -2123,6 +2163,7 @@ missile/guidance;Guidance
 missile/guidance/ir;IR
 missile/guidance/ir+IOG;IR + IOG
 missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
+missile/guidance/ir+IOG+DL;IR + IOG + DL
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
 missile/guidance/SARH;SARH
@@ -2493,6 +2534,8 @@ weapons/countermeasure_split_launcher_jet_bol_pod_aim9l;<color=@userlogColoredTe
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9l/short;<color=@userlogColoredText>26 mm</color> countermeasures
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m;<color=@userlogColoredText>26 mm</color> countermeasures
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m/short;<color=@userlogColoredText>26 mm</color> countermeasures
+flare_launcher/name;Flare
+chaffs_launcher/name;Chaff
 13mm_hotckiss_AP/name;AP-T
 13mm_hotckiss_AP/name/short;AP-T
 12mm_usa_M2HB_common/name;Common
@@ -2883,7 +2926,6 @@ weapons/de_r4m_orkan_rocket;R4M rocket
 weapons/cannonM4_75mm;75 mm M-4 cannon
 weapons/cannonMk214a;50 mm Mk. 214a cannon
 weapons/110mm_M8_rocket_launcher;Rocket, 4.5-inch, HE, M8 <color=#ff6f00>RKT</color>
-weapons/158mm_NB_Wf_41_rocket_launcher;150 mm Wgr.41 Spr rocket
 weapons/82mm_M8_rocket_launcher;82 mm M-8 rocket
 weapons/82mm_m8_launcher_user_cannon;82 mm M-8 rocket
 weapons/cannonM5;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M5 <color=#ff6f00>CNN</color>
@@ -4840,8 +4882,6 @@ weapons/81mm_tucha_launcher/short;smoke
 weapons/81mm_3d17_smoke_launcher;81 mm smoke grenade launcher
 weapons/81mm_3d17_smoke_launcher/short;smoke
 81mm_3d17;81 mm smoke grenade 3D17
-weapons/127mm_bgm_71b_tow_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1 <color=#ff6f00>LCH</color>
-weapons/127mm_bgm_71b_tow_rocket_launcher/short;M220A1
 weapons/127_bgm_71_TOW/short;BGM-71A-3
 127_bgm_71_TOW;BGM-71A-3 TOW
 weapons/127_bgm_71_tow/short;BGM-71A-3
@@ -4852,7 +4892,6 @@ weapons/127mm_TOW_rocket_launcher/short;M220A1
 152mm_hj9;AFT09
 weapons/cn_hj_9/short;AFT09
 weapons/cn_hj_9;AFT09 anti-tank guided missile
-weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1 <color=#ff6f00>LCH</color>
 weapons/127mm_BGM_71_tow_M3A3_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A2, Dual Launcher <color=#ff6f00>LCH</color>
 70mm_m247;Rocket Warhead, 2.75-inch, HEDP, M247 <color=#ff6f00>RKT</color>
 50mm_arf_8m;ARF/8M3
@@ -4875,8 +4914,6 @@ weapons/105mm_PzK_M57_user_cannon;105 mm PzK M57 cannon
 weapons/127mm_ZT_3_launcher_user_cannon;ZT3
 127mm_swift;ZT3A1
 127mm_ingwe;ZT3A2
-weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1
-weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1
 weapons/127mm_bgm_71_tow_begleitpanzer_launcher_user_cannon;BGM-71 TOW <color=#ff6f00>ATGM-WG</color>
 127mm_i_tow;BGM-71C
 152mm_tow_2;BGM-71D-5
@@ -4914,12 +4951,9 @@ weapons/163mm_vt_1_launcher_user_cannon;VT1 SAM
 weapons/163mm_roland_vt_1_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 165mm_vt_1;VT1
 weapons/152mm_MIM146_launcher_user_cannon;MIM-146 ATGM/SAM
-weapons/127mm_bgm_71c_itow_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1 <color=#ff6f00>LCH</color>
-weapons/127mm_bgm_71c_itow_rocket_launcher/short;M220A1
 weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon;BGM-71C
 weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon/short;BGM-71C
 127_bgm_71_itow;BGM-71C
-weapons/75mm_43M_user_cannon;75 mm 43.M cannon
 75mm_43m;43.M pancelgranat
 75mm_43m_he;43.M repeszgranat
 75mm_43m_heat;43.M pancelrobbantogranat
@@ -5138,11 +5172,8 @@ weapons/70mm_Type94_user_cannon;70 mm Type 94 cannon
 70mm_type95_ap;Type 95 APHE
 weapons/7_7mm_Type_97_user_machinegun;7.7 mm Type 97 machine gun
 weapons/6_5mm_Type_91_user_machinegun;6.5 mm Type 91 machine gun
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
 weapons/37mm_Type1_user_cannon;37 mm Type 1 cannon
 weapons/37mm_Type100_user_cannon;37 mm Type 100 cannon
-weapons/47mm_Type1_user_cannon;47 mm Type 1 cannon
 weapons/57mm_Type90_user_cannon;57 mm Type 90 cannon
 weapons/57mm_Type97_user_cannon;57 mm Type 97 cannon
 weapons/75mm_Type3_user_cannon;<color=@userlogColoredText>75 mm</color> 3 shiki 7.5 senchi sensha hō II gata <color=#ff6f00>CNN</color>
@@ -5155,7 +5186,6 @@ weapons/75mm_Type90_user_cannon;75 mm Type 90 cannon
 weapons/75mm_Type99_user_cannon;75 mm Type 99 cannon
 weapons/120mm_Navy_Short_Gun_user_cannon;120 mm Navy short gun
 weapons/90mm_Type61_user_cannon;90 mm Type 61 cannon
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
 weapons/150mm_Type_38_user_cannon;150 mm Type 38 howitzer
 weapons/76mm_1902_30_user_cannon;<color=@userlogColoredText>76.2 mm</color> obr. 1902/30 gg. <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> ZPL1963 85 háomi tankè pào <color=#ff6f00>CNN</color>
@@ -5459,9 +5489,7 @@ weapons/7_62mm_L37A1_user_machinegun;7.62 mm L37A1 machine gun
 weapons/158mm_NB_Wf_41_gun_rocket_launcher;150 mm Wgr.41 Spr rocket
 weapons/75mm_Lightweight_Type1_model_II_user_cannon;75 mm Lightweight Type I Model II cannon
 75mm_type_4_apcr;Type 4 APCR
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
 75mm_type4_ap_kou;Type 4 Kou
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
 weapons/105mm_Type5_user_cannon;105 mm Type 5 cannon
 weapons/7_92mm_mg34_1934_naval_user_machinegun;7.92 mm MG34 machine gun
 weapons/depth_charge_de_emc;EMC depth charge
@@ -6392,7 +6420,6 @@ weapons/152mm_exo_BGM_71_tow_launcher_user_cannon;BGM-71 TOW ATGM
 weapons/152mm_exo_9M133_launcher_user_cannon;9M133 ATGM
 weapons/43mm_exo_GM_93_user_cannon;43 mm GM-93P under-barrel grenade launcher
 weapons/12_7mm_exo_6P51_user_machinegun;12.7 mm 6P51 machine gun
-weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/8_6mm_exo_MG338_user_machinegun;8.6 mm MG338 machine gun
 weapons/70mm_exo_FIM_92X_rocket_launcher;FIM-92X Stinger <color=#ff6f00>AAM-IR</color>
 weapons/72mm_exo_9M336M_rocket_launcher;9M336

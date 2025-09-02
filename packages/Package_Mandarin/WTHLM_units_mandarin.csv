@@ -1,6 +1,9 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
-shop/group/i-16_china_group;忠28 / ☀ I-16-1
+shop/group/ki_27_group;☀ 九七式戰 / 一式戰鬥機三型
+shop/group/i-16_china_group;忠28 / ☀ E-16-1
+shop/group/db_3_china_group;☀ D.B.3 / C.B. (M-103U)
+shop/group/p_40_china_group;☀ P-40E / 43
 shop/group/mig-9_china_group;␗ 米格9 / ␗ I-307
 shop/group/mig-15_china_group;␗ 米格15比斯 / 17
 shop/group/mig-19_china_group;J6A / 7II
@@ -15,18 +18,162 @@ shop/group/cn_type_59_69_group;L/ZTZ59 / 69
 shop/group/cn_ztz_88_group;L/ZTZ88B / A
 shop/group/cn_cm_ptz_group;CM25 / L/PTZ89
 shop/group/cn_ptl_aft_group;L/PTL02 / L/AFT09
-shop/group/cn_ztz_99_group;L/ZTZ99 (1期) / (2期)
+shop/group/cn_ztz_99_group;L/ZTZ99 (一期) / (二期)
 shop/group/cn_tor_hq_group;␗ 9А331 / L/ADK17
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+gladiator_mk1_china_shop;鬥士Mk. I
+gladiator_mk1_china_0;Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」
+gladiator_mk1_china_1;鬥士Mk. I
+gladiator_mk1_china_2;鬥士
+ki-27_otsu_china_shop;☀ 九七式戰乙
+ki-27_otsu_china_0;☀ 中島飛行機 | 九七式戰鬥機乙
+ki-27_otsu_china_1;☀ 九七式戰乙
+ki-27_otsu_china_2;☀ 九七式戰
+ki_43_3_ko_shop;☀ 一式戰三型甲
+ki_43_3_ko_0;☀ 中島飛行機 / 立川飛行機 | 一式戰鬥機三型甲「隼」
+ki_43_3_ko_1;☀ 一式戰三型
+ki_43_3_ko_2;☀ 一式戰
+cw_21_shop;☀ C.W.21
+cw_21_0;☀ Curtiss-Wright Corporation Model 21 | C.W.21驅逐機
+cw_21_1;☀ C.W.21
+cw_21_2;☀ C.W.21
+i-15bis_china_shop;☀ E-15比斯
+i-15bis_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-15比斯型驅逐機"
+i-15bis_china_1;☀ E-15比斯
+i-15bis_china_2;☀ E-15
+i-16_type5_1935_china_shop;☀ E-16-5
+i-16_type5_1935_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-5型驅逐機"
+i-16_type5_1935_china_1;☀ E-16-5
+i-16_type5_1935_china_2;☀ E-16
+i-16_type10_china_shop;☀ E-16-10
+i-16_type10_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-10型驅逐機"
+i-16_type10_china_1;☀ E-16-10
+i-16_type10_china_2;☀ E-16
+i-16_type17_china_shop;☀ E-16-17
+i-16_type17_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-17型驅逐機"
+i-16_type17_china_1;☀ E-16-17
+i-16_type17_china_2;☀ E-16
 i-16_chung_28_shop;忠28甲
-i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央南昌飛機製造廠 | 忠28甲"
+i-16_chung_28_0;"Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機"
 i-16_chung_28_1;忠28甲
 i-16_chung_28_2;忠28
+i-153_m62_china_shop;☀ E-153
+i-153_m62_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-153驅逐機"
+i-153_m62_china_1;☀ E-153
+i-153_m62_china_2;☀ E-153
+hs-123a-1_china_shop;☀ Hs 123 A-1
+hs-123a-1_china_0;☀ Henschel Flugzeug-Werke | Hs 123 A-1型轟炸機「恆機」
+hs-123a-1_china_1;☀ Hs 123 A
+hs-123a-1_china_2;☀ Hs 123
+v_11g_shop;☀ V-11-G
+v_11g_0;☀ Vultee Aircraft V-11-G | V-11-G型轟炸機
+v_11g_1;☀ V-11-G
+v_11g_2;☀ V-11
+v_12d_shop;☀ V-12-D
+v_12d_0;☀ Vultee Aircraft V-12-D | V-12-D型轟炸機
+v_12d_1;☀ V-12-D
+v_12d_2;☀ V-12
+martin_139wc_shop;☀ 馬丁139
+martin_139wc_0;☀ Glenn L. Martin Company Model 139WC | 馬丁139轟炸機
+martin_139wc_1;☀ 馬丁139
+martin_139wc_2;☀ 馬丁139
+hawk_iii_shop;☀ 霍克III
+hawk_iii_0;☀ Curtiss-Wright Corporation Hawk Model 68C / 中央飛機製造廠 | 霍克III驅逐機
+hawk_iii_1;☀ 霍克III
+hawk_iii_2;☀ 霍克III
+d_510c_shop;☀ D.510C
+d_510c_0;☀ Constructions Aéronautiques Émile Dewoitine | D.510C型驅逐機「地機」
+d_510c_1;☀ D.510C
+d_510c_2;☀ D.510
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+p-66_shop;P-48-C
+p-66_0;Vultee Aircraft V-48-C | P-48-C型驅逐機「前鋒」
+p-66_1;P-48-C
+p-66_2;P-48
+p-43a-1_china_shop;☀ P-43
+p-43a-1_china_0;☀ Republic Aviation Corporation AP-4A | P-43驅逐機
+p-43a-1_china_1;☀ P-43
+p-43a-1_china_2;☀ P-43
+p-40e_china_shop;☀ P-40E-CU
+p-40e_china_0;☀ Curtiss-Wright Corporation Hawk Model 87B-2 | P-40E-CU型驅逐機
+p-40e_china_1;☀ P-40E
+p-40e_china_2;☀ P-40
+a_29_hudson_shop;☀ A-29-LO
+a_29_hudson_0;☀ Lockheed Corporation Model 414 | A-29-LO轟炸機
+a_29_hudson_1;☀ A-29
+a_29_hudson_2;☀ A-29
+db_3a_china_shop;☀ D.B.3
+db_3a_china_0;☀ Opytno-konstruktorskoye bûro № 39 | D.B.3轟炸機
+db_3a_china_1;☀ D.B.3
+db_3a_china_2;☀ D.B.3
+sb_2m_103u_china_shop;☀ C.B. (M-103U)
+sb_2m_103u_china_0;☀ Opytno-konstruktorskoye bûro № 156 | C.B.轟炸機 (M-103U)
+sb_2m_103u_china_1;☀ C.B.
+sb_2m_103u_china_2;☀ C.B.
+p1y1_mod11_china_shop;☀ 銀河一一型
+p1y1_mod11_china_0;☀ 中島飛行機 | 銀河一一型轟炸機
+p1y1_mod11_china_1;☀ 銀河一一型
+p1y1_mod11_china_2;☀ 銀河
+p-40c_china_shop;☀ 霍克81A-3
+p-40c_china_0;☀ Curtiss-Wright Corporation Hawk Model 81A-3 / 中央飛機製造廠 | 霍克81A-3型驅逐機
+p-40c_china_1;☀ 霍克81A
+p-40c_china_2;☀ 霍克81
+ki-45_hei_tei_china_shop;☀ 二式雙座戰丙 (丁)
+ki-45_hei_tei_china_0;☀ 川崎航空機工業 | 二式雙座戰鬥機丙「屠龍」(丁装備)
+ki-45_hei_tei_china_1;☀ 二式雙座戰丙
+ki-45_hei_tei_china_2;☀ 二式雙座戰
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+p-47d_23_ra_china_rocaf_shop;☀ P-47D-23-RA
+p-47d_23_ra_china_rocaf_0;☀ Republic Aviation Corporation AP-10 | P-47D-23-RA型驅逐機
+p-47d_23_ra_china_rocaf_1;☀ P-47D
+p-47d_23_ra_china_rocaf_2;☀ P-47
+p-47d_30_china_shop;☀ F-47D-30-RE
+p-47d_30_china_0;☀ Republic Aviation Corporation AP-10 | F-47D-30-RE型驅逐機
+p-47d_30_china_1;☀ F-47D
+p-47d_30_china_2;☀ F-47
+f_47n_25_re_china_shop;☀ F-47N-25-RE
+f_47n_25_re_china_0;☀ Republic Aviation Corporation AP-10 | F-47N-25-RE型驅逐機
+f_47n_25_re_china_1;☀ F-47N
+f_47n_25_re_china_2;☀ F-47
+p-51d-20_china_shop;☀ F-51D-20-NA
+p-51d-20_china_0;☀ North American Aviation NA-111 | F-51D-20-NA型驅逐機「野馬機」
+p-51d-20_china_1;☀ F-51D
+p-51d-20_china_2;☀ F-51
+p-51k_shop;☀ F-51K-15-NT
+p-51k_0;☀ North American Aviation NA-111 | F-51K-15-NT型驅逐機「野馬機」
+p-51k_1;☀ F-51K
+p-51k_2;☀ F-51
+p-51c-11-nt_china_shop;☀ P-51C-11-NT
+p-51c-11-nt_china_0;☀ North American Aviation NA-103 | P-51C-11-NT型驅逐機「野馬機」«Evalina»
+p-51c-11-nt_china_1;☀ P-51C
+p-51c-11-nt_china_2;☀ P-51
+ki_44_2_hei_china_shop;☀ 二式戰二型丙
+ki_44_2_hei_china_0;☀ 中島飛行機 | 二式戰鬥機二型丙「鍾馗」
+ki_44_2_hei_china_1;☀ 二式戰二型
+ki_44_2_hei_china_2;☀ 二式戰
+ki_61_1a_otsu_china_shop;☀ 三式戰一型乙
+ki_61_1a_otsu_china_0;☀ 川崎航空機工業 | 三式戰鬥機一型乙「飛燕」
+ki_61_1a_otsu_china_1;☀ 三式戰一型
+ki_61_1a_otsu_china_2;☀ 三式戰
+mosquito_fb_mk26_china_shop;FB-26
+mosquito_fb_mk26_china_0;de Havilland Aircraft Company DH.98 | FB-26轟炸機
+mosquito_fb_mk26_china_1;FB-26
+mosquito_fb_mk26_china_2;FB-26
+p-38l_1_china_rocaf_shop;☀ P-38L-1-LO
+p-38l_1_china_rocaf_0;☀ Lockheed Corporation | P-38L-1-LO型驅逐機「雙身機」
+p-38l_1_china_rocaf_1;☀ P-38L
+p-38l_1_china_rocaf_2;☀ P-38
+b_25j_30_china_shop;☀ B-25J-30-NC
+b_25j_30_china_0;☀ North American Aviation NA-108 | B-25J-30-NC型轟炸機
+b_25j_30_china_1;☀ B-25J
+b_25j_30_china_2;☀ B-25
+a6m2_zero_china_shop;☀ 〇式戰二一型
+a6m2_zero_china_0;☀ 三菱重工業 | 〇式戰鬥機二一型「零」
+a6m2_zero_china_1;☀ 〇式戰二一型
+a6m2_zero_china_2;☀ 〇式戰
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 la-11_china_shop;␗ 拉11
@@ -41,12 +188,28 @@ il-10_1946_china_shop;␗ 伊尔10 (1947)
 il-10_1946_china_0;␗ Opytno-konstruktorskoye bûro № 39 | 伊尔10型飞机 (1947)
 il-10_1946_china_1;␗ 伊尔10
 il-10_1946_china_2;␗ 伊尔10
-tu-2_postwar_china_shop;␗ 杜2С-44
-tu-2_postwar_china_0;␗ Czyentral'noye konstruktorskoye bûro № 29 | 杜2С серии 44型飞机
-tu-2_postwar_china_1;␗ 杜2С
+pb4y-2_china_shop;☀ P4Y-2
+pb4y-2_china_0;☀ Consolidated Aircraft Corporation | P4Y-2型巡邏機
+pb4y-2_china_1;☀ P4Y-2
+pb4y-2_china_2;☀ P4Y
+tu-2_postwar_china_shop;␗ 杜2S-44
+tu-2_postwar_china_0;␗ Czyentral'noye konstruktorskoye bûro № 29 | 杜2S серии 44型飞机
+tu-2_postwar_china_1;␗ 杜2S
 tu-2_postwar_china_2;␗ 杜2
+ki_84_ko_china_shop;☀ 四式戰一型甲
+ki_84_ko_china_0;☀ 中島飛行機 | 四式戰鬥機一型甲「疾風」
+ki_84_ko_china_1;☀ 四式戰一型
+ki_84_ko_china_2;☀ 四式戰
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+f-86f-30_china_shop;☀ F-86F-30-NA
+f-86f-30_china_0;☀ North American Aviation NA-191 | F-86F-30-NA型戰鬥機「軍刀機」
+f-86f-30_china_1;☀ F-86F
+f-86f-30_china_2;☀ F-86
+f-86f-40_china_shop;☀ F-86F-40-NA
+f-86f-40_china_0;☀ North American Aviation NA-227 | F-86F-40-NA型戰鬥機「軍刀機」
+f-86f-40_china_1;☀ F-86F
+f-86f-40_china_2;☀ F-86
 mig-9_china_shop;␗ 米格9
 mig-9_china_0;␗ Opytno-konstruktorskoye bûro № 155 | 米格9型飞机
 mig-9_china_1;␗ 米格9
@@ -63,6 +226,14 @@ mig-17_china_shop;␗ 米格17
 mig-17_china_0;␗ Opytno-konstruktorskoye bûro № 155 | 米格17型飞机
 mig-17_china_1;␗ 米格17
 mig-17_china_2;␗ 米格17
+f-84g_china_shop;☀ F-84G-21-RE
+f-84g_china_0;☀ Republic Aviation Corporation AP-23 | F-84G-21-RE型戰鬥機「雷霆式」
+f-84g_china_1;☀ F-84G
+f-84g_china_2;☀ F-84
+f-84g-31-re_china_shop;☀ F-84G-31-RE
+f-84g-31-re_china_0;☀ Republic Aviation Corporation AP-23 | F-84G-31-RE型戰鬥機「雷霆式」
+f-84g-31-re_china_1;☀ F-84G
+f-84g-31-re_china_2;☀ F-84
 tu_4_china_shop;␗ 杜4
 tu_4_china_0;␗ Opytno-konstruktorskoye bûro № 156 | 杜4型飞机
 tu_4_china_1;␗ 杜4
@@ -73,6 +244,22 @@ il_28_china_1;␗ 伊尔28
 il_28_china_2;␗ 伊尔28
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-100a_china_shop;☀ F-100A-16-NA
+f-100a_china_0;☀ North American Aviation NA-192 | F-100A-16-NA型戰鬥機「超級軍刀機」
+f-100a_china_1;☀ F-100A
+f-100a_china_2;☀ F-100
+f_100f_china_shop;☀ F-100F-6-NA
+f_100f_china_0;☀ North American Aviation NA-243 | F-100F-6-NA型戰鬥機「超級軍刀機」
+f_100f_china_1;☀ F-100F
+f_100f_china_2;☀ F-100
+f-104a_china_shop;☀ F-104A-25-LO
+f-104a_china_0;☀ Lockheed Corporation | F-104A-25-LO型戰鬥機「星式戰鬥機」
+f-104a_china_1;☀ F-104A
+f-104a_china_2;☀ F-104
+f-104g_china_shop;☀ F-104G-10-LO
+f-104g_china_0;☀ Lockheed Corporation | F-104G-10-LO型戰鬥機「星式戰鬥機」
+f-104g_china_1;☀ F-104G
+f-104g_china_2;☀ F-104
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | J6A型飞机
 mig-19j_6a_1;J6A
@@ -101,8 +288,20 @@ q_5l_shop;K/JQ5L
 q_5l_0;昌飞机制造公司 | K/JQ5L型飞机
 q_5l_1;K/JQ5L
 q_5l_2;K/JQ5
+mig-17_f5_shop;▆ F5
+mig-17_f5_0;▆ Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | F5型飞机
+mig-17_f5_1;▆ F5
+mig-17_f5_2;▆ F5
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-5a_china_shop;☀ F-5A-25-NO
+f-5a_china_0;☀ Northrop Corporation N-156F | F-5A-25-NO型戰鬥機
+f-5a_china_1;☀ F-5A
+f-5a_china_2;☀ F-5
+f-5e_aidc_shop;☀ F-5E
+f-5e_aidc_0;☀ Northrop Corporation F-5-21 / 漢翔航空工業 | F-5E型中正號戰鬥機
+f-5e_aidc_1;☀ F-5E
+f-5e_aidc_2;☀ F-5
 j_8b_shop;K/JJ8B
 j_8b_0;沈阳飞机工业 (集团) | K/JJ8B型飞机
 j_8b_1;K/JJ8B
@@ -117,14 +316,18 @@ j_8f_missile_test_1;K/JJ8F
 j_8f_missile_test_2;K/JJ8
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_20_mlu_shop;☀ F-16A-20-CF
+f_16a_block_20_mlu_0;☀ Lockheed Martin Corporation | F-16A-20-CF型戰鬥機
+f_16a_block_20_mlu_1;☀ F-16A
+f_16a_block_20_mlu_2;☀ F-16
 j_10a_shop;K/JJ10A
 j_10a_0;"成都飞机工业 (集团) | K/JJ10A型飞机 ""猛龙"""
 j_10a_1;K/JJ10A
 j_10a_2;K/JJ10
-mirage_2000_5ei_shop;幻象2000-5
-mirage_2000_5ei_0;Dassault Aviation | 幻象2000-5型戰機
-mirage_2000_5ei_1;幻象2000-5
-mirage_2000_5ei_2;幻象2000
+mirage_2000_5ei_shop;M-2000-5
+mirage_2000_5ei_0;Dassault Aviation | M-2000-5型戰鬥機
+mirage_2000_5ei_1;M-2000-5
+mirage_2000_5ei_2;M-2000
 j_11_shop;K/JJ11
 j_11_0;"PAO Kompaniâ Sukhoj / 沈阳飞机工业 (集团) | K/JJ11型飞机 ""应龙"""
 j_11_1;K/JJ11
@@ -165,6 +368,10 @@ z_19e_shop;Z19E
 z_19e_0;哈尔滨飞机工业 (集团) | Z19E型武装直升机
 z_19e_1;Z19E
 z_19e_2;Z19
+oh_58d_china_shop;☀ OH-58D
+oh_58d_china_0;☀ Bell Helicopter Textron Model 406 | OH-58D戰搜直升機
+oh_58d_china_1;☀ OH-58D
+oh_58d_china_2;☀ OH-58
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 z_10_shop;L/Z10
@@ -193,21 +400,21 @@ cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
 cn_t_26_no531_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | 特26轻型戰車 (1937) (第200师)
 cn_t_26_no531_1;☀ 特26
 cn_t_26_no531_2;Light Tank
-cn_type_97_chi_ha_shop;☀ 97式
-cn_type_97_chi_ha_0;☀ 三菱重工業 | 97式中型戰車
-cn_type_97_chi_ha_1;☀ 97式
+cn_type_97_chi_ha_shop;☀ 九七式
+cn_type_97_chi_ha_0;☀ 三菱重工業 | 九七式中型戰車
+cn_type_97_chi_ha_1;☀ 九七式
 cn_type_97_chi_ha_2;Medium Tank
-cn_type_97_kai_shop;☀ 97式改
-cn_type_97_kai_0;☀ 三菱重工業 | 97式改中型戰車
-cn_type_97_kai_1;☀ 97式改
+cn_type_97_kai_shop;☀ 九七式 (一式)
+cn_type_97_kai_0;☀ 三菱重工業 | 九七式中型戰車 (一式四七毫米戰車砲)
+cn_type_97_kai_1;☀ 九七式
 cn_type_97_kai_2;Medium Tank
-cn_sdkfz_222_early_shop;豪须式4.5吨
-cn_sdkfz_222_early_0;Eisenwerk Weserhütte | 豪须式4.5吨装甲車
+cn_sdkfz_222_early_shop;豪须式四點五吨
+cn_sdkfz_222_early_0;Eisenwerk Weserhütte | 豪须式四點五吨装甲車
 cn_sdkfz_222_early_1;豪须
 cn_sdkfz_222_early_2;SPAAG
-cn_m8_scott_shop;☀ 8式
-cn_m8_scott_0;☀ United States Army Ordnance Department | 8式75炮战車
-cn_m8_scott_1;☀ 8式
+cn_m8_scott_shop;☀ 八式
+cn_m8_scott_0;☀ United States Army Ordnance Department | 八式七五砲戰車
+cn_m8_scott_1;☀ 八式
 cn_m8_scott_2;Medium Tank
 cn_su_76m_1943_shop;␗ SU-76
 cn_su_76m_1943_0;␗ Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76自行火砲
@@ -223,29 +430,29 @@ cn_m5a1_stuart_shop;☀ M5A1
 cn_m5a1_stuart_0;☀ United States Army Ordnance Department | M5A1轻型戰車
 cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;Light Tank
-cn_m3a3_stuart_shop;☀ M3A3 (第1临战团)
-cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (第1临时战车团)
-cn_m3a3_stuart_1;☀ M3A3
-cn_m3a3_stuart_2;Light Tank
+cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (第一临战团)
+cn_m3a3_stuart_1st_ptg_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (第一临时战车团)
+cn_m3a3_stuart_1st_ptg_1;☀ M3A3
+cn_m3a3_stuart_1st_ptg_2;Light Tank
 cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24轻型戰車
+cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24戰車
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light Tank
 cn_m4a4_sherman_shop;☀ M4A4
 cn_m4a4_sherman_0;☀ United States Army Ordnance Department | M4A4中型戰車
 cn_m4a4_sherman_1;☀ M4A4
 cn_m4a4_sherman_2;Medium Tank
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第1临战团)
-cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4中型戰車 (第1临时战车团)
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第一临战团)
+cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4中型戰車 (第一临时战车团)
 cn_m4a4_sherman_1st_ptg_1;☀ M4A4
 cn_m4a4_sherman_1st_ptg_2;Medium Tank
 cn_m4a1_76w_sherman_shop;☀ M4A1
 cn_m4a1_76w_sherman_0;☀ United States Army Ordnance Department | M4A1中型戰車
 cn_m4a1_76w_sherman_1;☀ M4A1
 cn_m4a1_76w_sherman_2;Medium Tank
-cn_gmc_cckw_353_m45_quad_shop;季姆西10輪 (M45C)
-cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | 季姆西10輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
-cn_gmc_cckw_353_m45_quad_1;季姆西10輪 (M45C)
+cn_gmc_cckw_353_m45_quad_shop;季姆西十輪 (M45C)
+cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | 季姆西十輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
+cn_gmc_cckw_353_m45_quad_1;季姆西十輪 (M45C)
 cn_gmc_cckw_353_m45_quad_2;SPAAG
 cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
 cn_lvt_4_zis_2_0;␗ Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)
@@ -261,8 +468,8 @@ cn_m10_1;☀ M10
 cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-cn_object_211_shop;211 (prototype No. 4) (L/ZPL63)
-cn_object_211_0;西南车辆制造厂 | 211 (prototype No. 4) (L/ZPL1963式85毫米坦克炮)
+cn_object_211_shop;211 (4号) (L/ZPL63)
+cn_object_211_0;西南车辆制造厂 | 211 (样车4号) (L/ZPL1963式85毫米坦克炮)
 cn_object_211_1;211
 cn_object_211_2;Light tank
 cn_t_34_1942_shop;␗ 特34 (1942)
@@ -289,6 +496,14 @@ cn_isu_152_shop;␗ ISU-152
 cn_isu_152_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152自行火砲
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
+cn_m41_a3_walker_bulldog_shop;☀ M41A3
+cn_m41_a3_walker_bulldog_0;☀ Cadillac Motor Car Division | M41A3戰車「華克猛犬」
+cn_m41_a3_walker_bulldog_1;☀ M41A3
+cn_m41_a3_walker_bulldog_2;Light Tank
+cn_m_41d_shop;☀ M41D
+cn_m_41d_0;☀ Cadillac Motor Car Division / 陆军兵工整备发展中心 | M41D戰車「華克猛犬」
+cn_m_41d_1;☀ M41D
+cn_m_41d_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_63_I_shop;L/ZTS63
@@ -339,16 +554,24 @@ cn_plz_83_shop;L/PLZ83
 cn_plz_83_0;中国兵器工业集团有限公司 | L/PLZ1983式152毫米自行加榴炮
 cn_plz_83_1;L/PLZ83
 cn_plz_83_2;SPH
-cn_type_64_shop;64式
-cn_type_64_0;陆军供应司令部兵工署 | 64式輕戰車
-cn_type_64_1;64式
+cn_type_64_shop;六四式
+cn_type_64_0;陆军供应司令部兵工署 | 六四式戰車
+cn_type_64_1;六四式
 cn_type_64_2;Light Tank
+cn_wz_141_shop;141 (1号)
+cn_wz_141_0;141超轻型反坦克战车 (样车1号)
+cn_wz_141_1;141
+cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 cn_type_86_shop;L/ZBD86 (2020)
 cn_type_86_0;Čyelâbinskij traktornyj zavod im. V. I. Lyenina / 中国兵器工业集团有限公司 | WZ501 | L/ZBD1986式履带步兵战车 (2020)
 cn_type_86_1;L/ZBD86
 cn_type_86_2;IFV
+cn_m48a1_patton_III_shop;☀ M48A1
+cn_m48a1_patton_III_0;☀ Chrysler Defense Engineering | M48A1戰車
+cn_m48a1_patton_III_1;☀ M48A1
+cn_m48a1_patton_III_2;MBT
 cn_type_59_shop;L/ZTZ59
 cn_type_59_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalinа / 内蒙古第一机械制造厂 | WZ120 | L/ZTZ1959式中型坦克
 cn_type_59_1;L/ZTZ59
@@ -367,7 +590,7 @@ cn_type_69_1;L/ZTZ69
 cn_type_69_2;Medium Tank
 cn_type_69_2a_shop;Type 69-IIA
 cn_type_69_2a_0;中国兵器工业集团有限公司 Type 69-IIA Main Battle Tank | BW121A
-cn_type_69_2a_1;Type 69-II
+cn_type_69_2a_1;Type 69-IIA
 cn_type_69_2a_2;Medium Tank
 cn_wz_305_shop;L/PGZ80
 cn_wz_305_0;中国兵器工业集团有限公司 | WZ305 | L/PGZ1980式双57毫米自行高炮
@@ -377,12 +600,24 @@ cn_plz_05_shop;L/PLZ05
 cn_plz_05_0;中国兵器工业集团有限公司 | L/PLZ2005式155毫米自行加榴炮
 cn_plz_05_1;L/PLZ05
 cn_plz_05_2;SPH
+cn_m113a1_tow_shop;☀ M113A1 (M233)
+cn_m113a1_tow_0;☀ FMC Corporation | M113A1戰甲車 (Launcher, Tubular, Guided Missile, M233)
+cn_m113a1_tow_1;☀ M113A1
+cn_m113a1_tow_2;ATMC
 cn_plz_83_130_shop;130 mm SP GH
 cn_plz_83_130_0;中国兵器工业集团有限公司 130 mm Self-Propelled Gun-Howitzer
 cn_plz_83_130_1;130 mm SP GH
 cn_plz_83_130_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_m60a3_tts_shop;☀ M60A3
+cn_m60a3_tts_0;☀ Chrysler Defense Engineering | M60A3戰車
+cn_m60a3_tts_1;☀ M60A3
+cn_m60a3_tts_2;MBT
+cn_cm11_shop;CM11
+cn_cm11_0;Chrysler Defense Engineering / 陆军兵工整备发展中心 | CM11戰車「勇虎」
+cn_cm11_1;CM11
+cn_cm11_2;MBT
 cn_ztz_88b_shop;L/ZTZ88B
 cn_ztz_88b_0;中国兵器工业集团有限公司 | WZ122E | L/ZTZ1988B式主战坦克
 cn_ztz_88b_1;L/ZTZ88B
@@ -399,20 +634,24 @@ cn_ztz_96a_shop;L/ZTZ96A
 cn_ztz_96a_0;中国兵器工业集团有限公司 | WZ122R | L/ZTZ1996A式主战坦克
 cn_ztz_96a_1;L/ZTZ96A
 cn_ztz_96a_2;MBT
-cn_ztz_96a_prot_shop;WZ122R (prototype No. 2)
-cn_ztz_96a_prot_0;中国兵器工业集团有限公司 | WZ122R (prototype No. 2)
+cn_ztz_96a_prot_shop;WZ122R (2号)
+cn_ztz_96a_prot_0;中国兵器工业集团有限公司 | WZ122R (样车2号)
 cn_ztz_96a_prot_1;WZ122R
 cn_ztz_96a_prot_2;MBT
 cn_pgz_09_shop;L/PGZ09
 cn_pgz_09_0;中国兵器工业集团有限公司 | L/PGZ2009式双35毫米自行高炮
 cn_pgz_09_1;L/PGZ09
 cn_pgz_09_2;SPAAG
+cn_cm_25_shop;CM25
+cn_cm_25_0;陆军兵工整备发展中心 | CM25拖式飛彈車
+cn_cm_25_1;CM25
+cn_cm_25_2;ATMC
 cn_ptz_89_shop;L/PTZ89
-cn_ptz_89_0;中国兵器工业集团有限公司 | WZ371 | L/PTZ1989式120毫米自行反坦克炮
+cn_ptz_89_0;中国兵器工业集团有限公司 | WA371 | L/PTZ1989式120毫米自行反坦克炮
 cn_ptz_89_1;L/PTZ89
 cn_ptz_89_2;SPG
 cn_ptl_02_shop;L/PTL02
-cn_ptl_02_0;中国兵器工业集团有限公司 | WZ301 | L/PTL2002式100毫米轮式自行突击炮
+cn_ptl_02_0;中国兵器工业集团有限公司 | WA301 | L/PTL2002式100毫米轮式自行突击炮
 cn_ptl_02_1;L/PTL02
 cn_ptl_02_2;Light Tank
 cn_hj_9_shop;L/AFT09
@@ -433,12 +672,12 @@ cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;中国兵器工业集团有限公司 | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
-cn_ztz_99_shop;L/ZTZ99 (1期)
-cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (1期)
+cn_ztz_99_shop;L/ZTZ99 (一期)
+cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (一期)
 cn_ztz_99_1;L/ZTZ99
 cn_ztz_99_2;MBT
-cn_ztz_99_w_shop;L/ZTZ99 (2期)
-cn_ztz_99_w_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (2期)
+cn_ztz_99_w_shop;L/ZTZ99 (二期)
+cn_ztz_99_w_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (二期)
 cn_ztz_99_w_1;L/ZTZ99
 cn_ztz_99_w_2;MBT
 cn_ztz_99a_shop;L/ZTZ99A
@@ -449,9 +688,9 @@ cn_pgz_04a_shop;L/PGZ04A
 cn_pgz_04a_0;中国兵器工业集团有限公司 | WA717A | L/PGZ2004A式四管25毫米履带自行高炮
 cn_pgz_04a_1;L/PGZ04A
 cn_pgz_04a_2;SPAAG/M
-cn_antelope_tc_1l_ads_shop;劍1防飛系
-cn_antelope_tc_1l_ads_0;國家中山科學研究院 | 車載劍1防空飛彈系統
-cn_antelope_tc_1l_ads_1;劍1防飛系
+cn_antelope_tc_1l_ads_shop;劍一防飛系
+cn_antelope_tc_1l_ads_0;國家中山科學研究院 | 車載劍一防空飛彈系統
+cn_antelope_tc_1l_ads_1;劍一防飛系
 cn_antelope_tc_1l_ads_2;SPAAM
 cn_zbd_04a_shop;L/ZBD04A
 cn_zbd_04a_0;中国兵器工业集团有限公司 | WZ502G | L/ZBD2004A式履带步兵战车

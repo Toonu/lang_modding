@@ -1,4 +1,5 @@
 <ID|readonly|noverify>;<English>
-shop/group/us_sl_amraam_fcs_group;CLAWS
-shop/group/germ_iris_slm_fcs_group;IRIS-T SLM
-shop/group/jp_type_81_tansam_fcs_group;Tan-SAM Kai
+germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_0;Mackensen-class, Mackensen, project
+germ_battlecruiser_mackensen_class_1;Mackensen
+germ_battlecruiser_mackensen_class_2;Battlecruiser

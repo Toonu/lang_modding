@@ -1,15 +1,4 @@
 <ID|readonly|noverify>;<English>
-modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;Allows the installation of 500 lb bombs and GBU-38 / 62 JDAM guided bombs.
-modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk82/GBU-38/62
-modification/us_1000lb_mk83_us_2000lb_mk84/desc;Allows the installation of 1000 lb bombs and 2000 lb bombs.
-modification/us_1000lb_mk83_us_2000lb_mk84;Mk83/Mk84
-modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;Allows the installation of 2000 lb bombs and GBU-31 / 64 JDAM guided bombs.
-modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk84/GBU-31/64
-modification/il_spice_2000_gbu31_jdam/desc;Allows the installation of GBU-31/64 JDAM and SPICE 2000 guided bombs.
-modification/il_spice_2000_gbu31_jdam;SPICE 2000/GBU-31/64
-modification/il_spice_1000/desc;Allows the installation of SPICE 1000 guided bombs.
-modification/il_spice_1000;SPICE 1000
-modification/us_sniper_pod/desc;Allows the installation of a SNIPER ATP laser/electro-optical targeting pod.
-modification/us_sniper_pod;SNIPER ATP
-modification/pk3_gunpod;Gun pod PK-3
-modification/pk3_gunpod/desc;Allows the installation of gun pods PK-3.
+modification/score_multiprier_with_uav;When your reconnaissance UAV is in the air, SP decrease {scoreMulWithUav} {scoreMulWithUav=time/times} slower
+modification/350mm_germ_skl_45_navy_apcbc;350-mm Psgr. L/3,6 APCBC
+modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;350-mm Psgr. L/3,6 APCBC

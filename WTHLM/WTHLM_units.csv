@@ -1220,7 +1220,7 @@ shop/group/us_t32_group;T32 / 32E1
 shop/group/us_abrams_group;M1A1 / 1IP
 shop/group/us_abrams_a2_group;M1A2 / A2 SEP
 shop/group/us_m36_group;M36 / 36B2
-shop/group/us_kit_3rank_group;""Hell on Wheels""
+shop/group/us_kit_3rank_group;"""Hell on Wheels"""
 shop/group/us_m46_m47_group;M46 / 47
 shop/group/us_mbt_xm_group;XM803 / MBT70
 shop/group/us_m48_m60_group;M48 / 60
@@ -1282,7 +1282,7 @@ shop/group/germ_pzkpfw_V_a_f_group;Panther A / G / F
 shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
-shop/group/germ_tiger_east_west_group;""Two Fronts""
+shop/group/germ_tiger_east_west_group;"""Two Fronts"""
 shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
@@ -1349,7 +1349,7 @@ shop/group/ussr_bmp_3_group;BMP-3 / 2S25
 shop/group/ussr_zis_su_group;ZiS-30 / SU-57B
 shop/group/ussr_su_isu_152_group;SU-152 (Mar 1943) / 85 / ISU-152
 shop/group/ussr_su_isu_122_group;SU-85M / ISU-122
-shop/group/ussr_kit_3rank_group;""In May 1945""
+shop/group/ussr_kit_3rank_group;"""In May 1945"""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
@@ -1402,7 +1402,7 @@ shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3
 shop/group/uk_ystervark_crusader_group;Ystervark / Crusader, Mk. III, A.A., Mk. II
-shop/group/uk_kit_3rank_group;""Echoes of Overlord""
+shop/group/uk_kit_3rank_group;Echoes of Overlord
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;G6-45 / Eland 90
@@ -1462,15 +1462,16 @@ shop/group/a6m5_group;A6M5 Otsu / Hei
 shop/group/ki_44_group;Ki 44-I / 61-I Kō
 shop/group/ki_61_late_group;Ki 61-I Tei / II Kai Kō
 shop/group/n1k2_group;N1K1-J Kō / 2-J / 2-J Kō
-shop/group/ki-43_group;Ki 43-I / II
+shop/group/ki-43_group;Ki 43-I Hei / II (late)
 shop/group/ki_49_1_group;Ki 49-I / II Kō
 shop/group/ki_49_2_group;Ki 49-II Otsu / Otsu (late)
-shop/group/ki_61_group;Ki 44-II / 61-I
+shop/group/ki_61_group;Ki 44-II Hei / 61-I Otsu
 shop/group/ki_67_group;Ki 67-I Kō / Otsu
 shop/group/ki_84_group;Ki 84-I Kō / Otsu
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (11 Gata) / (22 Gata) / (32 Gata)
 shop/group/f-86_japan_group;▅ F-86F-30 / 40
+shop/group/jp_cruiser_furutaka_aoba_group;Furutaka / Aoba
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / 5A1
 shop/group/cn_type_63_62_group;ZTS63 / ZTQ62
 shop/group/cn_zts_type_group;ZTS63 (1980) / ZBD86
@@ -1533,7 +1534,7 @@ shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B1 bis / 2C
 shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
-shop/group/fr_auf_acra_group;AMX 30 Au F1 / (T 142)
+shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
 shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
@@ -2661,14 +2662,18 @@ a_10c_shop;A-10C
 a_10c_0;"A-10C Thunderbolt II ""Warthog"""
 a_10c_1;A-10C
 a_10c_2;A-10
-f4d_1_shop;F-6A
-f4d_1_0;F-6A Skyray
-f4d_1_1;F-6A
-f4d_1_2;F-6
 f11f_1_late_shop;F11F-1
 f11f_1_late_0;F11F-1 Tiger
 f11f_1_late_1;F11F-1
 f11f_1_late_2;F11F
+f4d_1_shop;F-6A
+f4d_1_0;F-6A Skyray
+f4d_1_1;F-6A
+f4d_1_2;F-6
+f_106a_1972_shop;F-106A-100-CO (Polhemus)
+f_106a_1972_0;Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter) (Project Speedline) (Polhemus Helmet-Mounted Sight)
+f_106a_1972_1;F-106A
+f_106a_1972_2;F-106
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5e_shop;F-5E-3-NO
@@ -3044,7 +3049,7 @@ us_halftrack_m16_0;G-102 | Carriage, Motor, Multiple Gun, M16
 us_halftrack_m16_1;M16
 us_halftrack_m16_2;SPAA
 us_t77e1_shop;T77E1 MGMC
-us_t77e1_0;Carriage, Motor, Multiple Gun, T77E1
+us_t77e1_0;United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1
 us_t77e1_1;T77E1
 us_t77e1_2;SPAA
 us_m10_shop;M10 GMC
@@ -4866,11 +4871,11 @@ germ_flarakrad_0;Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1
 germ_flarakrad_1;FlaRakRad 1 Roland
 germ_flarakrad_2;SPAAM
 germ_iris_slm_fcs_shop;LV IRIS-T SLM (Radarfahrzeug)
-germ_iris_slm_fcs_0;Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)
+germ_iris_slm_fcs_0;Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)
 germ_iris_slm_fcs_1;LV IRIS-T SLM (Radarfahrzeug)
 germ_iris_slm_fcs_2;Radar
 germ_iris_slm_launcher_shop;LV IRIS-T SLM (Startfahrzeug)
-germ_iris_slm_launcher_0;Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)
+germ_iris_slm_launcher_0;Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)
 germ_iris_slm_launcher_1;LV IRIS-T SLM (Startfahrzeug)
 germ_iris_slm_launcher_2;SPAAM
 
@@ -4899,18 +4904,26 @@ germ_schutze_class_2;Minesweeper
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | großer Kreuzer Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 germ_battleship_scharnhorst_shop;Scharnhorst
-germ_battleship_scharnhorst_0;Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Klasse Scharnhorst | Scharnhorst (1943)
+germ_battleship_scharnhorst_0;Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)
 germ_battleship_scharnhorst_1;Scharnhorst
 germ_battleship_scharnhorst_2;Battlecruiser
 germ_battleship_gneisenau_380mm_shop;Gneisenau
-germ_battleship_gneisenau_380mm_0;Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)
+germ_battleship_gneisenau_380mm_0;Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)
 germ_battleship_gneisenau_380mm_1;Gneisenau
 germ_battleship_gneisenau_380mm_2;Battlecruiser
+germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_0;Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen
+germ_battlecruiser_mackensen_class_1;Mackensen
+germ_battlecruiser_mackensen_class_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 germ_battleship_bismarck_shop;Bismarck
-germ_battleship_bismarck_0;Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck
+germ_battleship_bismarck_0;Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck
 germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
@@ -5004,7 +5017,7 @@ ussr_t_80um2_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;T-72B3A
-ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob""yekt 184-5 | T-72B3A obr. 2024 g."
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob""yekt 184-5 | T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
 
@@ -5073,9 +5086,9 @@ boomerang_mkii_2;Boomerang
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
-marut_mk1_shop;Mārut Mk. 1
-marut_mk1_0;Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Mārut Mk. 1
-marut_mk1_1;Mārut Mk. 1
+marut_mk1_shop;Mārut Mk I
+marut_mk1_0;Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Mārut Mk I
+marut_mk1_1;Mārut Mk I
 marut_mk1_2;Mārut
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
@@ -5566,11 +5579,11 @@ ki_44_1_ep_0;"Nakajima Hikōki | 2 Shiki Sentōki 1 Gata | Ki 44-I ""Shōki"" (D
 ki_44_1_ep_1;Ki 44-I
 ki_44_1_ep_2;Ki 44
 ki_44_2_otsu_shop;Ki 44-II Otsu
-ki_44_2_otsu_0;"Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Otsu | Ki 44-II Otsu ""Shōki"""
+ki_44_2_otsu_0;"Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Otsu ""Shōki"""
 ki_44_2_otsu_1;Ki 44-II
 ki_44_2_otsu_2;Ki 44
 ki_44_2_hei_shop;Ki 44-II Hei
-ki_44_2_hei_0;"Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Hei | Ki 44-II Hei ""Shōki"""
+ki_44_2_hei_0;"Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei ""Shōki"""
 ki_44_2_hei_1;Ki 44-II
 ki_44_2_hei_2;Ki 44
 ki_61_1a_ko_shop;Ki 61-I Kō
@@ -5602,7 +5615,7 @@ j1n1_mod11_early_0;Nakajima Hikōki | 13 Shi Sōhatsu Rikujō Sentōki | J1N1
 j1n1_mod11_early_1;J1N1
 j1n1_mod11_early_2;J1N
 ki_102_otsu_shop;Ki 102 Otsu
-ki_102_otsu_0;Kawasaki Kōkūki Kōgyō | 5 Shiki Sō | Ki 102 Otsu
+ki_102_otsu_0;Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu
 ki_102_otsu_1;Ki 102 Otsu
 ki_102_otsu_2;Ki 102
 d4y1_shop;D4Y1
@@ -5614,7 +5627,7 @@ d4y2_0;Aichi Kōkūki | Suisei 12 Gata | D4Y2
 d4y2_1;D4Y2
 d4y2_2;D4Y
 d4y3_shop;D4Y3 Kō
-d4y3_0;Aichi Kōkūki | Suisei 12 Gata Kō | D4Y3 Kō
+d4y3_0;Aichi Kōkūki | Suisei 33 Gata Kō | D4Y3 Kō
 d4y3_1;D4Y3
 d4y3_2;D4Y
 g4m1_shop;G4M1
@@ -5646,7 +5659,7 @@ ki-49_2b_late_0;"Nakajima Hikōki | 100 Shiki Jū Bakugekiki 2 Gata Otsu | Ki 49
 ki-49_2b_late_1;Ki 49-II
 ki-49_2b_late_2;Ki 49
 a7he1_shop;A7He1
-a7he1_0;Heinkel Flugzeugwerke | Inkeru 112 Gata Rikujō Sentōki | A7He1
+a7he1_0;Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
 ki_48_2_otsu_shop;Ki 48-II Otsu
@@ -5662,7 +5675,7 @@ bf-109e-3_japan_0;▅ Messerschmitt | Bf 109 E-7
 bf-109e-3_japan_1;▅ Bf 109 E
 bf-109e-3_japan_2;▅ Bf 109
 f4u-1a_japan_shop;▅ F4U-1A
-f4u-1a_japan_0;"▅ Vought-Sikorsky Aircraft V-166B | F4U-1A Korusea ""Shikorusukī"""
+f4u-1a_japan_0;"▅ Vought-Sikorsky Aircraft V-166B | F4U-1A ""Shikorusukī"""
 f4u-1a_japan_1;▅ F4U-1
 f4u-1a_japan_2;▅ F4U
 
@@ -5687,8 +5700,8 @@ j2m3_shop;J2M3
 j2m3_0;Mitsubishi Jū Kōgyō | Raiden 21 Gata | J2M3
 j2m3_1;J2M3
 j2m3_2;J2M
-j2m4_kai_shop;J2M4 (21 Kai Kō)
-j2m4_kai_0;Mitsubishi Jū Kōgyō / Dai 21 Kaigun Kōkūshō | Raiden 32 Gata | J2M4
+j2m4_kai_shop;J2M4 (21 Kai Kō Shō)
+j2m4_kai_0;Mitsubishi Jū Kōgyō / Dai 21 Kaigun Kōkū Shō | Raiden 32 Gata | J2M4
 j2m4_kai_1;J2M4
 j2m4_kai_2;J2M
 j2m5_shop;J2M5
@@ -5707,8 +5720,8 @@ p1y1_mod11_shop;P1Y1
 p1y1_mod11_0;Nakajima Hikōki | Ginga 11 Gata | P1Y1
 p1y1_mod11_1;P1Y1
 p1y1_mod11_2;P1Y
-b7a2_shop;B7A1 (Homare 12 Gata)
-b7a2_0;Aichi Kōkūki | Shisei Ryusei | B7A1 (Homare 12 Gata)
+b7a2_shop;B7A1 (NK9C)
+b7a2_0;Aichi Kōkūki | Shisei Ryusei | B7A1 (NK9C)
 b7a2_1;B7A1
 b7a2_2;B7A
 b7a2_homare_23_shop;B7A2
@@ -5731,10 +5744,10 @@ ki_67_1_otsu_shop;Ki 67-I Otsu
 ki_67_1_otsu_0;"Mitsubishi Jū Kōgyō | 4 Shiki Jū Bakugekiki 1 Gata Otsu | Ki 67-I Otsu ""Hiryū"""
 ki_67_1_otsu_1;Ki 67-I
 ki_67_1_otsu_2;Ki 67
-ki-96_otsu_shop;Ki 96
-ki-96_otsu_0;Ki 96
-ki-96_otsu_1;Ki 96
-ki-96_otsu_2;Ki 96
+ki-96_shop;Ki 96 (3 Gō)
+ki-96_0;Kawasaki Kōkūki Kōgyō | Ki 96 (Shisei 3 Gō)
+ki-96_1;Ki 96
+ki-96_2;Ki 96
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
@@ -5742,7 +5755,7 @@ a7m1_0;Mitsubishi Jū Kōgyō | 17 Shi Kō Kanjō Sentōki | Shisei Reppū | A7M
 a7m1_1;A7M1
 a7m1_2;A7M
 a7m2_shop;A7M2
-a7m2_0;Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M1
+a7m2_0;Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M2
 a7m2_1;A7M2
 a7m2_2;A7M
 ki_84_shop;Ki 84-I
@@ -5908,7 +5921,7 @@ jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
 jp_type_95_ha_go_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (late) (94 Shiki 37 Mirimētoru Sensha Hō)
 jp_type_95_ha_go_1;Ha Gō
 jp_type_95_ha_go_2;Light tank
-jp_type_95_ha_go_commander_shop;Ha Gō (late) (94 Shiki) (1 Sen Ren)
+jp_type_95_ha_go_commander_shop;Ha Gō (Shiki) (94 Shiki) (1 Sen Ren)
 jp_type_95_ha_go_commander_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō) (Dai 1 Sensha Rentai)
 jp_type_95_ha_go_commander_1;Ha Gō
 jp_type_95_ha_go_commander_2;Light tank
@@ -5928,12 +5941,12 @@ jp_type_97_chi_ha_shop;Chi Ha
 jp_type_97_chi_ha_0;Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha | Chi Ha
 jp_type_97_chi_ha_1;Chi Ha
 jp_type_97_chi_ha_2;Medium tank
-jp_type_97_kai_shop;Chi Ha Kai
-jp_type_97_kai_0;Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai
-jp_type_97_kai_1;Chi Ha Kai
+jp_type_97_kai_shop;Chi Ha (1 Shiki)
+jp_type_97_kai_0;Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha | Chi Ha (1 Shiki 47 Mirimētoru Sensha Hō)
+jp_type_97_kai_1;Chi Ha
 jp_type_97_kai_2;Medium tank
-jp_type_97_kai_td_shop;⋦ Chi Ha Kai
-jp_type_97_kai_td_0;⋦ Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai
+jp_type_97_kai_td_shop;⋦ Chi Ha (1 Shiki)
+jp_type_97_kai_td_0;⋦ Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha | Chi Ha (1 Shiki 47 Mirimētoru Sensha Hō)
 jp_type_97_kai_td_1;⋦ Chi Ha
 jp_type_97_kai_td_2;Medium tank
 jp_type_2_ho_i_shop;Ho I
@@ -5941,12 +5954,12 @@ jp_type_2_ho_i_0;Mitsubishi Jū Kōgyō | 2 Shiki Hō Sensha | Ho I
 jp_type_2_ho_i_1;Ho I
 jp_type_2_ho_i_2;Medium tank
 jp_type_4_ho_ro_shop;Ho Ro
-jp_type_4_ho_ro_0;Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Ji Hashihō | Ho Ro
+jp_type_4_ho_ro_0;Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Jisō Hō | Ho Ro
 jp_type_4_ho_ro_1;Ho Ro
 jp_type_4_ho_ro_2;SPG
-jp_hiro_sha_shop;Shi 12 Senchi Ji Hashi
-jp_hiro_sha_0;Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Ji Hashihō
-jp_hiro_sha_1;Shi 12 Senchi Ji Hashi
+jp_hiro_sha_shop;Shi 12 Senchi Ji Hō
+jp_hiro_sha_0;Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Jisō Hō
+jp_hiro_sha_1;Shi 12 Senchi Ji Hō
 jp_hiro_sha_2;SPG
 jp_type_94_shop;94 Shiki (98 Shiki)
 jp_type_94_0;Tōkyō Jidōsha Kōgyō | 94 Shiki 6 Rin Jidō Kasha (98 Shiki 20 Mirimētoru Kōsha Kikanhō)
@@ -5975,23 +5988,23 @@ jp_type_1_chi_he_5th_regiment_0;Mitsubishi Jū Kōgyō | 1 Shiki Chū Sensha | C
 jp_type_1_chi_he_5th_regiment_1;Chi He
 jp_type_1_chi_he_5th_regiment_2;Medium tank
 jp_type_3_ho_ni_I_shop;Ho Ni I
-jp_type_3_ho_ni_I_0;Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Ji Hashihō | Ho Ni I
+jp_type_3_ho_ni_I_0;Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Jisō Hō | Ho Ni I
 jp_type_3_ho_ni_I_1;Ho Ni I
 jp_type_3_ho_ni_I_2;SPG
 jp_type_3_ho_ni_III_shop;Ho Ni III
 jp_type_3_ho_ni_III_0;Rikugun Yasen Hōhei Gakkō | 3 Shiki Hō Sensha | Ho Ni III
 jp_type_3_ho_ni_III_1;Ho Ni III
 jp_type_3_ho_ni_III_2;SPG
-jp_navy_120mm_spg_shop;12 Senchi Ji Hashi
-jp_navy_120mm_spg_0;Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Ji Hashihō
-jp_navy_120mm_spg_1;12 Senchi Ji Hashi
+jp_navy_120mm_spg_shop;12 Senchi Ji Hō
+jp_navy_120mm_spg_0;Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Jisō Hō
+jp_navy_120mm_spg_1;12 Senchi Ji Hō
 jp_navy_120mm_spg_2;SPG
 jp_type_97_chi_ha_12cm_shop;12 Senchi Hō Sen
 jp_type_97_chi_ha_12cm_0;Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Hō Sensha
 jp_type_97_chi_ha_12cm_1;12 Senchi Hō Sen
 jp_type_97_chi_ha_12cm_2;Medium tank
 jp_halftrack_m16_shop;▅ M16
-jp_halftrack_m16_0;▅ White Motor Company | M16 Ji Hashi Kōsha Kikan Hō
+jp_halftrack_m16_0;▅ White Motor Company | M16 Jisō Kōsha Kikan Hō
 jp_halftrack_m16_1;▅ M16
 jp_halftrack_m16_2;SPAA
 jp_type_95_so_ki_shop;So Ki
@@ -6012,8 +6025,8 @@ jp_type_3_chi_nu_75cm_type_5_shop;Chi Nu (5 Shiki II Gata)
 jp_type_3_chi_nu_75cm_type_5_0;Mitsubishi Jū Kōgyō | 3 Shiki Chū Sensha | Chi Nu (Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata)
 jp_type_3_chi_nu_75cm_type_5_1;Chi Nu
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
-jp_type_4_chi_to_shop;Chi To (Shi 2 Gō)
-jp_type_4_chi_to_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha Kō | Chi To (Shisei 2 Gōsha)
+jp_type_4_chi_to_shop;Chi To (2 Gō)
+jp_type_4_chi_to_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Kō) | Chi To (Shisei 2 Gōsha)
 jp_type_4_chi_to_1;Chi To
 jp_type_4_chi_to_2;Medium tank
 jp_type_4_chi_to_late_shop;Chi To
@@ -6021,23 +6034,23 @@ jp_type_4_chi_to_late_0;Mitsubishi Jū Kōgyō | 4 Shiki Chū Sensha | Chi To
 jp_type_4_chi_to_late_1;Chi To
 jp_type_4_chi_to_late_2;Medium tank
 jp_type_5_chi_ri_shop;Chi Ri
-jp_type_5_chi_ri_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha Otsu | Chi Ri
+jp_type_5_chi_ri_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri
 jp_type_5_chi_ri_1;Chi Ri
 jp_type_5_chi_ri_2;Medium tank
 jp_type_5_na_to_shop;Na To
-jp_type_5_na_to_0;Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Ji Hashihō | Na To
+jp_type_5_na_to_0;Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Jisō Hō | Na To
 jp_type_5_na_to_1;Na To
 jp_type_5_na_to_2;SPG
 jp_m44_shop;▅ M44A1
-jp_m44_0;▅ Massey-Harris | M44A1 155mm Ji Hashi Ryūdanhō
+jp_m44_0;▅ Massey-Harris | M44A1 155mm Jisō Ryūdanhō
 jp_m44_1;▅ M44A1
 jp_m44_2;SPH
 jp_m19_shop;▅ M19A1
-jp_m19_0;▅ Cadillac Motor Company | M19A1 Ji Hashi Kōsha Kikan Hō
+jp_m19_0;▅ Cadillac Motor Company | M19A1 Jisō Kōsha Kikan Hō
 jp_m19_1;▅ M19A1
 jp_m19_2;SPAA
 jp_m42_duster_shop;▅ M42
-jp_m42_duster_0;"▅ GM Defense | M42 Ji Hashi Kōsha Kikan Hō ""Dasutā"""
+jp_m42_duster_0;"▅ GM Defense | M42 Jisō Kōsha Kikan Hō ""Dasutā"""
 jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAA
 
@@ -6051,7 +6064,7 @@ jp_m41_walker_bulldog_0;"▅ Cadillac Motor Company | M41A1 Sensha ""Wōkā Buru
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light tank
 jp_type_60_sprg_shop;60SP (C)
-jp_type_60_sprg_0;"Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata ""Mametan"""
+jp_type_60_sprg_0;"Komatsu Seisaku | 60 Shiki Jisō 106mm Muhandō Hō C Gata ""Mametan"""
 jp_type_60_sprg_1;60SP (C)
 jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
@@ -6079,11 +6092,11 @@ jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Ja
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
 jp_type_75_shop;75HSP
-jp_type_75_0;Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm Ryūdanhō
+jp_type_75_0;Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Jisō 155mm Ryūdanhō
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
-jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20)
-jp_sub_i_ii_20mm_0;Mitsubishi Jū Kōgyō | SUB-I-2 (MK20 Rh202)
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;Mitsubishi Jū Kōgyō | SUB-I-2 (MK 20 DM 6 A1)
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
@@ -6091,11 +6104,11 @@ jp_pzkpfw_VI_ausf_e_tiger_0;▅ Panzerkampfwagen Tiger Ausf. E (mitte)
 jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
 jp_pzkpfw_VI_ausf_e_tiger_2;Heavy tank
 jp_type_5_ho_ri_prototype_shop;Ho Ri
-jp_type_5_ho_ri_prototype_0;Mitsubishi Jū Kōgyō | Shisei Shin Hō Sensha Kō | Ho Ri
+jp_type_5_ho_ri_prototype_0;Mitsubishi Jū Kōgyō | Shisei Shin Hō Sensha (Kō) | Ho Ri
 jp_type_5_ho_ri_prototype_1;Ho Ri
 jp_type_5_ho_ri_prototype_2;SPG
-jp_type_5_ho_ri_production_shop;Ho Ri (10 Senchi Han)
-jp_type_5_ho_ri_production_0;Shisei 10 Senchi Han Hō Sensha | Ho Ri
+jp_type_5_ho_ri_production_shop;Ho Ri (late)
+jp_type_5_ho_ri_production_0;Shisei Shin Hō Sensha (Kō) | Ho Ri (late)
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
@@ -6133,11 +6146,11 @@ jp_type_74_red_star_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata ""Nana Yo
 jp_type_74_red_star_1;74TK (C)
 jp_type_74_red_star_2;MBT
 jp_type_99_shop;99HSP
-jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Ji Hashi 155mm Ryūdanhō ""Rongunōzu"""
+jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99HSP
 jp_type_99_2;SPH
 jp_type_75_mlrs_shop;75MSSR
-jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki
+jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki
 jp_type_75_mlrs_1;75MSSR
 jp_type_75_mlrs_2;MLRS
 
@@ -6155,7 +6168,7 @@ jp_type_16_mcv_prot_0;Mitsubishi Jū Kōgyō | Kidō Sentō Sha (Shisaku 3 Gōsh
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light tank
 jp_type_87_shop;87AW
-jp_type_87_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Ji Hashi Kōsha Kikanhō ""Sukaishūtā"""
+jp_type_87_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō ""Sukaishūtā"""
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
 jp_type_16_mod_shop;16MCV (C1) (15 Soku Ki)
@@ -6240,27 +6253,27 @@ jp_type_t1_1941_shop;Dai 1 Gō
 jp_type_t1_1941_0;Yokohama Yotto | Otsu Gata Gyorai Tei | Dai 1 Gō Gata Gyorai Tei (T-1) | Dai 1 Gō
 jp_type_t1_1941_1;Dai 1 Gō
 jp_type_t1_1941_2;Motor torpedo boat
-jp_abtei_pr1_shop;Sōkō Tei Dai 1 Gō
-jp_abtei_pr1_0;"Sōkō Tei Dai 1 Gō ""Sakigake"""
-jp_abtei_pr1_1;Sōkō Tei
+jp_abtei_pr1_shop;Sakigake
+jp_abtei_pr1_0;Sōkō Tei Dai 1 Gō | Sakigake
+jp_abtei_pr1_1;Sakigake
 jp_abtei_pr1_2;Armored boat
 jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_0;Sōkō Tei Dai 3 Gō Gata | Sōkō Tei Dai 4 Gō
-jp_abtei_pr4_1;Sōkō Tei
+jp_abtei_pr4_1;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_2;Armored boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;Ka Ro 2 Gata
 jp_karotei_type2_0;Yokohama Yotto | 4 Shiki 2 Gata Kuchiku Tei | Ka Ro 2 Gata
-jp_karotei_type2_1;Ka Ro
+jp_karotei_type2_1;Ka Ro 2 Gata
 jp_karotei_type2_2;Motor gunboat
 jp_karotei_type4_shop;Ka Ro 4 Gata
 jp_karotei_type4_0;Yokohama Yotto | 4 Shiki 4 Gata Kuchiku Tei | Ka Ro 4 Gata
-jp_karotei_type4_1;Ka Ro
+jp_karotei_type4_1;Ka Ro 4 Gata
 jp_karotei_type4_2;Motor gunboat
 jp_sehatei_mod1_shop;Se Ha 1 Gata
 jp_sehatei_mod1_0;Shisei Ha Gō Sentō Tei 1 Gata | Se Ha 1 Gata
-jp_sehatei_mod1_1;Se Ha
+jp_sehatei_mod1_1;Se Ha 1 Gata
 jp_sehatei_mod1_2;Armored boat
 jp_type38_1944_shop;Dai 241 Gō
 jp_type38_1944_0;Yokosuka Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 241 Gō Gata Gyorai Tei (T-38) | Dai 241 Gō
@@ -6289,7 +6302,7 @@ jp_t51b_2;Motor torpedo boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;Dai 2 Gō
-jp_no1_ch2_0;Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō
+jp_no1_ch2_0;Ishikawajima Zōsensho | Dai 1 Gō Gata Kusen Tei (K-3) | Dai 2 Gō
 jp_no1_ch2_1;Dai 2 Gō
 jp_no1_ch2_2;Submarine chaser
 jp_no4_ch8_shop;Dai 8 Gō
@@ -6328,6 +6341,10 @@ jp_escort_hiburi_class_syonan_shop;Shōnan
 jp_escort_hiburi_class_syonan_0;Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shōnan
 jp_escort_hiburi_class_syonan_1;Shōnan
 jp_escort_hiburi_class_syonan_2;Coastal defense ship
+jp_escort_hiburi_class_shisaka_shop;Shisaka
+jp_escort_hiburi_class_shisaka_0;Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shisaka
+jp_escort_hiburi_class_shisaka_1;Shisaka
+jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
 jp_yuri_class_asagao_shop;Asagao
 jp_yuri_class_asagao_0;George Lawley & Son | Yuri Gata Keibitei | Asagao
 jp_yuri_class_asagao_1;Asagao
@@ -6564,6 +6581,10 @@ jp_battleship_yamato_1;Yamato
 jp_battleship_yamato_2;Battleship
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ki_43_3_ko_shop;☀ Ki 43-III Kō
+ki_43_3_ko_0;"☀ Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō ""Hayabusa"""
+ki_43_3_ko_1;☀ Ki 43-III
+ki_43_3_ko_2;☀ Ki 43
 i-16_chung_28_shop;Zhōng 28 Jia
 i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia"
 i-16_chung_28_1;Zhōng 28 Jia
@@ -6572,6 +6593,10 @@ i-16_chung_28_2;Zhōng 28
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+ki_44_2_hei_china_shop;☀ Ki 44-II Hei
+ki_44_2_hei_china_0;"☀ Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei ""Shōki"""
+ki_44_2_hei_china_1;☀ Ki 44-II
+ki_44_2_hei_china_2;☀ Ki 44
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -6620,6 +6645,10 @@ cn_type_65_aa_shop;A24
 cn_type_65_aa_0;Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 cn_type_65_aa_1;A24
 cn_type_65_aa_2;SPAAG
+cn_wz_141_shop;141 (1 Hào)
+cn_wz_141_0;141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)
+cn_wz_141_1;141
+cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -6637,7 +6666,7 @@ cn_vt_5_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 cn_pgz_625_fb10_shop;CS/SA5 (2022)
-cn_pgz_625_fb10_0;Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)
+cn_pgz_625_fb10_0;Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAAG/M
 
@@ -6702,14 +6731,50 @@ mig_29_9_12_sniper_2;╏ MiG-29
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_39m_csaba_shop;39 M. Csaba pc. gk.
+it_39m_csaba_0;Manfréd Weiss | 39 M. Csaba páncélgépkocsi
+it_39m_csaba_1;39 M. Csaba
+it_39m_csaba_2;Light Tank
+it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
+it_toldi_II_a_0;Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi B 40 könnyű harckocsi
+it_toldi_II_a_1;38 M. Toldi
+it_toldi_II_a_2;Light Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+it_40m_turan_1_shop;40 M. Turán köz. hk.
+it_40m_turan_1_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi
+it_40m_turan_1_1;40 M. Turán
+it_40m_turan_1_2;Medium Tank
+it_41m_turan_2_shop;41 M. Turán n. hk.
+it_41m_turan_2_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41 M. Turán nehéz harckocsi
+it_41m_turan_2_1;41 M. Turán
+it_41m_turan_2_2;Medium Tank
+it_43m_turan_3_shop;43 M. Turán n. hk.
+it_43m_turan_3_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43 M. Turán nehéz harckocsi
+it_43m_turan_3_1;43 M. Turán
+it_43m_turan_3_2;Medium Tank
+it_40_43m_zrinyi_2_shop;40/43 M. Zrínyi
+it_40_43m_zrinyi_2_0;Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi roham tarack
+it_40_43m_zrinyi_2_1;40/43 M. Zrínyi
+it_40_43m_zrinyi_2_2;SPG
+it_44m_zrinyi_1_shop;44 M. Zrínyi (sorozatvető)
+it_44m_zrinyi_1_0;Manfréd Weiss | 7,5 cm 44 M. Zrínyi roham ágyú (43 M. rakéta sorozatvető)
+it_44m_zrinyi_1_1;44 M. Zrínyi
+it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+it_2s1_shop;◔ 2SZ1
+it_2s1_0;"◔ Kharkìvs'kij traktornij zavod (KhTZ) | 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2SZ1
+it_2s1_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_m47_105_shop; M47 RKM
+it_m47_105_0; Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
+it_m47_105_1; M47 RKM
+it_m47_105_2;Medium Tank
 it_leopard_1a2_shop;⛨ Leopard 1 A2
 it_leopard_1a2_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2
 it_leopard_1a2_1;⛨ Leopard 1 A2
@@ -6718,14 +6783,50 @@ it_leopard_1a5_shop;⛨ Leopard 1 A5
 it_leopard_1a5_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
+it_zsu_57_2_shop;◔ ZSZU-57-2
+it_zsu_57_2_0;"◔ Omskij zavod № 174 im. Vorošilova | 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSZU-57-2
+it_zsu_57_2_2;SPAAG
+it_btr_80a_hungary_shop;◔ BTR-80A
+it_btr_80a_hungary_0;"◔ Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű"
+it_btr_80a_hungary_1;◔ BTR-80A
+it_btr_80a_hungary_2;IFV
+it_pzh_2000_hu_shop;◔ PzH 2000HU
+it_pzh_2000_hu_0;◔ KNDS | 152 mm-es Panzerhaubitze 2000HU páncélos tarack
+it_pzh_2000_hu_1;◔ PzH 2000HU
+it_pzh_2000_hu_2;SPH
 it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
 it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
 it_fiat_6614_firos_1;Fiat 6614
 it_fiat_6614_firos_2;MLRS
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_zsu_23_4_shop;◔ ZSZU-23-4V
+it_zsu_23_4_0;"◔ Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSZU-23-4V
+it_zsu_23_4_2;SPAAG
+it_t_72m1_shop;◔ T-72M1
+it_t_72m1_0;◔ Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi
+it_t_72m1_1;◔ T-72M1
+it_t_72m1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_9a35_m_shop;◔ 9A35M
+it_9a35_m_0;"◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
+it_9a35_m_1;◔ 9A35M
+it_9a35_m_2;SPAAM
+it_leopard_2a4_shop;◔ Leopard 2A4HU
+it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi
+it_leopard_2a4_1;◔ Leopard 2A4
+it_leopard_2a4_2;MBT
+it_leopard_2a7_hungary_shop;◔ Leopard 2A7HU
+it_leopard_2a7_hungary_0;◔ KNDS | Leopard 2A7HU harckocsi
+it_leopard_2a7_hungary_1;◔ Leopard 2A7
+it_leopard_2a7_hungary_2;MBT
+it_kf_41_shop;◔ Lynx KF41
+it_kf_41_0;"◔ Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű ""Hiúz"""
+it_kf_41_1;◔ Lynx KF41
+it_kf_41_2;IFV
 it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
 it_c1_ariete_certezza_0;"Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso ""Certezza"")"
 it_c1_ariete_certezza_1;Ariete
@@ -6778,6 +6879,10 @@ a-35b_1;☨ A-35B
 a-35b_2;☨ A-35
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+sb_25j_netherlands_shop;◘ B-25K
+sb_25j_netherlands_0;◘ North American Aviation NA-108 | B-25K Mitchell
+sb_25j_netherlands_1;◘ B-25K
+sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -6803,7 +6908,7 @@ mirage_f1c_200_0;Avions Marcel Dassault-Breguet Aviation | Mirage F1 C-200
 mirage_f1c_200_1;Mirage F1 C
 mirage_f1c_200_2;Mirage
 nf_5a_netherlands_shop;◘ NF-5A
-nf_5a_netherlands_0;◘ Canadair CL-226-1A10 | NF-5A Freedom Fighter
+nf_5a_netherlands_0;◘ Northrop Corporation N-156F / Canadair CL-226-1A10 | NF-5A Freedom Fighter
 nf_5a_netherlands_1;◘ NF-5A
 nf_5a_netherlands_2;◘ NF-5
 
@@ -7604,10 +7709,6 @@ uk_9a35_m_shop;☸ 9A35M
 uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
 uk_9a35_m_1;☸ 9A35M
 uk_9a35_m_2;SPAAM
-it_9a35_m_shop;◔ 9A35M
-it_9a35_m_0;"◔ BM 9A35M ""Strela-10M"""
-it_9a35_m_1;◔ 9A35M
-it_9a35_m_2;SPAAM
 ussr_9a33bm3_shop;9A33BM3
 ussr_9a33bm3_0;"BM 9A33BM3 ""Osa-AKM"""
 ussr_9a33bm3_1;9A33BM3
@@ -9928,10 +10029,6 @@ tb_3_m17_32_shop;TB-3 (4M-17)
 tb_3_m17_32_0;TB-3 (4M-17)
 tb_3_m17_32_1;TB-3
 tb_3_m17_32_2;TB-3
-ki-96_shop;Ki 96
-ki-96_0;Ki 96
-ki-96_1;Ki 96
-ki-96_2;Ki 96
 yak-3p_shop;Âk-3P
 yak-3p_0;Âk-3P
 yak-3p_1;Âk-3P
@@ -10276,10 +10373,6 @@ stirling_mk3_shop;Stirling B. Mk. III
 stirling_mk3_0;Stirling B. Mk. III
 stirling_mk3_1;Stirling B. Mk. III
 stirling_mk3_2;Stirling
-ki_44_2_hei_china_shop;☀ Ki 44-II Hei
-ki_44_2_hei_china_0;"☀ Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Hei | Ki 44-II Hei ""Shōki"""
-ki_44_2_hei_china_1;☀ Ki 44-II
-ki_44_2_hei_china_2;☀ Ki 44
 gladiator_mk1_china_shop;☀ Gladiator Mk. I
 gladiator_mk1_china_0;☀ Gladiator Mk. I
 gladiator_mk1_china_1;☀ Gladiator Mk. I
@@ -10316,10 +10409,6 @@ p-43a-1_china_shop;☀ P-43A-1-RE
 p-43a-1_china_0;☀ P-43A-1-RE
 p-43a-1_china_1;☀ P-43A
 p-43a-1_china_2;☀ P-43
-ki_43_3_ko_shop;☀ Ki 43-III Kō
-ki_43_3_ko_0;"☀ Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō| Ki 43-III Kō ""Hayabusa"""
-ki_43_3_ko_1;☀ Ki 43-III
-ki_43_3_ko_2;☀ Ki 43
 ki-45_hei_tei_china_shop;␗ Ki 45 Kai Hei (Tei)
 ki-45_hei_tei_china_0;"␗ Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Hei | Ki 45 Kai Hei ""Toryu"" (Tei Sōbi)"
 ki-45_hei_tei_china_1;␗ Ki 45 Kai
@@ -10800,26 +10889,6 @@ ussr_t_64a_1971_shop;T-64A
 ussr_t_64a_1971_0;"Ob""yekt 434 | T-64A obr. 1971 g. Redut"
 ussr_t_64a_1971_1;T-64A
 ussr_t_64a_1971_2;MBT
-it_btr_80a_hungary_shop;◔ BTR-80A
-it_btr_80a_hungary_0;◔ BTR-80A
-it_btr_80a_hungary_1;◔ BTR-80A
-it_btr_80a_hungary_2;Light tank
-it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;◔ T-72M1
-it_t_72m1_1;◔ T-72M1
-it_t_72m1_2;MBT
-it_zsu_57_2_shop;◔ ZSZU-57-2
-it_zsu_57_2_0;◔ ZSZU-57-2
-it_zsu_57_2_1;◔ ZSZU-57-2
-it_zsu_57_2_2;SPAA
-it_zsu_23_4_shop;◔ ZSZU-23-4
-it_zsu_23_4_0;◔ 2A6 | ZSZU-23-4 Silka
-it_zsu_23_4_1;◔ ZSZU-23-4
-it_zsu_23_4_2;SPAA
-it_2s1_shop;◔ 2SZ1
-it_2s1_0;"◔ 2SZ1 ""Gvozgyika"""
-it_2s1_1;◔ 2SZ1
-it_2s1_2;SPG
 ussr_2s1_shop;2S1
 ussr_2s1_0;"2S1 ""Gvozdika"""
 ussr_2s1_1;2S1
@@ -11048,8 +11117,8 @@ f-5e_aidc_shop;☀ F-5E
 f-5e_aidc_0;"☀ Northrop | F-5E ""Chung Cheng"""
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;☀ F-5
-f-5ag_norway_shop;◢ F-5A(G)-45-NO
-f-5ag_norway_0;◢ Northrop Corperation N-156F | F-5A(G)-45-NO Freedom Fighter
+f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
+f-5ag_norway_0;◢ Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)
 f-5ag_norway_1;◢ F-5A
 f-5ag_norway_2;◢ F-5
 f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
@@ -11392,14 +11461,6 @@ germ_leopard_2a5_pso_shop;KPz Leopard 2 PSO
 germ_leopard_2a5_pso_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 Peace Support Operations
 germ_leopard_2a5_pso_1;Leopard 2 PSO
 germ_leopard_2a5_pso_2;MBT
-it_kf_41_shop;◔ Lynx KF41
-it_kf_41_0;"◔ Lynx KF41 ""Hiúz"""
-it_kf_41_1;◔ KF41
-it_kf_41_2;Light tank
-it_leopard_2a4_shop;◔ KPz Leopard 2 A4 HU
-it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 HU
-it_leopard_2a4_1;◔ Leopard 2 A4
-it_leopard_2a4_2;MBT
 germ_leopard_2a4_shop;KPz Leopard 2 A4 (C)
 germ_leopard_2a4_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C)
 germ_leopard_2a4_1;Leopard 2 A4
@@ -11768,10 +11829,6 @@ it_m60a1_ariete_shop;⛨ M60A1 (132ª Div.Cor.)
 it_m60a1_ariete_0;"⛨ M60A1 (132ª Divisione Corazzata ""Ariete"")"
 it_m60a1_ariete_1;⛨ M60A1
 it_m60a1_ariete_2;Medium tank
-it_m47_105_shop;▄ M47E2
-it_m47_105_0;▄ Tanque M47E2
-it_m47_105_1;▄ M47
-it_m47_105_2;Medium tank
 it_m109g_shop;⛨ 155/23 M109
 it_m109g_0;⛨ Obice semovente da 155/23 M109
 it_m109g_1;⛨ 155/23 M109
@@ -11884,30 +11941,6 @@ it_m11_39_shop;M. 39
 it_m11_39_0;Carro Armato Medio Mod. 39
 it_m11_39_1;M. 39
 it_m11_39_2;Medium Tank
-it_40_43m_zrinyi_2_shop;Zrínyi II
-it_40_43m_zrinyi_2_0;43.M Zrínyi II
-it_40_43m_zrinyi_2_1;Zrínyi II
-it_40_43m_zrinyi_2_2;SPG
-it_39m_csaba_shop;Csaba
-it_39m_csaba_0;39.M Csaba
-it_39m_csaba_1;Csaba
-it_39m_csaba_2;Light tank
-it_40m_turan_1_shop;Turán I
-it_40m_turan_1_0;40.M Turán I
-it_40m_turan_1_1;Turán I
-it_40m_turan_1_2;Medium tank
-it_41m_turan_2_shop;Turán II
-it_41m_turan_2_0;41.M Turán II
-it_41m_turan_2_1;Turán II
-it_41m_turan_2_2;Medium Tank
-it_43m_turan_3_shop;Turán III
-it_43m_turan_3_0;43.M Turán III
-it_43m_turan_3_1;Turán III
-it_43m_turan_3_2;Medium tank
-it_toldi_II_a_shop;Toldi IIA
-it_toldi_II_a_0;42.M Toldi IIA
-it_toldi_II_a_1;Toldi IIA
-it_toldi_II_a_2;Light tank
 it_m14_41_47_40_shop;M. 41 (47/40)
 it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
 it_m14_41_47_40_1;M. 41
@@ -13347,10 +13380,6 @@ germ_pzh_2000_shop;PzH 2000 A1
 germ_pzh_2000_0;Panzerhaubitze 2000 A1
 germ_pzh_2000_1;PzH 2000 A1
 germ_pzh_2000_2;SPH
-it_pzh_2000_hu_shop;PzH 2000 HU
-it_pzh_2000_hu_0;Panzerhaubitze 2000 HU
-it_pzh_2000_hu_1;PzH 2000 HU
-it_pzh_2000_hu_2;SPH
 germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
 germ_le_kpz_m41_0;◄ Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1965)
 germ_le_kpz_m41_1;◄ M 41
@@ -14502,10 +14531,6 @@ germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
 germ_leopard_2av_0;Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19
 germ_leopard_2av_1;KPz Leopard 2 AV
 germ_leopard_2av_2;MBT
-it_44m_zrinyi_1_shop;Zrínyi I
-it_44m_zrinyi_1_0;44.M Zrínyi I
-it_44m_zrinyi_1_1;Zrínyi I
-it_44m_zrinyi_1_2;SPG
 germ_km5_shop;KS 5
 germ_km5_0;kleines Schnellboot Typ KS, KS 5
 germ_km5_1;Type KS
@@ -14919,10 +14944,6 @@ cn_zsl_92_shop;ZSL92
 cn_zsl_92_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ551A | ZSL1992
 cn_zsl_92_1;ZSL92
 cn_zsl_92_2;Light tank
-it_leopard_2a7_hungary_shop;◔ KPz Leopard 2 A7 HU
-it_leopard_2a7_hungary_0;◔ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A7 HU
-it_leopard_2a7_hungary_1;◔ Leopard 2 A7 HU
-it_leopard_2a7_hungary_2;MBT
 it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
 it_albatros_class_f544_1;Albatros
@@ -14932,7 +14953,7 @@ il_sholef_0;Soltam Systems Šolef V1
 il_sholef_1;Šolef
 il_sholef_2;SPG
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
-germ_destroyer_fletcher_zerstorer4_0;Klasse 119 | Z 4 (D 178) (1960)
+germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_1;Z 4
 germ_destroyer_fletcher_zerstorer4_2;Destroyer
 it_ciclone_class_ghibli_shop;Ghibli (GH)
@@ -14959,10 +14980,6 @@ ussr_battleship_arhangelsk_shop;Arkhangyel'sk
 ussr_battleship_arhangelsk_0;Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk
 ussr_battleship_arhangelsk_1;Arkhangyel'sk
 ussr_battleship_arhangelsk_2;Battleship
-germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Klasse Ersatz Yorck | Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 cn_t_80ud_478be_shop;☪ T-80UD (DU1)
 cn_t_80ud_478be_0;☪ Ob'êkt 478DU1 | T-80UD Ṭaink
 cn_t_80ud_478be_1;☪ T-80UD

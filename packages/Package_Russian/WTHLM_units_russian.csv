@@ -119,9 +119,9 @@ ussr_t_55_am_shop;Т-55АМ-1
 ussr_t_55_am_0;Харьковское конструкторское бюро по машиностроению имени А. А. Морозова | Объект 155АМ-1 | Т-55АМ-1
 ussr_t_55_am_1;Т-55АМ-1
 ussr_t_55_am_2;Medium tank
-ussr_object_140_shop;Об.140
+ussr_object_140_shop;Об. 140
 ussr_object_140_0;Уральский танковый завод № 183 имени Коминтерна | Объект 140
-ussr_object_140_1;Об.140
+ussr_object_140_1;Об. 140
 ussr_object_140_2;Medium tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
@@ -131,9 +131,9 @@ ussr_9a33bm3_1;9А33БМ3
 ussr_9a33bm3_2;SPAA
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-ussr_t_72b3_arena_m_shop;Т-72Б3М (Арена-М)
-ussr_t_72b3_arena_m_0;Уральский вагоностроительным заводом имени Ф. Э. Дзержинского | Объект 184-5 | Т-72Б3А обр. 2024 г.
-ussr_t_72b3_arena_m_1;Т-72Б3
+ussr_t_72b3_arena_m_shop;Т-72Б3А
+ussr_t_72b3_arena_m_0;Уральский вагоностроительный завод им. Ф. Э. Дзержинского | Объект 184-5 | Т-72Б3А обр. 2024 г.
+ussr_t_72b3_arena_m_1;Т-72Б3А
 ussr_t_72b3_arena_m_2;MBT
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
