@@ -1564,6 +1564,7 @@ shop/group/sw_strv_104_103c_group;strv 104 / 103C
 shop/group/sw_strv_122_group;strv 122A / B (PLSS)
 shop/group/sw_lvkv_asrad_group;lvkv 9040C / ♛ M113A2 (ASRAD-R)
 shop/group/gladiator_j8a_group;J 8 A / 6 B
+shop/group/mosquito_norway_group;◢ Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)
 shop/group/saab_b17a_group;B 17 B / A
 shop/group/saab_t18b_group;T 18 B / B (57 mm akan m/47)
 shop/group/saab_j21a_group;J 21 A-1 / 2
@@ -1808,7 +1809,7 @@ spad_13_0;Société pour l'aviation et ses dérivés | S.XIII-C1
 spad_13_1;S.XIII-C1
 spad_13_2;S.XIII
 
-//KILLSTREAK VEHICLES;
+//KILLSTREAK VEHICLES
 b-29_killstreak_shop;☢ B-29A-45-BN
 b-29_killstreak_0;☢ B-29A-45-BN Superfortress
 b-29_killstreak_1;☢ B-29A
@@ -1933,6 +1934,46 @@ jaguar_a_iaf_killstreak_shop;☢ Jaguar A
 jaguar_a_iaf_killstreak_0;☢ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
+su_24m_killstreak_shop;☢ Su-24M2
+su_24m_killstreak_0;☢ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_killstreak_1;☢ Su-24M
+su_24m_killstreak_2;☢ Su-24
+su_24m_china_killstreak_shop;☢␗ Su-24M2
+su_24m_china_killstreak_0;☢␗ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_china_killstreak_1;☢␗ Su-24M
+su_24m_china_killstreak_2;☢␗ Su-24
+f_111f_killstreak_shop;☢ F-111F
+f_111f_killstreak_0;"☢ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_killstreak_1;☢ F-111F
+f_111f_killstreak_2;☢ F-111
+f_111f_japan_killstreak_shop;☢▅ F-111F
+f_111f_japan_killstreak_0;"☢▅ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_japan_killstreak_1;☢▅ F-111F
+f_111f_japan_killstreak_2;☢▅ F-111
+f_111f_iaf_killstreak_shop;☢ F-111F
+f_111f_iaf_killstreak_0;"☢ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_iaf_killstreak_1;☢ F-111F
+f_111f_iaf_killstreak_2;☢ F-111
+tornado_ids_de_assta1_killstreak_shop;☢◄ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_killstreak_0;☢◄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_killstreak_1;☢◄ IDS-Tornado
+tornado_ids_de_assta1_killstreak_2;☢◄ IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_shop;☢▄ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_britain_killstreak_0;☢▄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_shop;☢⛨ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_italy_killstreak_0;☢⛨ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_italy_killstreak_1;☢⛨ IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_2;☢⛨ IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_shop;☢☨ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_france_killstreak_0;☢☨ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_france_killstreak_1;☢☨ IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_2;☢☨ IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_shop;☢♛ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_sweden_killstreak_0;☢♛ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_sweden_killstreak_1;☢♛ IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_2;☢♛ IDS-Tornado
 ucav_mq_1_predator_shop;MQ-1A
 ucav_mq_1_predator_0;MQ-1A
 ucav_mq_1_predator_1;MQ-1A
@@ -2647,6 +2688,10 @@ av_8b_na_shop;AV-8B NA
 av_8b_na_0;AV-8B Harrier II Night Attack
 av_8b_na_1;AV-8B
 av_8b_na_2;AV-8
+b_66b_shop;B-66B-DL
+b_66b_0;Douglas Aircraft Company D-1327A | B-66B-DL Destroyer
+b_66b_1;B-66B
+b_66b_2;B-66
 f_117_shop;F-117A-1-LO (MIPS)
 f_117_0;Lockheed Corporation | F-117A-1-LO Nighthawk (Midlife Improvement Study)
 f_117_1;F-117A
@@ -2726,11 +2771,11 @@ f-105d_0;F-105D-31-RE Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105
 f_111a_shop;F-111A
-f_111a_0;"F-111A ""Aardvark"""
+f_111a_0;"General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A ""Aardvark"""
 f_111a_1;F-111A
 f_111a_2;F-111
 f_111f_shop;F-111F
-f_111f_0;"F-111F ""Aardvark"""
+f_111f_0;"General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
 f_111f_1;F-111F
 f_111f_2;F-111
 a_6e_tram_shop;A-6E (TRAM)
@@ -2855,6 +2900,10 @@ ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;▃ McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
+ah_64e_shop;AH-64E (v6)
+ah_64e_0;Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
+ah_64e_1;AH-64E
+ah_64e_2;AH-64
 rah_66_shop;YRAH-66A (2000)
 rah_66_0;Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (2000)
 rah_66_1;YRAH-66A
@@ -3727,6 +3776,10 @@ us_cruiser_omaha_class_detroit_1;USS Detroit
 us_cruiser_omaha_class_detroit_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_0;Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta
@@ -3811,6 +3864,10 @@ us_battleship_colorado_class_colorado_shop;USS Colorado (BB-45)
 us_battleship_colorado_class_colorado_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class | USS Colorado (BB-45) (1942)
 us_battleship_colorado_class_colorado_1;USS Colorado
 us_battleship_colorado_class_colorado_2;Battleship
+us_battleship_colorado_class_maryland_shop;USS Maryland (BB-46)
+us_battleship_colorado_class_maryland_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)
+us_battleship_colorado_class_maryland_1;USS Maryland
+us_battleship_colorado_class_maryland_2;Battleship
 us_battleship_nevada_shop;USS Nevada (BB-36)
 us_battleship_nevada_0;New York Shipbuilding Corporation / Fore River Shipyard | Nevada-class Battleship | USS Nevada (BB-36) (1944)
 us_battleship_nevada_1;USS Nevada
@@ -3878,7 +3935,11 @@ bf-109f-1_2;Bf 109
 bf-109f-2_shop;Bf 109 F-2
 bf-109f-2_0;Messerschmitt | Bf 109 F-2
 bf-109f-2_1;Bf 109 F
-bf-109f-2_2;Bf 109 
+bf-109f-2_2;Bf 109
+bf_109t_2_shop;Bf 109 T-2
+bf_109t_2_0;Messerschmitt | Bf 109 T-2
+bf_109t_2_1;Bf 109 T
+bf_109t_2_2;Bf 109
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;Messerschmitt | Bf 109 F-4
 bf-109f-4_1;Bf 109 F
@@ -4945,6 +5006,10 @@ germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+kor_2_shop;Bye-4
+kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4
+kor_2_1;Bye-4
+kor_2_2;Bye-4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
@@ -4961,18 +5026,30 @@ l_39za_2;L-39
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+su_24m_shop;Su-24M2
+su_24m_0;AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_1;Su-24M
+su_24m_2;Su-24
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 su_30sm_shop;Su-30SM
-su_30sm_0;PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM
+su_30sm_0;AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35p_shop;Mi-35P
+mi_35p_0;AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P
+mi_35p_1;Mi-35P
+mi_35p_2;Mi-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+mi_8amtsh_vn_shop;Mi-8AMTŠ-VN
+mi_8amtsh_vn_0;"AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN ""Sapsan"""
+mi_8amtsh_vn_1;Mi-8AMTŠ
+mi_8amtsh_vn_2;Mi-8
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 ussr_garford_putilov_shop;Garford
@@ -5059,6 +5136,10 @@ ussr_pr_103_sm4_2;Motor torpedo boat
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+ussr_mpk_pr_1124_shop;MPK-33
+ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33"
+ussr_mpk_pr_1124_1;MPK-33
+ussr_mpk_pr_1124_2;Anti-Submarine Ship
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -5119,6 +5200,10 @@ marut_mk1_2;Mārut
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f_111c_raaf_shop;▄ F-111C
+f_111c_raaf_0;"▄ General Dynamics Corporation + Grumman Aerospace Corporation | F-111C ""Aardvark"""
+f_111c_raaf_1;▄ F-111C
+f_111c_raaf_2;▄ F-111
 harrier_t10_shop;Harrier T. Mk. 10
 harrier_t10_0;British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10
 harrier_t10_1;Harrier T. Mk. 10
@@ -5133,6 +5218,18 @@ ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF-2000 | Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;Typhoon
+fa_18a_raaf_shop;▄ F/A-18A
+fa_18a_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet
+fa_18a_raaf_1;▄ F/A-18A
+fa_18a_raaf_2;▄ F/A-18
+fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
+fa_18a_hug_2_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)
+fa_18a_hug_2_raaf_1;▄ F/A-18A
+fa_18a_hug_2_raaf_2;▄ F/A-18
+cf_188a_canada_shop;CF-188A
+cf_188a_canada_0;McDonnell Douglas Corporation Model 267 | CF-188A Hornet
+cf_188a_canada_1;CF-188A
+cf_188a_canada_2;CF-188
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 scout_ah_mk1_shop;Scout A.H. Mk. 1
@@ -5391,6 +5488,10 @@ uk_frigate_leopard_1;HMS Leopard
 uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+uk_destroyer_st_class_saumarez_shop;HMS Saumarez (G 12)
+uk_destroyer_st_class_saumarez_0;R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)
+uk_destroyer_st_class_saumarez_1;HMS Saumarez
+uk_destroyer_st_class_saumarez_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
@@ -5961,7 +6062,7 @@ ah_1s_2;▅ AH-1
 mi_35p_indonesia_shop;◥ Mi-35P
 mi_35p_indonesia_0;◥ AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P
 mi_35p_indonesia_1;◥ Mi-35P
-mi_35p_indonesia_2;◥ Mi-35P
+mi_35p_indonesia_2;◥ Mi-35
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_64d_japan_shop;▅ AH-64D
@@ -6202,6 +6303,10 @@ jp_type_99_shop;99HSP
 jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99HSP
 jp_type_99_2;SPH
+jp_m163_vulcan_shop;Ptx. M 163
+jp_m163_vulcan_0;General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163
+jp_m163_vulcan_1;Ptx. M 163
+jp_m163_vulcan_2;SPAAG
 jp_type_75_mlrs_shop;75MSSR
 jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki
 jp_type_75_mlrs_1;75MSSR
@@ -6728,6 +6833,10 @@ cn_wz_141_2;Light Tank
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+cn_vt_4_shop;VT4
+cn_vt_4_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè
+cn_vt_4_1;VT4
+cn_vt_4_2;MBT
 cn_antelope_tc_1l_ads_shop;Jiàn-1 FFX
 cn_antelope_tc_1l_ads_0;Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong
 cn_antelope_tc_1l_ads_1;Jiàn-1 FFX
@@ -6918,6 +7027,10 @@ it_c1_ariete_certezza_2;MBT
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+it_mc492_baleno_shop;Baleno (MC 492)
+it_mc492_baleno_0;Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)
+it_mc492_baleno_1;Baleno (MC 492)
+it_mc492_baleno_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 
@@ -7018,6 +7131,10 @@ mirage_4000_shop;Mirage 4000 (1986)
 mirage_4000_0;Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
+f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
+f_16a_block_15_ocu_belgium_0;▄ General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16A-15OCU-CF Fighting Falcon
+f_16a_block_15_ocu_belgium_1;▄ F-16A
+f_16a_block_15_ocu_belgium_2;▄ F-16
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -7105,23 +7222,31 @@ fr_vtb10_2;Motor Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 fr_flower_class_aconit_shop;Aconit (K 58)
-fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette de Classe Flower | Aconit (K 58)
+fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette de la classe Flower | Aconit (K 58)
 fr_flower_class_aconit_1;Aconit
 fr_flower_class_aconit_2;Corvette
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+fr_adroit_class_shop;L'Intrépide (P 630)
+fr_adroit_class_0;Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)
+fr_adroit_class_1;L'Intrépide
+fr_adroit_class_2;Coastal Escort
 fr_arras_class_arras_shop;Arras (AS)
-fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re Classe | Aviso de Classe Arras | Arras (AS)
+fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re classe de la classe Arras | Arras (AS)
 fr_arras_class_arras_1;Arras
 fr_arras_class_arras_2;Aviso
 fr_arras_class_amiens_shop;Amiens (7)
-fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re Classe | Aviso de Classe Arras | Amiens (7) (1940)
+fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re classe de la classe Arras | Amiens (7) (1940)
 fr_arras_class_amiens_1;Amiens
 fr_arras_class_amiens_2;Aviso
 fr_marne_class_marne_shop;La Marne
-fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re Classe | Aviso de Classe La Marne | La Marne (1925)
+fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | La Marne (1925)
 fr_marne_class_marne_1;La Marne
 fr_marne_class_marne_2;Aviso
+fr_marne_class_aisne_shop;L'Aisne
+fr_marne_class_aisne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne
+fr_marne_class_aisne_1;L'Aisne
+fr_marne_class_aisne_2;Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 fr_vlt1_shop;VLT 1
@@ -7142,22 +7267,30 @@ fr_vlt2_2;Motor Torpedo Boat
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_2;Light cruiser
+fr_cruiser_la_galissoniere_class_gloire_shop;Montcalm
+fr_cruiser_la_galissoniere_class_gloire_0;Société Nouvelle des Forges et Chantiers de la Méditerranée | Croiseur léger de la classe La Galissonnière | Montcalm (1946)
+fr_cruiser_la_galissoniere_class_gloire_1;Montcalm
+fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_dunkerque_shop;Dunkerque
-fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de Classe Dunkerque | Dunkerque (1939)
+fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de la Classe Dunkerque | Dunkerque (1939)
 fr_battleship_dunkerque_1;Dunkerque
 fr_battleship_dunkerque_2;Battleship
 fr_battleship_strasbourg_shop;Strasbourg
-fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de Classe Dunkerque | Strasbourg (1942)
+fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de la Classe Dunkerque | Strasbourg (1942)
 fr_battleship_strasbourg_1;Strasbourg
 fr_battleship_strasbourg_2;Battleship
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_richelieu_class_richelieu_shop;Richelieu
-fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)
+fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la Classe Richelieu | Richelieu (1943)
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Battleship
 
@@ -7166,6 +7299,18 @@ fr_battleship_richelieu_class_richelieu_2;Battleship
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II
+mosquito_f_mk2_norway_1;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_2;◢ Mosquito
+mosquito_fb_mk6_norway_shop;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_2;◢ Mosquito
+mosquito_fb_mk6_ash_norway_shop;◢ Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_ash_norway_2;◢ Mosquito
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -7210,6 +7355,10 @@ sw_m24_chaffee_dk_2;Light Tank
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_cv_90105_shop;CV90105 (TML 105)
+sw_cv_90105_0;Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)
+sw_cv_90105_1;CV90105
+sw_cv_90105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -7256,6 +7405,10 @@ sw_eldenhet_98_2;SPAAM
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16i_sufa_shop; F-16I
+f_16i_sufa_0; Lockheed Martin Corporation | F-16I Sufah
+f_16i_sufa_1; F-16I
+f_16i_sufa_2; F-16
 f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
@@ -9510,10 +9663,6 @@ mig_27k_shop;MiG-27K
 mig_27k_0;izd. 32-36 | MiG-27K
 mig_27k_1;MiG-27K
 mig_27k_2;MiG-27
-su_24m_shop;Su-24M2
-su_24m_0;izd. T-6M2 | Su-24M2
-su_24m_1;Su-24M
-su_24m_2;Su-24
 su_34_shop;Su-34NVO
 su_34_0;izd. T-10V | Su-34NVO
 su_34_1;Su-34NVO
@@ -10246,10 +10395,6 @@ canberra_bmk2_shop;Canberra B. Mk. 2
 canberra_bmk2_0;Canberra B. Mk. 2
 canberra_bmk2_1;Canberra B. Mk. 2
 canberra_bmk2_2;Canberra
-f_111c_raaf_shop;F-111C
-f_111c_raaf_0;"F-111C ""Aardvark"""
-f_111c_raaf_1;F-111C
-f_111c_raaf_2;F-111
 pby-5a_raf_shop;Catalina Mk. IIIa
 pby-5a_raf_0;Catalina Mk. IIIa
 pby-5a_raf_1;Catalina Mk. III
@@ -12170,10 +12315,6 @@ mi_8amtsh_shop;Mi-8AMTŠ
 mi_8amtsh_0;Mi-8AMTŠ
 mi_8amtsh_1;Mi-8AMTŠ
 mi_8amtsh_2;Mi-8
-mi_8amtsh_vn_shop;Mi-8AMTŠ-VN
-mi_8amtsh_vn_0;"Mi-8AMTŠ-VN ""Sapsan"""
-mi_8amtsh_vn_1;Mi-8AMTŠ
-mi_8amtsh_vn_2;Mi-8
 mi_24a_shop;Mi-24A
 mi_24a_0;Mi-24A
 mi_24a_1;Mi-24A
@@ -14388,6 +14529,10 @@ uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
+uk_battleship_nelson_shop;HMS Nelson (28)
+uk_battleship_nelson_0;Armstrong Whitworth | Nelson-class | HMS Nelson (28)
+uk_battleship_nelson_1;HMS Nelson
+uk_battleship_nelson_2;Battleship
 ussr_destroyer_kerch_shop;Kyerč' (1917)
 ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
 ussr_destroyer_kerch_1;Kyerč' (1917)
@@ -15025,10 +15170,6 @@ it_ciclone_class_ghibli_shop;Ghibli (GH)
 it_ciclone_class_ghibli_0;Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)
 it_ciclone_class_ghibli_1;Ghibli
 it_ciclone_class_ghibli_2;Gunboat
-fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Classe La Galissonnière | La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_2;Light cruiser
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)
