@@ -318,6 +318,18 @@ j_8f_missile_test_shop;K/JJ8F
 j_8f_missile_test_0;沈阳飞机工业 (集团) | K/JJ8F型飞机
 j_8f_missile_test_1;K/JJ8F
 j_8f_missile_test_2;K/JJ8
+jh_7_shop;H/JJH7
+jh_7_0;"西安飞机工业 (集团) | H/JJH7型飞机 ""飞豹"""
+jh_7_1;H/JJH7
+jh_7_2;H/JJH7
+jh_7a_shop;K/JJH7A
+jh_7a_0;"西安飞机工业 (集团) | K/JJH7A型飞机 ""飞豹"""
+jh_7a_1;K/JJH7A
+jh_7a_2;H/JJH7
+jh_7a_prototype_shop;K/JJH7A (prototype)
+jh_7a_prototype_0;"西安飞机工业 (集团) | K/JJH7A型飞机 ""飞豹"" (prototype)"
+jh_7a_prototype_1;K/JJH7A
+jh_7a_prototype_2;H/JJH7
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_20_mlu_shop;☀ F-16A-20-CF
@@ -344,10 +356,6 @@ j_11b_shop;K/JJ11B
 j_11b_0;"PAO Kompaniâ Sukhoj / 沈阳飞机工业 (集团) | K/JJ11B型飞机 ""应龙"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
-jh_7a_shop;K/JJH7A
-jh_7a_0;"西安飞机工业 (集团) | K/JJH7A型飞机 ""飞豹"""
-jh_7a_1;K/JJH7A
-jh_7a_2;K/JJH7
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 z_11wa_shop;L/Z11WA
@@ -365,31 +373,39 @@ z_9wa_0;哈尔滨飞机工业 (集团) | L/Z9WA型武装直升机
 z_9wa_1;L/Z9WA
 z_9wa_2;L/Z9
 z_19_shop;L/Z19
-z_19_0;哈尔滨飞机工业 (集团) | L/Z19型武装直升机
+z_19_0;"哈尔滨飞机工业 (集团) | L/Z19型武装直升机 ""黑旋风"""
 z_19_1;L/Z19
 z_19_2;L/Z19
 z_19e_shop;Z19E
-z_19e_0;哈尔滨飞机工业 (集团) | Z19E型武装直升机
+z_19e_0;"哈尔滨飞机工业 (集团) | Z19E型武装直升机 ""鸢"""
 z_19e_1;Z19E
 z_19e_2;Z19
 oh_58d_china_shop;☀ OH-58D
 oh_58d_china_0;☀ Bell Helicopter Textron Model 406 | OH-58D戰搜直升機
 oh_58d_china_1;☀ OH-58D
 oh_58d_china_2;☀ OH-58
+ah_1w_china_shop;☀ AH-1W
+ah_1w_china_0;☀ Bell Helicopter Textron Model 209 | AH-1W戰鬥直升機
+ah_1w_china_1;☀ AH-1W
+ah_1w_china_2;☀ AH-1
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 z_10_shop;L/Z10
-z_10_0;昌河飞机工业 (集团) | L/Z10型武装直升机
+z_10_0;"昌河飞机工业 (集团) | L/Z10型武装直升机 ""霹雳火"""
 z_10_1;L/Z10
 z_10_2;L/Z10
 z_10me_shop;Z10ME-02
-z_10me_0;昌河飞机工业 (集团) | Z10ME-02型武装直升机
+z_10me_0;"昌河飞机工业 (集团) | Z10ME-02型武装直升机 ""霹雳火"""
 z_10me_1;Z10ME
 z_10me_2;Z10
 z_10a_shop;L/Z10 (2018)
-z_10a_0;昌河飞机工业 (集团) | L/Z10型武装直升机 (2018)
+z_10a_0;"昌河飞机工业 (集团) | L/Z10型武装直升机 ""霹雳火"" (2018)"
 z_10a_1;L/Z10
 z_10a_2;L/Z10
+ah_64e_china_shop;☀ AH-64E (v6)
+ah_64e_china_0;☀ Boeing Defense, Space & Security | AH-64E戰鬥直升機 (Capability Version 6)
+ah_64e_china_1;☀ AH-64E
+ah_64e_china_2;☀ AH-64
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 cn_m8_greyhound_shop;☀ M8
@@ -472,8 +488,8 @@ cn_m10_1;☀ M10
 cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-cn_object_211_shop;211 (4号) (L/ZPL63)
-cn_object_211_0;西南车辆制造厂 | 211 (样车4号) (L/ZPL1963式85毫米坦克炮)
+cn_object_211_shop;211 (4号) (63式)
+cn_object_211_0;西南车辆制造厂 | 211 (样车4号) (1963年式85毫米坦克炮)
 cn_object_211_1;211
 cn_object_211_2;Light tank
 cn_t_34_1942_shop;␗ 特34 (1942)
@@ -567,7 +583,7 @@ cn_type_64_0;陆军供应司令部兵工署 | 六四式戰車
 cn_type_64_1;六四式
 cn_type_64_2;Light Tank
 cn_wz_141_shop;141 (1号)
-cn_wz_141_0;141超轻型反坦克战车 (样车1号)
+cn_wz_141_0;装甲兵某研究所 | 141超轻型反坦克战车 (样车1号)
 cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
@@ -597,12 +613,12 @@ cn_type_69_0;内蒙古第一机械制造厂 | WZ121 | L/ZTZ1969式中型坦克
 cn_type_69_1;L/ZTZ69
 cn_type_69_2;Medium Tank
 cn_type_69_2a_shop;Type 69-IIA
-cn_type_69_2a_0;中国兵器工业集团有限公司 Type 69-IIA Main Battle Tank | BW121A
+cn_type_69_2a_0;中国兵器工业集团有限公司 | BW121A | Type 69-IIA Main Battle Tank
 cn_type_69_2a_1;Type 69-IIA
 cn_type_69_2a_2;Medium Tank
-cn_wz_305_shop;L/PGZ80
-cn_wz_305_0;中国兵器工业集团有限公司 | WZ305 | L/PGZ1980式双57毫米自行高炮
-cn_wz_305_1;L/PGZ80
+cn_wz_305_shop;80式
+cn_wz_305_0;中国兵器工业集团有限公司 | WZ305 | 1980年式双57毫米自行高炮
+cn_wz_305_1;80式
 cn_wz_305_2;SPAAG
 cn_plz_05_shop;L/PLZ05
 cn_plz_05_0;中国兵器工业集团有限公司 | L/PLZ2005式155毫米自行加榴炮
@@ -666,6 +682,10 @@ cn_hj_9_shop;L/AFT09
 cn_hj_9_0;中国兵器工业集团有限公司 | HJ9 | L/AFT09重型反坦克导弹发射车
 cn_hj_9_1;L/AFT09
 cn_hj_9_2;ATGMC
+cn_cm_34_shop;CM34
+cn_cm_34_0;Timoney Technology + 工業技術研究院 | CM34輪型戰鬥車
+cn_cm_34_1;CM34
+cn_cm_34_2;Light Tank
 cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;内蒙古第一机械厂 | 1221中型坦克 (302反坦克导弹)
 cn_object_122tm_1;1221
@@ -735,7 +755,7 @@ cn_tor_m1_0;"␗ Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | BM 9A331-1"
 cn_tor_m1_1;␗ 9A331-1
 cn_tor_m1_2;SPAAM
 cn_hq_17_shop;L/ADK17
-cn_hq_17_0;中国精密机械进出口总公司 | HQ17 | L/ADK17地對空飛彈系統
+cn_hq_17_0;中国精密机械进出口总公司 | HQ17 | L/ADK17地對空导弹系統
 cn_hq_17_1;L/ADK17
 cn_hq_17_2;SPAAM
 cn_pgz_625_fb10_shop;CS/SA5 (2022)

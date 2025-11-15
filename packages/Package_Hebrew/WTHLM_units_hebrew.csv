@@ -10,6 +10,14 @@
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+md_450b_ouragan_iaf_shop; ןגרוא
+md_450b_ouragan_iaf_0; Avions Marcel Dassault | ןגרוא M.D.450B
+md_450b_ouragan_iaf_1; ןגרוא
+md_450b_ouragan_iaf_2; ןגרוא
+md_450b_ouragan_iaf_29_shop; (29 'סמ) ןגרוא
+md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | (""הערצה תסייט"" 113 תסייט, 29 'סמ) ןגרוא M.D.450B"
+md_450b_ouragan_iaf_29_1; ןגרוא
+md_450b_ouragan_iaf_29_2; ןגרוא
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -36,6 +44,10 @@ f_16i_sufa_2; F-16
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_m113_hvms_shop;(HVMS 60) סלדרב
+il_m113_hvms_0;Israel Military Industries | (60 mm Hyper-Velocity Medium Support Weapon) סלדרב
+il_m113_hvms_1;(HVMS 60) סלדרב
+il_m113_hvms_2;Light Tank
 it_m47_105_shop; M47 RKM
 it_m47_105_0; Detroit Arsenal / Israel Military Industries + הדלפ תוקיציו תכתמ תוישעת ןדרוא | M47 RKM
 it_m47_105_1; M47 RKM
@@ -44,6 +56,10 @@ it_m47_105_2;Medium Tank
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_mim_72_chaparral_shop;ןוקרד
+il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | ןוקרד
+il_mim_72_chaparral_1;ןוקרד
+il_mim_72_chaparral_2;SPAA
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR

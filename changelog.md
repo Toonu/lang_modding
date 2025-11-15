@@ -16,7 +16,546 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.14.00 — UNRELEASED
+## 1.15.01 - UNRELEASED, WIP
+
+### Vehicles:
+
+- #### Changes:
+
+    - **CV9035NL** → **IGV 9035**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, IGV 9035 met kanon 35 mm** (removed the accidental comma before "met").
+    - **M44 / M55** (folder) (USA & France / Belgium) → **M44 / 55**. The French/Belgian folder's roundel has been corrected.
+
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - **XF5U** (profile background) (missed this last time)
+
+- #### Changes:
+
+    - **XF5U** (profile background) → **XF5U-1**.
+
+## 1.15.00 - 11-11-2025
+
+### General:
+
+- #### Additions:
+
+    - 2 new packages have been added: the Original Country Names package and the Full Original Country Names package. Because nation names and flags can now be changed, this replaces the system for country names that are not the research nation of "X / Y". Instead, all countries will have a translated name by default. The Original Country Names package turns everything into their original country names, but transliterates non-Latin scripts. The Full Original Country Names package does the same, but uses the original scripts (except for India because the game does not support the Devanagari script smh). In cases where a country has more than 1 official language for its name, the most common language is used (e.g. Flemish for the Netherlands and Zulu for South Africa).
+    - This mod's format for weapon modifications has changed, including the addition of names for pylons in the modification description where I can actually find the names. With this, the Japanese Full Ammunition Names package has been removed since it was only for the old modifications format. It'll come back eventually when I redo some Japanese weapons proper, but for now, it would just be an empty file, so it has been axed (it's entry does still exist in `localization.blk` in case you want the modification for just the ASM-1 and ASM-2 back though).
+    - I would like to welcome Violet to the mod team!
+
+### Vehicles:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **XF5U-1**
+        - **F-15C Golden Eagle**
+        - **AH-56A**
+        - **LVT(A)(1) (M24)**
+        - **M44/M55** (folder)
+        - **M56/M50** (folder)
+        - **M247/Chaparral** (folder)
+        - **PT-262**
+        - **PGM-9**
+        - **USS Oregon City**
+        - **Tornado IDS SLE**
+        - **Raketenautomat/RakJPz** (folder)
+        - **SMS Westfalen/Helgoland** (folder)
+        - **SMS König**
+        - **Yak-1 Litvyak**
+        - **Su-30MK2 AMV** (Venezuela)
+        - **T-34 (D-5T/S-53)** (folder)
+        - **T-34-85 "Taran"**
+        - **IT/Shturm** (folder)
+        - **BTR-82AT**
+        - **Osa/Strela** (folder)
+        - **Erevan**
+        - **Mosquito B.Mk.XVI**
+        - **Hawk 200**
+        - **Hawk 200 RDA**
+        - **Hawk 200** (folder)
+        - **AH Mk2**
+        - **Cromwell/Sherman** (folder)
+        - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
+        - **Stormer/Osa** (folder)
+        - **Stormer/Strela** (folder)
+        - **HMS Centurion**
+        - **AH-64E** (Japan / Indonesia)
+        - **Kari**
+        - **IJN Nagato**
+        - **IJN Musashi**
+        - **JH-7**
+        - **JH-7A Prototype**
+        - **AH-64E** (China / Taiwan)
+        - **CM34**
+        - **Oplot-M** (China / Pakistan)
+        - **MB-326K**
+        - **C13/TUA**
+        - **RN Italia**
+        - **Fokker D.XXIII**
+        - **AH-64E** (France / Netherlands)
+        - **M44/M55** (folder) (France / Belgium)
+        - **Foch/ACRA** (folder)
+        - **Jaguar**
+        - **Commandant Dominé**
+        - **La Brestois**
+        - **Clemenceau**
+        - **F-16AM MLU** (Sweden / Norway)
+        - **M.D.450B (29)**
+        - **Bardelas/60mm HVMS**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
+        - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again...
+        - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **LVT(A)(1) (M24)** → **LVT(A)(1) (M6)**. Statcard name → **Food Machinery Corporation | Landing Vehicle, Tracked (Armored) (Mk. 1) (Gun, 75mm, M6)**.
+        - **M44/M55** (folder) → **M44 / M55**.
+        - **M56/M50** (folder) → **M56 / M50**.
+        - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.
+        - **PT-262** → **USS PT-262**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262**.
+        - **PGM-9** → **USS PGM-9**. Statcard name → **Consolidated Shipbuilding Corporation | PGM-9-class Motor Gunboat | USS PGM-9**.
+        - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
+        - **Tornado IDS SLE** → **IDS-Tornado (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Service Life Enhancement Program)**.
+        - **Raketenautomat/RakJPz** (folder) → **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2**.
+        - **SMS Westfalen/Helgoland** (folder) → **SMS Westfalen / Helgoland**.
+        - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
+        - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
+        - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
+        - **T-34 (D-5T/S-53)** (folder) → **T-34-85 (Mar, 1944) / (Sep, 1944)**.
+        - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
+        - **IT/Shturm** (folder) → **IT-1 / 9P149M**.
+        - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
+        - **Osa/Strela** (folder) → **9A33BM3 / 35M2**.
+        - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
+        - **Mosquito B.Mk.XVI** → **Mosquito B. Mk. XVI**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito B. Mk. XVI**.
+        - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
+        - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
+        - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
+        - **AH Mk.2 Apache** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
+        - **HMS Centurion** → **HMS Centurion (12)**. Statcard name → **Devonport Royal Dockyard | King George V-class | HMS Centurion (12)**.
+        - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
+        - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
+        - **Stormer/Osa** (folder) → **Stormer / ☸ 9A33BM2**.
+        - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
+        - **AH-64E** (Japan / Indonesia): Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
+        - **Kari** → **Kari (PC-301)**. Statcard name → **Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)**.
+            - Japanese package: **Kari** → **かり (PC-301)**. Statcard name → **藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)**.
+        - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).
+            - Japanese package: **IJN Nagato** → **長門**. Statcard name → **呉海軍工廠 | 長門型戦艦 (A-114) | 長門 (1944)**.
+        - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
+            - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
+        - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
+        - **JH-7A Prototype** → **K/JJH7A (prototype)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (prototype)**.
+        - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
+        - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē**.
+        - **Oplot-M** (China / Pakistan) → **BM Oplot-M**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-1 | Bojova mašina Oplot-M**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
+            - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
+        - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
+        - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
+        - **RN Italia** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**.
+        - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
+        - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
+        - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
+        - **M44/M55** (folder) (France / Belgium) → **M44 / M55**.
+        - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
+        - **Commandant Dominé** → **Commandant Dominé (F 742)**. Statcard name → **Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1948)**.
+        - **Le Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
+        - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
+        - **F-16AM MLU** (Israel) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation | F-16AM-20-CF Fighting Falcon**.
+        - **M.D.450B (29)** (Israel) → **'Organ (Mis 29)**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 "Ṭayeset Haṣar'ah")**.
+        - **Bardelas/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
+    - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
+    - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
+    - **JH7A** → **K/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and K/JJH7A; other Chinese aircaft will be moved over to this later.
+    - **AH-64D** (France / Netherlands): Statcard name → **Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache** (I somehow forgot to add the manufacturer when it was added).
+    - **Re. 2005 (9-12 010 A)** → **Re. 2005 (9-12087A)**.
+    - **M48A2 GMS** → **M48A2 GMSIA**. Statcard name → **Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2**.
+    - **M247 / 48A2 GMS** (folder) → **M247 / 48A2 GMSIA**.
+    - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
+    - **87RCV**: Statcard name → **Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
+        - Japanese package: **87RCV**: Statcard name → **小松製作 KS130W | 87式偵察警戒車「ブラックアイ」**.
+    - **CTWV (RCV)** → **25RCV**. Statcard name → **Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha**.
+        - Japanese package: **CTWV (RCV)** → **25RCV**. Statcard name → **三菱重工業 | 25式偵察警戒車**.
+    - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
+    - **T-44 №1** → **T-44 (№ 1)**.
+    - **C-13 (90/38)** → **C 13 (T 90 CKL)**. Statcard name → **OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **M134 Minigun**
+        - **HOSBO**
+        - **FAB-100sv**
+        - **3OF82**
+        - **122 mm 3VDTs3** (it's the orange smoke shell in artillery strikes)
+        - **BDSh**
+        - **Kh-59M**
+        - **Kh-59ME**
+        - **9M133 ATGM**
+        - **MBDA Sea Eagle**
+        - **Drop tank (130 gal.)**
+        - **410 mm/45 Type 3** (unused)
+        - **Type 94 HE**
+        - **410 mm Type 91 APC**
+        - **7.62 mm T74 machine gun**
+        - **7.62 mm T74V machine gun**
+        - **YJ-81(k)**
+        - **BA-11A**
+        - **Drop tank (330 gal.)**
+        - **7.62 mm FN MAG 58 machine gun**
+        - **40 mm CTC cannon**
+        - **100 mm/45 model 1933**
+        - **380 mm/45 model 1935** (unused)
+        - **OFLT**
+        - **OET**
+        - **OET CHR**
+        - **PPM CHR**
+        - **KE-AB** (unused)
+        - **GPR-PD-T** (unused)
+        - **GPR-AB-T** (unused)
+        - **APFSDS-T** (unused)
+        - **100 mm OEA Mle 1945 HE-TF**
+        - **MMP**
+        - **Akeron MP ATGM** (launcher)
+        - **IMI 60mm HVMS**
+        - **AHEAD** (shell type)
+        - **APDS Sabot** (shell type)
+        - **APFSDS Sabot** (shell type)
+        - **TV+IOG+GNSS** (guidance type)
+        - **XP3264** (explosive type)
+        - **Missiles shown** (some random text)
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **M134 Minigun** → **M134**. Long name → **Machine Gun, 7.62mm, M134**.
+        - **HOSBO**: Long name → **Hochleistungssprengbombe**.
+        - **FAB-100sv**: Long name → **FAB-100sv**.
+        - **3OF82** → **3VOF128**.
+            - Full Ammunition Names package: **3OF82** → **3VOF128 (3OF82)**.
+        - **122 mm 3VDTs3** → **3VDCz3**.
+            - Full Ammunition Names package: **122 mm 3VDTs3** → **3VDCz3 (3DCz3)**.
+        - **BDSh** → **BDŠ-5**. Long name → **Bol'šaâ dymovaâ šaška BDŠ-5**.
+        - **Kh-59M**: Long name → **izd. D-9M | Upravlâyemaâ rakyeta Kh-59M "Ovod-M"**.
+        - **Kh-59ME** → **Kh-59MÈ**. Long name → **izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ "Ovod-MÈ"**.
+        - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
+        - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
+        - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
+        - **410 mm/45 Type 3** → **45 Kōkei 3 Nen Shiki 41 Sanchi Hō**. Long name → **45 Kōkei 3 Nen Shiki 41 Sanchi Hō**.
+            - Japanese package: **410 mm/45 Type 3** → **四五口径三年式四一糎砲**. Long name → **四五口径三年式四一糎砲**.
+        - **Type 94 HE** → **3.7 Sanchi 94 Shiki Tsūjō Dan**.
+            - Japanese package: **Type 94 HE** → **三糎七九四式通常弾**.
+        - **410 mm Type 91 APC** → **41 Sanchi 91 Shiki Tekkō Dan**.
+            - Japanese package: **410 mm Type 91 APC** → **四一糎九一式徹甲弾**.
+        - **7.62 mm T74 machine gun** → **T74 7.62 Gōnglí Jīqiāng**.
+        - **7.62 mm T74V machine gun** → **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**.
+        - **YJ-81(k)** → **H/AKJ08**. Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
+        - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
+        - **Drop tank (330 gal.)** → **Drop tank (330 L)** (this is not an incorrect conversion, Gaijin just wrote gallons even though the tank is actually 330 L).
+        - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.
+        - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
+        - **100 mm/45 model 1933** → **Canon de 100 mm/45 mle. 1933**. Long name **Canon de 100 mm/45 modèle 1933**.
+        - **380 mm/45 model 1935** → **Canon de 380 mm/45 mle. 1935**. Long name **Canon de 380 mm/45 modèle 1935**.
+        - **OFLT**:
+            - Full Ammunition Names package: **OFLT** → **Obus Flèche Traceur**.
+        - **OET**:
+            - Full Ammunition Names package: **OET** → **Obus Explosif Traceur**.
+        - **OET CHR**:
+            - Full Ammunition Names package: **OET CHR** → **Obus Explosif Traceur Chronométrique**.
+        - **PPM CHR**:
+            - Full Ammunition Names package: **PPM CHR** → **Projectile Perforant Multiple Chronométrique**.
+        - **100 mm OEA Mle 1945 HE-TF** → **100 mm OEA mle. 1945**.
+            - Full Ammunition Names package: **100 mm OEA Mle 1945 HE-TF** → **100 mm Obus Explosif en Acier modèle 1945**.
+        - **MMP** → **AKERON MP**.
+        - **Akeron MP ATGM** (launcher) → **AKERON MP**.
+        - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
+        - **TV+IOG+GNSS** (guidance type) → **TV + IOG + GNSS**.
+    - **Kh-39**: Long name → **9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39**. Type tag has been corrected to AGM-IR/GNSS.
+    - **37 mm OEA Mle. 1935** → **37 mm OEA mle. 1935**.
+    - **100 mm OEA Mle. 1928** → **100 mm OEA mle. 1928**.
+    - **152 mm OEA Mle. 1936** → **152 mm OEA mle. 1936**.
+    - **203 mm OPf(K) RC Mle. 1936** → **203 mm OPf(K) RC mle. 1936**.
+    - **380 mm OEA Mle. 1949** → **380 mm OEA mle. 1949**. 
+    - **380 mm OPf(K) RC Mle. 1936** → **380 mm OPf(K) RC mle. 1936**. 
+    - **380 mm OPf(K) RC Mle. 1943** → **380 mm OPf(K) RC mle. 1943**. 
+    - **410 mm/45 Type 3** (the one that already exists, not the new one) → **45 Kōkei 3 Nen Shiki 41 Sanchi Hō**. Long name → **45 Kōkei 3 Nen Shiki 41 Sanchi Hō**.
+            - Japanese package: **410 mm/45 Type 3** → **四五口径三年式四一糎砲**. Long name → **四五口径三年式四一糎砲**.
+    - **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchi Han Hō**. "Senchimētoru" is most accurate to the Kanji, but the Japanese Navy and Army had a toddler-level rivaly between them that went so deep that it extended to what dialect was used. So basically, "Sanchimētoru" comes from the dialect the navy used, but both the army and navy officially used the shortened forms of the words so you get "senchi" and "sanchi" respectively. The same applies to "Mirimētoru."
+    - **45 Kōkei 94 Shiki 40 Sanchimētoru Hō** → **45 Kōkei 94 Shiki 40 Sanchi Hō**.
+    - **98 Shiki 20 Mirimētoru Kōsha Kikanhō** → **98 Shiki 20 Miri Kōsha Kikanhō**.
+    - **5 Shiki 30 Mirimētoru Kotei Kijū** → **5 Shiki 30 Miri Kotei Kijū**.
+    - **94 Shiki 37 Mirimētoru Sensha Hō** → **94 Shiki 37 Miri Sensha Hō**.
+    - **1 Shiki 47 Mirimētoru Sensha Hō** → **1 Shiki 47 Miri Sensha Hō**.
+    - **Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata** → **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata**.
+    - **Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata** → **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata**.
+    - Added the missing type tags in the Japanese package for the following weapons:
+        - **AAM-3**
+        - **AAM-4**
+        - **ASM-1**
+        - **ASM-2**.
+
+### Modifications:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **GBU-31/62 JDAM**
+        - **Kh-29TE/59M**
+        - **Slat armour** (for the **EBRC Jaguar**)
+        - **Additional Ballistic Protection Package** (for the **BTR-82AT (9P163-1)**)
+        - **39A-940-31/32 gun pod**
+        - **Weapon modifications** (some random weapon text idk)
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **GBU-31/62 JDAM** → **GBU-31(V)1/B / 62(V)1/B**.
+        - **Kh-29TE/59M** → **Kh-29TÈ / 59M**.
+        - **Slat armour** (for the **EBRC Jaguar**) → **Slat Armor**.
+        - **Additional Ballistic Protection Package** (for the **BTR-82AT (9P163-1)**) → **Slat Armor**.
+        - **39A-940-31/32 gun pod** → **39A940-31/32**.
+    - Existing weapons that have recieved the new modification format:
+        - **Kh-39**
+        - **ASM-1**
+        - **ASM-2**
+        - **CM502KG** (unknown pylon name)
+        - **rb 74**
+        - **rb 74 (REMO)**
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **AN/APG-66H**
+        - **AN/APG-66(V)2**
+        - **AN/APG-66(V)3**
+        - **L-150-14**
+        - **Antares**
+    - **Targeting pod** → **Bullpup Control Pod**. The guidance pod for using Bullpup AGMs on the FJ-4B (VMF-232). It doesn't appear to have any sort of JETDS `AN/Axx` designation, unfortunately.
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **L-150-14** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pastyel'**.
+        - **Antares** → **ANTARES**.
+    - **L-150 Pastyel'** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150 Pastyel'**.
+    - **L-150-28M** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'** (it's unused but it does exist so I am fixing it).
+    - **L-150-30SM** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'** (it's unused but it does exist so I am fixing it).
+    - The RWR type tag has been removed because it was entirely pointless as every RWR is preceded by "RWR:" anyway ("RWR: [RWR NAME] RWR" is pointless repetition).
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **Isotta Fraschini** (manufacturer)
+        - **ID38SS**
+        - **740.13-300**
+        - **Condor 900E**
+        - **Merlin-77**
+        - **Adour Mk.871**
+        - **Viper Mk.540**
+        - **Viper Mk 632-43**
+        - **Sagitta I-SR**
+        - **T64-GE-716**
+        - **R2000-7**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **ID38SS** → **ID 38 SS**.
+        - **740.13-300** → **KAMAZ 740.13-300**.
+        - **Merlin-77** → **Rolls-Royce R.M. 11S | Merlin Mk. 77**.
+        - **Adour Mk.871** → **Adour Mk. 871**.
+        - **Viper Mk.540** → **Viper Mk. 540**.
+        - **Viper Mk 632-43** → **Viper Mk. 632-43**.
+        - **T64-GE-716** → **T64-GE-716(ST)**.
+        - **R000-7** → **R-2000-7**.
+    - **Viper Mk 633-41** → **Viper Mk. 633-41**.
+    - **Viper Mk 633-43** → **Viper Mk. 633-43**.
+    - **Viper Mk 633-47** → **Viper Mk. 633-47**.
+    - **KamAZ** (manufacturer) → **PAO «KAMAZ»**.
+    - **Walter** (manufacturer) → **Walter Aircraft Engines**.
+    - **V-84АМС** → **V-84AMS** (I somehow left the AMS part in Russian as АМС even though I did have the V part in English).
+
+### Nations:
+
+- #### Changes:
+
+    - **Iran**:
+        - Farsi package: **جمهوری اسلامی ایران** → **ایران** (because names have be shortened now due to the new country renaming feature).
+    - **Kingdom Thailand**:
+        - Thai package: **ราชอาณาจักรไทย** → **ประเทศไทย** (because names have be shortened now due to the new country renaming feature).
+
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **XF5U-1**
+        - **AH-56A**
+        - **Hawk 200**
+        - **EBRC Jaguar**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **Hawk 200** → **Hawk 200 (ZH200)**.
+    - **T-44 №1** (profile header) → **T-44 (№ 1)**.
+
+
+## 1.14.02 - 23-10-2025
+
+- #### Additions:
+
+    - Added 3 new loading tips (thanks to @scorpiodude on the Swedish Tech Tree Fan Discord server for writing the Hungarian ones):
+        - General: 1
+        - Air: 0
+        - Ground: 2
+        - Naval: 0
+
+### General:
+
+- #### Changes:
+
+    - The mod's transliteration system for Korean (this affects literally only the KGGB) has changed from the 2000 Revised Romanization of Korean (the official romanization system of South Korea) to the 2012 revision of the 1997 Romanization of Korean (the official romanization of North Korea). This was done to keep the Korean transliterations inline with the rest of this mod's transliterations that use diacritics.
+    - Corrected the loading tip on the Maus to be historically accurate (thanks to @kermiiiie on the Swedish Tech Tree Fan Discord server for informing me of this).
+
+### Vehicles:
+
+- #### Additions:
+
+    - **RN Luigi Cadorna**
+    - **Re.2005 (VDM)**
+    - **M1A1 HC** (Senrai Maidens)
+    - **Leopard 2A4M** (Senrai Maidens)
+    - **T-80U-E1** (Senrai Maidens)
+    - **FV/M109** (folder)
+    - **Vickers/Olifant** (folder)
+    - **Vickers/Rooikat** (folder)
+    - **VFM/MTTD** (folder)
+
+- #### Changes:
+
+    - **RN Luigi Cadorna** → **Luigi Cadorna**. Statcard name → **Cantieri riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)**. I absolutely cannot find the refit location. It's in one of the allied ports it was sent to after the armisitce and the torpedo tubes were removed in April, 1944. But I cannot find where. Please let me know if you do know.
+    - **Re.2005 (VDM)** → **Re. 2005 (9-12 010 A)**. Statcard name → **Officine Meccaniche Italiane | Re. 2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12 010 A)**. VDM is the company that made the propellors, but they made about 90% of the Luftwaffe's propellors and they made a huge amount of different models. The specific model fitted to the 2nd prototype Re. 2005 with serial MM.495 is the 9-12 010 A.
+    - **Leopard 2 A4M CAN** (Senrai Maidens) → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN «Elsa»** .
+    - **Leopard 2 A4M CAN** → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN** .
+    - **M1A1 HC** (Senrai Maidens) → **M1A1HC**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»**.
+    - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
+    - **M1A1HC "Click-Bait"** → **M1A1HC «Click-Bait»**.
+    - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1 «Maria»**.
+    - **T-80UYe-1** → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1**.
+    - **FV/M109** (folder) → **Centaur / M109A1**.
+    - **Vickers/Olifant** (folder) → **Vickers Mk. 3 / Olifant Mk1A**.
+    - **Vickers/Rooikat** (folder) → **Vickers Mk. 11 / Rooikat Mk1D**.
+    - **VFM/MTTD** (folder) → **VFM5 / MTTD**.
+    - **T-80U (Drozd)**: Statcard name → **Kirovskij zavod | Ob"yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)**.
+    - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
+    - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
+    - **B.JT.1**:
+        - Thai package: Statcard name → **LTV Corporation | เครื่องบินโจมตีแบบที่ ๑ก** (corrected the misspelling of "corporation" as "corperation").
+    - **B.Kh.18Kh (1988)**:
+        - Thai package: Statcard name → **Northrop Corporation F-5-21 | เครื่องบินขับไล่แบบที่ ๑๘ข (1988)** (corrected the misspelling of "corporation" as "corperation").
+    - **USS Cowell (DD-547)**: Statcard name → **Bethlehem Shipbuilding San Pedro | Fletcher-class Destroyer | USS Cowell (DD-547)**.
+    - **Kronštadt**: Statcard name → **Zavod № 194 im. Marti | Tâžyelyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt**.
+    - **Syevastopol'**: Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'**.
+    - **Sovyetskij Soûz**: Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
+    - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 "Al'batros" | MPK-33**.
+    - **141 (1 Hào)**: Statcard name → **Zhuāngjiabīng Mou Yánjiū Suo | 141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)**. I somehow forgot to add the manufacturer I had written down and ready to go in the spreadsheet for 4 updates in a row! Well, here it is now.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **30 mm Bushmaster 2 Mk.44 Mod.1 cannon** (I noticed it was added at the last minute; don't have time to research and rename it)
+
+- #### Changes:
+
+    - **1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
+    - **1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **85 mm Type 56 cannon** → **52-PT-365 | ZiS-S-53 obr. 1944 g.**. Gaijin calls it the Type 56 which is a Chinese copy of the D-44, but it's not. It's identical to the ZiS-S-53 obr. 1944 g. but named differently because Gaijin is Gaijin.
+    - **L/FB10** → **FB10**.
+    - **L/FB10A** → **FB10A**.
+    - **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **FB10 Dì Duì Kōng Daodàn Fāshè Chē** (when L/ is and isn't used is a giant nightmare).
+    - **Hanguk-hyeong GPS Yudo-poktan** → **Han'guk-hyŏng GPS Yudo-Poktan** (new transliteration system for Korean).
+
+### Engines:
+
+- #### Changes:
+
+    - **MTR390-2c** → **MTR390-2C**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **Drozd** → **Komplyeks aktivnoj zaŝity 1030M-01 | Drozd**.
+    - **KAZ Aryena-M** → **Komplyeks aktivnoj zaŝity Aryena-M**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - **EFV** (profile background) (forgot to add this in Semper Fidelis)
+    - **RE 2005 (VDM)** (why tf would gaijoobles spell this differently than the way they spell the actual vehicle??)
+
+- #### Changes:
+
+    - **EFV** → **EFV-P1 (SDD-2) (M82)**.
+    - **RE 2005 (VDM)** → **Re. 2005 (9-12 010 A)**.
+
+## 1.14.01 - 04-10-2025
+
+### Vehicles:
+
+- #### Additions:
+
+    - "Semper Fidelis" event additions:
+        - **EFV**
+    - **SU/Object** folder (jesus christ that name)
+
+- #### Changes:
+
+    - "Semper Fidelis" event changes:
+        - **EFV** → **EFV-P1 (SDD-2) (M82)**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)**. It's a mutant. It's an SDD-2, but with a weird cant angle at the front sideskirt notch that doesn't exist on any EFV variant and the smoke grenades from the SDD-1 turret instead of an extendable camera observation tower, though the rest of the turret is an SDD-2 turret. I have reported this already, this name might become just **EFV-P1 (SDD-2)** if Gaijoobles fixes it.
+    - **SU/Object** folder → **SU-122-54 / Ob. 268**.
+    - **T-55A / AD-1** folder → **T-55A / 62**. Folders have been shuffled around so the vehicles changed.
+    - **T-62 / 62M-1** folder → **T-55AD-1 / 62M-1**. Folders have been shuffled around so the vehicles changed.
+    - **Sky Sabre (iLauncher) / (Giraffe AMB)** folder → **Sky Sabre (Giraffe AMB) / (iLauncher)** to reflect the order of the vehicles.
+    - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
+    - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
+    - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.
+    - **Tiger B (früh)** → **Tiger B (Fgst.Nr. 15)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)**.
+    - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
+    - **Tiger B (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
+    - **Tiger B (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
+    - **BgPz 57** → **Begleit-Pz 57 mm**. Statcard name → **Thyssen Henschel + Bofors Begleitpanzer 57 mm**.
+    - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"** (the accidental Russian quote characters around "Fyeniks" have been replaced with English quote characters, thx Odican for making me realize).
+    - **Eurofighter (T2 B10)** → **Eurofighter (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)**.
+    - **Typhoon F.G.R. Mk. 4** → **Typhoon F.G.R. Mk. 4 (Centurion)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3A) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)**.
+    - **F-2000A** → **F-2000A (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao Stingray | Rth Thạng Bao 32**.
+        - Thai package: Statcard name → **Cadillac Gage Stingray | รถถังเบา Stingray | รถถังเบา 32**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk Oplot | Rth Thạng Hlạk 57**.
+        - Thai package: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก Oplot | รถถังหลัก 57**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Rth Thạng Hlạk Oplot | Rth Thạng Hlạk 57**.
+        - Thai + Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก Oplot | รถถังหลัก 57**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Grenade, Launcher, Smoke, M82** → **Grenade, Launcher, Smoke: Simulant Screening, M82**.
+
+## 1.14.00 — 25-09-2025
 
 I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for helping with the Hungarian ground tree rework. Without their help, this rework would not have been possible and the sourcing work they did for it was instrumental to it coming out as good as it did.
 
@@ -110,7 +649,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Mosquito FB Mk VI ASH** → **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
         - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **AH-64E** → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**. It's a butchered to hell v6, but it has the JAGM so it is the v6.
-        - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P**.
+        - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet «Fyeniks»**. What have I done...? I'm scared of my creation...
         - **Mi-35** (Japan / Indonesia) → **Mi-35P**. Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P**.
         - **M55**: Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.
@@ -118,11 +657,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
         - **BMD-4M2** → **BMD-4M (Sinicza)**. Statcard name → **Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)**.
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
-        - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
-        - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
+        - **9K317M "BUK-M3" (TADS)** → **9S18M3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 "Kupol-M3"**.
+        - **9K317M ""BUK-M3"** folder → **9S18M3 / A317M**.
         - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
         - **Sky Sabre (TEL)** → **Sky Sabre (iLauncher)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)**.
-        - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)**.
+        - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe Agile Multi Beam)**.
         - **Sky Sabre** folder → **Sky Sabre (iLauncher) / (Giraffe AMB)**.
         - **M163** (Japan / Thailand) → **Ptx. M 163**. Statcard name → **General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163**.
             - Thai package: **M163** → **ปตอ. เอ็ม 163**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร 20 มม เอ็ม 163**.
@@ -139,7 +678,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
         - **FSAF SAMP/T (TEL)** (Italy) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)**.
         - **FSAF SAMP/T (TADS)** (Italy) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
-        - **FSAF SAMP/T** (France) folder → **SAMP/T (MRI) / (MLT)**.
+        - **FSAF SAMP/T** (Italy) folder → **SAMP/T (MRI) / (MLT)**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **FSAF SAMP/T (Mamba) (TEL)** (France) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module de Lancement Terrestre)**.
         - **FSAF SAMP/T (Mamba) (TADS)** (France) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module Radar et IFF)**.
@@ -149,8 +688,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
         - **Z51** → **Z 51**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1942 | Z 51**.
         - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 imyeni A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33**.
-        - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)**.
-        - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
+        - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. / HMS Proserpine | S-class | HMS Saumarez (G 12) (1944)**.
+        - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)**.
         - **IJN Tsugaru** → **Tsugaru**. Statcard name → **Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) | Tsugaru (1943)**.
             - Japanese package: **IJN Tsugaru** → **津輕**. Statcard name → **横須賀海軍工廠 | 津輕型敷設艦 (H-10) | 津輕 (1943)**.
         - **IJN Hiei** → **Hiei**. Statcard name → **Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)**.
@@ -231,7 +770,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
-    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
     - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
     - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
     - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.
@@ -253,6 +792,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Su-34**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO**.
     - **Mi-8AMTŠ-VN**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
     - **BMD-4**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960 | Boyevaâ mašina dyesanta BMD-4 obr. 2004 g.**.
+    - **9A33BM2** (Germany & UK / India): Statcard name → **Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 "Osa-AK"**.
+    - **9A33BM3** (USSR & Italy / Romania): Statcard name → **Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 "Osa-AKM"**.
     - **TKA №164** → **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
     - **Leipzig/Nurnberg** folder → **Leipzig / Nürnberg**.
     - **St.-Chamond Mle. 1918** → **St.-Chamond mle. 1918**.
@@ -267,9 +808,48 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **B61**
         - **KGGB**
         - **BA-FG-230-Lizard-3**
+        - **CLDP**
         - **Drop tank (300 gal.)** (for the **F-2A-MIT (C10)**)
         - **CFT** (for the **F-16I**)
         - **Drop tank (275 gal.)**
+        - **45-54VT**
+        - **M118 3000 lb** (another one)
+        - **20 mm FlaK38 cannon**
+        - **37 mm Gerät 341 cannon**
+        - **Pzgr.** (for the new **Gerät 341**)
+        - **Sprgr.** (for the new **Gerät 341**)
+        - **DHL-1** (explosive type)
+        - **Nipolit** (explosive type)
+        - **PBXN-9** (explosive type)
+        - **9M317MA AAM** (launcher weapon for the **9A317M**)
+        - **9M317MA**
+        - **Aster-30 AAM** (launcher weapon for the **SAMP/T (MLT)**)
+        - **Aster-30**
+        - **CAMM AAM**
+        - **CAMM**
+        - **CAMM-ER**
+        - **125 mm KBA-3 cannon**
+        - **7.62 mm KT-7.62 machine gun**
+        - **12.7 mm KT-12.7 machine gun**
+        - **Fire Snake 70A**
+        - **AGM-179 JAGM-MR (IR)**
+        - **AGM-179 JAGM-MR (SAL)**
+        - **AIM-7F** (another one)
+        - **AIM-7M** (another one)
+        - **CM-502KG**
+        - **BTA4**
+        - **4.7 inch/45 Mk.IX cannon**
+        - **203 mm M47 cannon**
+        - **155 mm T180 cannon**
+        - **T152**
+        - **T267**
+        - **100 mm 2A70 cannon**
+        - **356 mm No5 APC**
+        - **LMUR**
+        - **Mk.11**
+        - **OSA-M**
+        - **9M33**
+        - **152 mm/55 model 1930** (new one for **Montcalm**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -282,15 +862,67 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **X-4** → **X 4**. Long name → **X 4**.
         - **RN-28**: Long name → **izd. 28 | RN-28**.
         - **B61** → **B61-8**. Long name → **Bomb, 2000lb, B61 Mod 8**.
-        - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
+        - **BA-FG-230-Lizard-3** → **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
+        - **CLDP**: Long name → **Convertible Laser Designation Pod**.
         - **Drop tank (300 gal.)** → **Drop tank (300 gal)**.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**.
+        - **45-54VT**: Long name → **Torpyeda vysotnogo torpyedomyetaniâ 45-54VT**.
+        - **M118 3000 lb** → **M118**. Long name → **Bomb, 3000lb, GP, M118**.
+        - **20 mm FlaK38 cannon** → **2cm Flugzeugabwehrkanone-Zwilling 38**.
+        - **37 mm Gerät 341 cannon** → **3,7cm Gerät 341**.
+        - **Pzgr.** (for the new **Gerät 341**) → **3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
+            - Full Ammunition Names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
+        - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
+            - Full Ammunition Names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
+        - **DHL-1** → **DHL1**.
+        - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovoye ustrojstvo 9P331M**.
+        - **9M317MA**:
+            - Full Ammunition Names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
+        - **Aster-30 AAM** (launcher weapon for the **Aster 30 Block 0**) → **SYLVER A50**. Long name → **Système de Lancement Vertical A50**.
+        - **Aster-30** → **Aster 30 Block 1**.
+        - **CAMM AAM** (launcher weapon for the **Sky Sabre (iLauncher)**) → **iLauncher**. Long name → **Intelligent Launcher**.
+        - **CAMM**:
+            - Full Ammunition Names package: **CAMM** → **Common Anti-Air Modular Missile**.
+        - **CAMM-ER**:
+            - Full Ammunition Names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
+        - **125 mm KBA-3 cannon** → **KBA-3**.
+            - Ukrainian package: **125 mm KBA-3 cannon** → **КБА-3**.
+        - **7.62 mm KT-7.62 machine gun** → **KT-7,62**.
+            - Ukrainian package: **7.62 mm KT-7.62 machine gun** → **КТ-7,62**.
+        - **12.7 mm KT-12.7 machine gun** → **KT-12,7**.
+            - Ukrainian package: **12.7 mm KT-12.7 machine gun** → **КТ-12,7**.
+        - **Fire Snake 70A** → **FS70A**. Long name → **FS70A Hángkōng Zhìdao Huojiàndàn**.
+        - **AGM-179 JAGM-MR (IR)** → **JAGM-MR (IR)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR)**. The AGM-179 is complicated. The AGM-179C and D designations exist, but we do not know what they are for. The timeline is that in 2021, the AGM-179C designation is assigned. Then, in November of 2022, Lockheed Martin tests their *self-funded* JAGM-MR. Finally, in 2024, the AGM-179D designation is assigned. The lack of US DoD (or ig now it's DoW if you're crazy) involvement in the development of the JAGM-MR and then the assigning of an AGM-179D designation to something a bit under 2 years later leads me to believe that the AGM-179C is probably something else and the JAGM-MR got assigned the designation of AGM-179D. However, we are not sure and so are playing it safe and using Lockheed Martin's internal name for the project of **JAGM-MR**.
+        - **AGM-179 JAGM-MR (SAL)** → **JAGM-MR (SAL)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
+        - **AIM-7F** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow**.
+        - **AIM-7M** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow**.
+        - **CM-502KG** → **CM502KG**. Long name → **CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong**.
+        - **BTA4** → **BTA4-125**.
+            - Full Ammunition Names package: **BTA4** → **BTA4 Shì 125 Háomi Chuān Jia Dàn**.
+        - **4.7 inch/45 Mk.IX cannon** → **Gun, Q.F., 4.7-inch, Mk. IX**.
+        - **203 mm M47 cannon** → **Howitzer, 8-Inch, M47**.
+        - **155 mm T180 cannon** → **Gun, 155mm, T180**.
+        - **T152** → **T152E5**.
+            - Full Ammunition Names package: **T152** → **Cartridge, 155mm: HEP, T152E5**.
+        - **T267**:
+            - Full Ammunition Names package: **T267** → **Cartridge, 155mm: HEAT, T267**.
+        - **M106**:
+            - Full Ammunition Names package: **M106** → **Projectile, 8-Inch: HE, M106**.
+        - **100 mm 2A70 cannon** → **2A70**.
+        - **356 mm No5 APC** → **36 Sanchi 5 Gō Tekkō Dan**.
+            - Full Ammunition Names package: **356 mm No5 APC** → **三六糎五號徹甲弾**.
+        - **LMUR** → **Kh-39**. Long name → **9-A-7755 | izd. 305 | Kh-39**.
+        - **Mk.11** → **Mk 11 Mod 0**. Long name → **Guided Missile Launching System Mk 11 Mod 0**.
+        - **OSA-M** → **ZIF-122**. Long name → **Puskovoye ustrojstvo ZIF-122**.
+        - **9M33** → **9M33M**.
+            - Full Ammunition Names package: **9M33** → **Zyenitnaâ upravlâyemaâ rakyeta 9M33M**.
+        - **152 mm/55 model 1930** (the new one for **Montcalm**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
-            - Full ammunition names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
+            - Full Ammunition Names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
         - **350 mm Psgr. L/3,6 APCBC** → **35cm Pz.Spr.Gr. L/3,6**.
-            - Full ammunition names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
+            - Full Ammunition Names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
     - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
@@ -306,14 +938,167 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
     - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**.
-        - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
+        - Full Ammunition Names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
+    **M118**: Mass tag → 1369.8 kg.
+    - **2cm Pzsprgr.Patr.L'spur.o.Zerl.** → **2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
+    - **1,5cm Sprgr.Patr.Üb.o.Zerl.** → **1,5cm Spr.Gr.Patr.Üb.o.Zerl.**.
+    - **3,7cm Sprgr.Patr. 18** → **3,7cm Spr.Gr.Patr. 18**.
+    - **3,7cm Pzgr.Patr. 18** → **3,7cm Pz.Gr.Patr. 18**.
+    - **4cm Pzgr.Patr.L'spur.** → **4cm Pz.Gr.Patr.L'spur.**.
+    - **9K33M3** launcher → **Puskovoye ustrojstvo 9P35M2**.
+    - **FS70**: Long name → **FS70 Hángkōng Huojiàndàn**.
+    - Corrected quotation formatting on the **Kh-36 (A1)**.
+    - **Canon de 100 mm/45 Mle. 1930** → **Canon de 100 mm/45 mle. 1930**.
+    - **Canon de 380 mm/45 Mle. 1935** → **Canon de 380 mm/45 mle. 1935**.
+    - **152 mm/55 model 1930** (the existing one for **La Galissonnière**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
+    - **Octogel** (explosive type) → **HMX**
+    - **105 mm LRF cannon** → **Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun**.
 
-### Engines:
+### Modifications
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **GBU-38/62**
+        - **JDAM**
+        - **GBU-31/64**
+        - **SPICE 250/1000**
+        - **SPICE 1000/2000**
+        - **SPICE 2000**
+        - **GBU-38/62 JDAM** (a-fucking-nother one the JDAMs never end)
+        - **GBU-31/64 JDAM** (JDAMs are my life now)
+        - **MAW BOZ**
 
 - #### Changes:
 
+    - Update "Tusk Force" changes:
+        - **GBU-38/62** → **GBU-38(V)1/B / 62(V)1/B**.
+        - **GBU-38/62 JDAM** → **GBU-38(V)1/B / 62(V)1/B**.
+        - **JDAM** → **GBU-31(V)1/B / 38(V)1/B / 62(V)1/B / 64(V)1/B**.
+        - **GBU-31/64** → **GBU-31(V)1/B / 64(V)1/B**.
+        - **GBU-31/64 JDAM** → **GBU-31(V)1/B / 64(V)1/B**.
+        - **SPICE 1000/2000** → **SPICE 1000 / 2000**.
+        - **MAW BOZ** → **BOZ-102-EC**.
+    - **GBU-15(V)1/B** → **GBU-15(V)1/B / 2/B**.
+    - **HF7D (Type 70)** → **FS70**.
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **Detroit** (manufacturer)
+        - **8V92TA**
+        - **6TD-2**
+        - **V-84-2S1**
+        - **UTD-29T-01**
+        - **Dxi 11**
+        - **WJ-6**
+        - **Weijiang** (manufacturer)
+        - **Sakae 22** (unused)
+        - **Derwent 1** (unused)
+        - **Ha-25 type 99** (unused)
+        - **J71-A-13**
+        - **T700-GE-701D**
+
+- #### Changes:
+
+    - Update "Tusk Force" changes:
+        - **Detroit** (manufacturer) → **Detroit Diesel Corporation**.
+        - **8V92TA** → **8V-92TA**.
+        - **6TD-2**:
+            - Ukrainian package: **6TD-2** → **6ТД-2**.
+        - **V-84-2S1** → **V-84MS**. I'm not 100% sure, but it appears what happened is that the GM-569A chassis can mount the V-46-2S1M, V-84DT, or V-84MS engines. I cannot find the stats for the V-84DT, but the visual model of the engine and the ingame stats do appear to line up with at least the V-84MS, but Gaijin fused those engines into the hybrid name of V-84-2S1.
+        - **Dxi 11** → **DXi 11 Euro 4**.
+        - **WJ-6** → **WJ6 Fādòngjī**.
+        - **Weijiang** → **Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī** (idk wtf Weijiang is, I can't find any record of this manufacturer ever existing, so its name has been chanegd to what the actual manufacturer is).
+        - **Sakae 22** → **Ha 35-22 | Sakae 22 Gata | NK1G**.
+            - Japanese package: **Sakae 22** → **ハ35-22 | 栄二二型 | NK1G**.
+        - **Derwent 1** → **Rolls-Royce RB.37 | Derwent Mk. 1**.
+        - **Ha-25 type 99** → **99 Shiki 950 Bariki Hatsudōki | Ha 25**.
+            - Japanese package: **Ha 25 type 99** → **九九式九五〇馬力発動機 | ハ25**.
     - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
         - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - Tracking & search types:
+            - **ATT** (Gaijin calls it a model of sight, it's not)
+            - **Air Search**
+            - **Surface Search**
+            - **GTM**
+            - **Sea**
+            - **GMTI**
+        - **Giraffe AMB**
+        - **Thales Arabel**
+        - **9S18M3**
+        - **Viking**
+        - **AN/APG-78**
+        - **AN/APG-78(V6)**
+        - **SPS-3000**
+        - **RWR** (for the **Z10**s and **Z19**s)
+        - **Varta**
+
+- #### Changes:
+
+    - Update "Tusk Force" changes:
+        - **Giraffe AMB** → **Giraffe Agile Multi Beam**.
+        - **Thales Arabel** → **Arabel**.
+        - **9S18M3** → **Radiolokaczionnaâ stancziâ 9S18M3 "Kupol-M3"**.
+        - **Viking** → **Radiolokaczionnaâ stancziâ 9S35M3**.
+        - **AN/APG-78** → **AN/APG-78 Longbow**.
+        - **AN/APG-78(V6)** → **AN/APG-78(V)6 Longbow**.
+        - **SPS-3000** → **SPS-3000(V)**.
+        - **RWR** → **YH96**.
+        - **Varta**:
+            - Ukrainian package: **Varta** → **Варта**.
+
+### Materials:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **"Nizh" ERA**
+        - **"Duplet" ERA**
+
+- #### Changes:
+
+    - Update "Tusk Force" changes:
+        - **"Nizh" ERA** → **Nìž-1M**.
+            - Ukrainian package: **"Nizh" ERA** → **Ніж-1М**.
+        - **"Duplet" ERA** → **Duplyet-2M**.
+            - Ukrainian package: **"Duplet" ERA** → **Дуплет-2М**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **HMS Nelson**
+        - **M55**
+        - **BM Oplot-T**
+        - **Attack helicopters**
+    - jesus christ i missed so many from before tusk force:
+        - **WZ-141-1**
+        - **IJN Shisaka**
+        - **Mackensen**
+
+- #### Changes:
+
+    - Update "Tusk Force: changes:
+        - **HMS Nelson** → **HMS Nelson (28)**.
+        - **BM Oplot-T** → **Th.Hlạk 57**.
+            - Thai package: **BM Oplot-T** → **ถ.หลัก 57**.
+        - **Attack helicopters** → **AH-64E Apache (v6), Mi-28NM, and Z10ME-02**.
+    - **WZ-141-1** → **141 (1 Hào)**.
+    - **IJN Shisaka** → **Shisaka**.
+        - Japanese package: **IJN Shisaka** → **四阪**.
+    - **F-14A-65-GR Tomcat** → **F-14A-110-GR Tomcat**.
+    - **AMX 40** → **AMX 40 P4**.
+    
 
 ## 1.13.02 — 13-08-2025
 
@@ -889,20 +1674,20 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **IRIS-T SLM SAM** → **IRIS-T SLM Startgerät**.
         - **IRIS-T SL** → **IRIS-T SLM**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
-            - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
+            - Full Ammunition Names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
-            - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
+            - Full Ammunition Names package: Name → **3,7cm Sprenggranate Patrone 18**.
         - **PzGr** → **3,7cm Pzgr.Patr. 18**.
-            - Full ammunition names package: Name → **3,7cm Panzergranate Patrone 18**.
+            - Full Ammunition Names package: Name → **3,7cm Panzergranate Patrone 18**.
         - **SprGr** → **1,5cm Sprgr.Patr.Üb.o.Zerl.**.
-            - Full ammunition names package: Name → **1,5cm Sprenggranate Patrone Übungs ohne Zerleger**.
+            - Full Ammunition Names package: Name → **1,5cm Sprenggranate Patrone Übungs ohne Zerleger**.
         - **M-Gesch.** → **2cm M.Gesch.Patr.o.Zerl.**.
-            - Full ammunition names package: Name → **2cm Minengeschoß Patrone ohne Zerleger**.
+            - Full Ammunition Names package: Name → **2cm Minengeschoß Patrone ohne Zerleger**.
         - **Pzsprgr.** → **2cm Pzsprgr.Patr.L'spur.o.Zerl.**.
-            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
+            - Full Ammunition Names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
             - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. Shit like this is why this update is late. I hope you're fucking happy with me.
         - **40 mm HE-T** → **4cm Pzgr.Patr.L'spur.**.
-            - Full ammunition names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
+            - Full Ammunition Names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **JATO** → **Flz.Sta.Rak. 69**. Long name → **Flugzeug Start Rakete 69**. Seriously, thank you to Theren for this one because it never would have gotten fixed otherwise.
@@ -923,7 +1708,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
         - **381 mm Mk.XXIIb SC APC** → **A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
-            - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
+            - Full Ammunition Names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
         - **JM61A2**: Long name → **JM61A2**.
@@ -949,43 +1734,43 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - As an aside, it's file name is weapons/160mm_sam_1c_*slave*_launcher_user_cannon which is... yikes...
         - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
         - **30 mm HEI** (for the **CS/SA5 (2022)**) → **CS/BAH06-30**.
-            - Full ammunition names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
         - **30 mm APT** (for the **CS/SA5 (2022)**) → **3UBR6 (3BR6)**.
         - **30 mm PTFP** (for the **CS/SA5 (2022)**) → **CS/BAE05-30**.
-            - Full ammunition names package: Name → **CS/BAE5 Xíng 30 Háomi Dìng Jù Yùzhì Pòpiàn Dàn**.
+            - Full Ammunition Names package: Name → **CS/BAE5 Xíng 30 Háomi Dìng Jù Yùzhì Pòpiàn Dàn**.
         - **DTC10-30** → **L/DTC10-30**.
-            - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
+            - Full Ammunition Names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10** → **L/FB10**.
-            - Full ammunition names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
+            - Full Ammunition Names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
         - **FB-10A** → **L/FB10A**.
-            - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
+            - Full Ammunition Names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
         - **FB-10 SAM** → **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē**.
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934** → **Cannone Ansaldo-O.T.O. da 381/50 modello 1939**.
         - **Perforante mod.35** → **Granata perforante da 20 mod. 35**.
-            - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
+            - Full Ammunition Names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
         - **381 mm Granata Perforante** → **Granata perforante da 381/50**.
-            - Full ammunition names package: Name → **Cartoccio granata perforante da 381/50**.
+            - Full Ammunition Names package: Name → **Cartoccio granata perforante da 381/50**.
         - **381 mm Palla APCBC** → **Palla perforante da 381/50**.
-            - Full ammunition names package: Name → **Cartoccio palla perforante da 381/50**.
+            - Full Ammunition Names package: Name → **Cartoccio palla perforante da 381/50**.
         - **100 mm/45 model 1930** → **Canon de 100 mm/45 Mle. 1930**. Long name → **Canon de 100 mm/45 modèle 1930**
         - **380 mm/45 model 1935** → **Canon de 380 mm/45 Mle. 1935**. Long name → **Canon de 380 mm/45 modèle 1935**
         - **100 mm OEA Mle 1928 HE-TF** → **100 mm OEA Mle. 1928**.
-            - Full ammunition names package: Name → **100 mm Obus Explosif en Acier modèle 1928**.
+            - Full Ammunition Names package: Name → **100 mm Obus Explosif en Acier modèle 1928**.
         - **152 mm OEA Mle 1936 HE-TF** → **152 mm OEA Mle. 1936**.
-            - Full ammunition names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
+            - Full Ammunition Names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
         - **203 mm OPF Mle 1936 APCBC** → **203 mm OPf(K) RC Mle. 1936**.
-            - Full ammunition names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+            - Full Ammunition Names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **380 mm OEA Mle 1949 HE** → **380 mm OEA Mle. 1949**.
-            - Full ammunition names package: Name → **380 mm Obus Explosif en Acier modèle 1949**.
+            - Full Ammunition Names package: Name → **380 mm Obus Explosif en Acier modèle 1949**.
         - **380 mm OPF Mle 1936 APCBC** → **380 mm OPf(K) RC Mle. 1936**.
-            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+            - Full Ammunition Names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **380 mm OPF Mle 1943 APCBC** → **380 mm OPf(K) RC Mle. 1943**.
-            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
+            - Full Ammunition Names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
         - **Smoke** (a new one so the **AMX 30 B2 BRENUS**'s smokes finally have a name) → **GALIX 13**. Long name → **GALIX 13**.
         - **Rbs 98** → **lvrb 98**.
-            - Full ammunition names package: Name → **luftvärnsrobot 98**.
+            - Full Ammunition Names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
-            - Full ammunition names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
+            - Full Ammunition Names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
         - **Python 5** → **Piton 5 SR**. Long name → **Piton 5 Short Name**.
         - **Drop tank (600 gal.)** → **Drop tank (600 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**. This is not a full rename, just a formatting change.

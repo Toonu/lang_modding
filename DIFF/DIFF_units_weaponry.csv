@@ -1,75 +1,63 @@
 <ID|readonly|noverify>;<English>
-weapons/de_x4_ruhrstahl;Ruhrstahl X-4 air-to-air missiles
-weapons/de_x4_ruhrstahl/short;X-4
-weapons/su_rn_28;RN-28 nuclear bomb
-weapons/su_rn_28/short;☢RN-28
-weapons/us_b61;B61 nuclear bomb
-weapons/us_b61/short;☢B61
-weapons/kr_kggb;KGGB guided bomb
-weapons/kr_kggb/short;KGGB
-weapons/br_lizard_3;BA-FG-230-Lizard-3 guided bomb
-weapons/br_lizard_3/short;BA-FG-230-Lizard-3
-weapons/mirage_3c_fuel_tank_8/short;Fuel
-weapons/mirage_3e_fuel_tank_7_8;Fuel tank for SEPR 844
-weapons/jp_300_gal_fuse_f_2;Drop tank (300 gal.)
-weapons/jp_300_gal_fuse_f_2/short;Drop tank
-weapons/il_fastpack_f_16i_right;Conformal fuel tank
-weapons/il_fastpack_f_16i_right/short;CFT
-weapons/il_fastpack_f_16i_left;Conformal fuel tank
-weapons/il_fastpack_f_16i_left/short;CFT
-weapons/us_275gal_fuse_clip_drop_tank_1;Drop tank (275 gal.)
-weapons/us_275gal_fuse_clip_drop_tank_1/short;Drop tank
-weapons/su_45_54vt_1954_torpedo;"450 mm ""45-54VT torpedo for high-altitude torpedo dropping"""
-weapons/su_45_54vt_1954_torpedo/short;45-54VT
-weapons/us_3000lb_m118_90;3000 lb M118 Demolition bomb
-weapons/us_3000lb_m118_90/short;M118 3000 lb
-weapons/20mm_FlaK38_wirbelwind_user_cannon;20 mm FlaK38 cannon
-weapons/37mm_gerat_341_user_cannon;37 mm Gerät 341 cannon
-37mm_pzgr_341;Pzgr.
-37mm_sprgr_341;Sprgr.
-explosiveType/nipolit;Nipolit
-explosiveType/pbxn_9;PBXN-9
-weapons/360mm_9m317m_user_cannon;9M317MA AAM
-weapons/360mm_9m317m_user_cannon/short;9M317MA
-360mm_9m317ma;9M317MA
-weapons/380mm_aster_30_user_cannon;Aster-30 AAM
-weapons/380mm_aster_30_user_cannon/short;Aster-30
-380mm_aster_30;Aster-30
-weapons/166mm_camm_user_cannon;CAMM AAM
-weapons/166mm_camm_user_cannon/short;CAMM
-166mm_camm;CAMM
-166mm_camm_er;CAMM-ER
-weapons/125mm_KBA_3_user_cannon;125 mm KBA-3 cannon
-weapons/7_62mm_KT_user_machinegun;7.62 mm KT-7.62 machine gun
-weapons/12_7mm_KT_user_cannon;12.7 mm KT-12.7 machine gun
-weapons/cn_fire_snake_70a;Fire Snake 70A missiles
-weapons/cn_fire_snake_70a/short;Fire Snake 70A
-weapons/us_agm_179_mr_ir;AGM-179 JAGM-MR (IR) air-to-ground missiles
-weapons/us_agm_179_mr_ir/short;AGM-179 JAGM-MR (IR)
-weapons/us_agm_179_mr_sal;AGM-179 JAGM-MR (SAL) air-to-ground missiles
-weapons/us_agm_179_mr_sal/short;AGM-179 JAGM-MR (SAL)
-weapons/us_aim7f_sparrow_fa_18;AIM-7F Sparrow air-to-air missiles
-weapons/us_aim7f_sparrow_fa_18/short;AIM-7F
-weapons/us_aim7m_sparrow_fa_18;AIM-7M Sparrow air-to-air missiles
-weapons/us_aim7m_sparrow_fa_18/short;AIM-7M
-weapons/cn_cm_502kg_he;CM-502KG air-to-ground missiles
-weapons/cn_cm_502kg_he/short;CM-502KG
-weapons/102mm_uk_smoke_grenade_launcher;102 mm smoke grenade launcher
-weapons/102mm_uk_smoke_grenade_launcher/short;smoke
-125mm_bta4;BTA4
-weapons/120mm_45_qf_mk9_single_naval_user_cannon;4.7 inch/45 Mk.IX cannon
-weapons/203mm_m47_user_cannon;203 mm M47 cannon
-weapons/155mm_t180_user_cannon;155 mm T180 cannon
-155mm_t152;T152
-155_mm_t267;T267
-203mm_m106;M106
-weapons/100mm_2A70_BMP_autoloader_user_cannon;100 mm 2A70 cannon
-weapons/su_lmur;"LMUR ""Izdeliye 305"" missiles"
-weapons/su_lmur/short;LMUR
-weapons/rocket_mk11_naval_rocket_launcher;Mk.11 missile launcher
-weapons/rocket_mk11_naval_rocket_launcher/short;Mk.11
-weapons/rocket_9m33_naval_rocket_launcher;209 mm OSA-M missile launcher
-weapons/rocket_9m33_naval_rocket_launcher/short;OSA-M
-209mm_9m33;9M33
-weapons/152mm_55_model_1930mod_naval_user_cannon;152 mm/55 model 1930 gun
-weapons/152mm_55_model_1930mod_naval_user_cannon/short;152 mm/55 model 1930
+weapons/su_fab100_short_fin;100 kg FAB-100sv bomb
+weapons/su_fab100_short_fin/short;FAB-100sv
+weapons/de_hosbo_glide_bomb;HOSBO guided bomb
+weapons/de_hosbo_glide_bomb/short;HOSBO
+weapons/uk_sea_eagle;MBDA Sea Eagle missile
+weapons/uk_sea_eagle/short;MBDA Sea Eagle
+weapons/uk_sea_eagle_wo_radar_designation;MBDA Sea Eagle missile
+weapons/uk_sea_eagle_wo_radar_designation/short;MBDA Sea Eagle
+weapons/uk_130gal_hawk_drop_tank_1;Drop tank (130 gal.)
+weapons/uk_130gal_hawk_drop_tank_1/short;Drop tank
+weapons/uk_130gal_hawk_drop_tank_2;Drop tank (130 gal.)
+weapons/uk_130gal_hawk_drop_tank_2/short;Drop tank
+weapons/it_330l_drop_tank_1;Drop tank (330 gal.)
+weapons/it_330l_drop_tank_1/short;Drop tank
+weapons/it_330l_drop_tank_2;Drop tank (330 gal.)
+weapons/it_330l_drop_tank_2/short;Drop tank
+weapons/cn_yj_81k;YJ-81(k) anti-ship missile
+weapons/cn_yj_81k/short;YJ-81(k)
+missile/guidance/tv+IOG+GNSS;TV+IOG+GNSS
+ahead/name;Shrapnel shell with time fuze
+ahead/name/short;AHEAD
+explosiveType/xp3264;XP3264
+140mm_akeron_mp;MMP
+weapons/60mm_hvms_user_cannon;IMI 60mm HVMS
+weapons/152mm_9M133_btr_82at_launcher_user_cannon;9M133 ATGM
+weapons/7_62mm_FN_MAG58_user_machinegun;7.62 mm FN MAG 58 machine gun
+weapons/gunM134_Minigun_ah_56;7.62 mm M134 Minigun machine gun
+weapons/gunM134_Minigun_ah_56/short;M134 Minigun
+weapons/cn_ba_11;Blue Arrow 11 air-to-ground missiles
+weapons/cn_ba_11/short;BA-11A
+40mm_gpr_ke_t_apfsds;OFLT
+40mm_gpr_ab_t_he;OET CHR
+40mm_gpr_pd_t_he;OET
+40mm_ke_ab_ahead;PPM CHR
+40mm_ctc_ke_ab_ahead;KE-AB
+40mm_ctc_gpr_pd_t_he;GPR-PD-T
+40mm_ctc_ke_t_apfsds;APFSDS-T
+40mm_ctc_ab_t_he;GPR-AB-T
+weapons/40mm_CTC_user_cannon;40 mm CTC cannon
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Akeron MP ATGM
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;Akeron MP
+apds_sabot;APDS Sabot
+apfsds_sabot;APFSDS Sabot
+125mm_3of_82;3OF82
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;BDSh
+weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;Smoke
+37mm_type_94_he;Type 94 HE
+weapons/7_62mm_T74_user_machinegun;7.62 mm T74 machine gun
+weapons/7_62mm_T74v_user_machinegun;7.62 mm T74V machine gun
+weapons/su_kh_59m;Kh-59M missiles
+weapons/su_kh_59m/short;Kh-59M
+weapons/su_kh_59me;Kh-59ME missiles
+weapons/su_kh_59me/short;Kh-59ME
+weapons/380mm_45_mle_1935_mod_naval_user_cannon;380 mm/45 model 1935 gun
+weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;380 mm/45 model 1935
+weapons/100mm_45_mle_1933_naval_user_cannon;100 mm/45 model 1933 gun
+weapons/100mm_45_mle_1933_naval_user_cannon/short;100 mm/45 model 1933
+100mm_oea1945_he_df;100 mm OEA Mle 1945 HE-TF
+122mm_3vdcz3;122 mm 3VDTs3
+weapons/410mm_45_type_3_mod_naval_user_cannon;410 mm/45 Type 3 gun
+weapons/410mm_45_type_3_mod_naval_user_cannon/short;410 mm/45 Type 3
+410mm_type91_apc;410 mm Type 91 APC

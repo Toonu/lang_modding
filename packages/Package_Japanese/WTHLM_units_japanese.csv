@@ -797,7 +797,7 @@ jp_type_75_mlrs_2;MLRS
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_type_87_rcv_shop;87RCV
-jp_type_87_rcv_0;小松製作 | 87式偵察警戒車「ブラックアイ」
+jp_type_87_rcv_0;小松製作 KS130W | 87式偵察警戒車「ブラックアイ」
 jp_type_87_rcv_1;87RCV
 jp_type_87_rcv_2;WIFV
 jp_type_89_shop;89FV
@@ -862,10 +862,10 @@ jp_type_81_tansam_launcher_shop;81式 (C) 架台部
 jp_type_81_tansam_launcher_0;技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」
 jp_type_81_tansam_launcher_1;81式 (C) 架台部
 jp_type_81_tansam_launcher_2;SPAAM
-jp_icv_prototype_shop;CTWV (RCV)
-jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
-jp_icv_prototype_1;CTWV
-jp_icv_prototype_2;WIFV
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;三菱重工業 | 25式偵察警戒車
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
@@ -940,6 +940,10 @@ jp_t51b_shop;第十一號
 jp_t51b_0;横浜ヨット | 甲型魚雷艇 | 第十一號型魚雷艇 (T-51B) | 第十一號
 jp_t51b_1;第十一號
 jp_t51b_2;Motor torpedo boat
+jp_pc301_kari_class_shop;かり (PC-301)
+jp_pc301_kari_class_0;藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)
+jp_pc301_kari_class_1;かり
+jp_pc301_kari_class_2;Submarine Chaser
 
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;第二號
@@ -1216,9 +1220,17 @@ jp_battleship_mutsu_shop;陸奥
 jp_battleship_mutsu_0;横須賀海軍工廠 | 長門型戦艦 (A-114) | 陸奥 (1922)
 jp_battleship_mutsu_1;陸奥
 jp_battleship_mutsu_2;Battleship
+jp_battleship_nagato_shop;長門
+jp_battleship_nagato_0;呉海軍工廠 | 長門型戦艦 (A-114) | 長門 (1944)
+jp_battleship_nagato_1;長門
+jp_battleship_nagato_2;Battleship
 
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_battleship_yamato_shop;大和
 jp_battleship_yamato_0;呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)
 jp_battleship_yamato_1;大和
 jp_battleship_yamato_2;Battleship
+jp_battleship_musashi_shop;武蔵
+jp_battleship_musashi_0;三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)
+jp_battleship_musashi_1;武蔵
+jp_battleship_musashi_2;Battleship

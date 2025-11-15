@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>
+ <ID|readonly|noverify>;<English>
 //ENGINE MANUFACTURERS
 engine_manufacturer/maybach;Manufacturer: Maybach
 engine_manufacturer/gnome_et_rhone;Manufacturer: Gnome et Rhône
@@ -11,7 +11,7 @@ engine_manufacturer/chtz;Manufacturer: ChTZ
 engine_manufacturer/yamz;Manufacturer: YaMZ
 engine_manufacturer/transmash;Manufacturer: Transmash
 engine_manufacturer/utmz;Manufacturer: UTMZ
-engine_manufacturer/kamaz;Manufacturer: KamAZ
+engine_manufacturer/kamaz;Manufacturer: PAO «KAMAZ»
 engine_manufacturer/lycoming_engines;Manufacturer: Lycoming Engines
 engine_manufacturer/gnome-rhone;Manufacturer: Gnome et Rhône
 engine_manufacturer/mikulin;Manufacturer: Mikulin
@@ -35,7 +35,7 @@ engine_manufacturer/armstrong_siddeley;Manufacturer: Armstrong Siddeley
 engine_manufacturer/avro_canada;Manufacturer: Avro Canada
 engine_manufacturer/bmw;Manufacturer: BMW
 engine_manufacturer/daimler_benz;Manufacturer: Daimler-Benz
-engine_manufacturer/walter;Manufacturer: Walter
+engine_manufacturer/walter;Manufacturer: Walter Aircraft Engines
 engine_manufacturer/fiat;Manufacturer: Fiat
 engine_manufacturer/alfa_romeo;Manufacturer: Alfa Romeo
 engine_manufacturer/gnome_rhone;Manufacturer: Gnome et Rhône
@@ -47,6 +47,7 @@ engine_manufacturer/snecma;Manufacturer: SNECMA
 engine_manufacturer/snecma_turbomeca_larzac;Manufacturer: SNECMA Turbomeca Larzac
 engine_manufacturer/arsenal;Manufacturer: Arsenal
 engine_manufacturer/renault;Manufacturer: Renault
+engine_manufacturer/Renault;Manufacturer: Renault
 engine_manufacturer/tumansky;Manufacturer: Tumansky
 engine_manufacturer/IAR;Manufacturer: IAR
 engine_manufacturer/honeywell;Manufacturer: Honeywell
@@ -88,6 +89,9 @@ engine_manufacturer/man;Manufacturer: MAN Truck & Bus
 engine_manufacturer/ivchenko;"Manufacturer: Zaporožskoye mašinostroityel'noye konstruktorskoye bûro ""Progryess"" imyeni akadyemika A. G. Ivčyenko"
 engine_manufacturer/orenda;Manufacturer: Orenda Engines
 engine_manufacturer/saurer;Manufacturer: Adolph Saurer
+engine_manufacturer/detroit;Manufacturer: Detroit Diesel Corporation
+engine_manufacturer/weijiang;Manufacturer: Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī
+engine_manufacturer/isotta_fraschini;Manufacturer: Isotta Fraschini
 
 //ENGINES
 engine_model/jumo004d;"
@@ -453,6 +457,8 @@ engine_model/merlin-20;"
 Engine model: Merlin Mk. XX"
 engine_model/merlin-24;"
 Engine model: Merlin Mk. 24"
+engine_model/merlin-77;"
+Engine model: Rolls-Royce R.M. 11S | Merlin Mk. 77"
 engine_model/sabre-2a;"
 Engine model: Sabre Mk. 2a"
 engine_model/sabre-2;"
@@ -944,7 +950,7 @@ Engine model: Nimbus Mk. 101"
 engine_model/nimbus_mk103;"
 Engine model: Nimbus Mk. 103"
 engine_model/mtr390-2c;"
-Engine model: MTR390-2c"
+Engine model: MTR390-2C"
 engine_model/mtr390-e;"
 Engine model: MTR390-E"
 engine_model/avon_105;"
@@ -1347,6 +1353,8 @@ engine_model/f404_ge_100;"
 Engine model: F404-GE-100"
 engine_model/adour_mk811;"
 Engine model: Adour Mk. 811"
+engine_model/adour_mk871;"
+Engine model: Adour Mk. 871"
 engine_model/avon_302c;"
 Engine model: Avon Mk.302C"
 engine_model/j79_ihi_11;"
@@ -1365,10 +1373,16 @@ engine_model/f402-rr-406;"
 Engine model: F402-RR-406"
 engine_model/vk-2500_03;"
 Engine model: VK-2500-03"
+engine_model/viper_mk540;"
+Engine model: Viper Mk. 540"
+engine_model/viper_632_43;"
+Engine model: Viper Mk. 632-43"
 engine_model/viper_633_41;"
-Engine model: Viper Mk 633-41"
-engine_model/viper_633_41;"
-Engine model: Viper Mk 633-47"
+Engine model: Viper Mk. 633-41"
+engine_model/viper_633_43;"
+Engine model: Viper Mk. 633-43"
+engine_model/viper_633_47;"
+Engine model: Viper Mk. 633-47"
 engine_model/mt_881_ka_500;"
 Engine model: MTU 881 Ka-500"
 engine_model/6v_53t;"
@@ -1382,7 +1396,7 @@ Engine model: D12"
 engine_model/d13;"
 Engine model: D13"
 engine_model/v_84_amc;"
-Engine model: V-84АМС"
+Engine model: V-84AMS"
 engine_model/04_c20;"
 Engine model: 04-C20"
 engine_model/14n-35;"
@@ -1413,6 +1427,38 @@ engine_model/vk-1f;"
 Engine model: VK-1F"
 engine_model/j75-p-17;"
 Engine model: J75-P-17"
+engine_model/8v92ta;"
+Engine model: 8V-92TA"
+engine_model/6td2;"
+Engine model: 6TD-2"
+engine_model/v_84_2s1;"
+Engine model: V-84MS"
+engine_model/utd_29t_01;"
+Engine model: UTD-29T-01"
+engine_model/dxi11;"
+Engine model: DXi 11 Euro 4"
+engine_model/wj-6;"
+Engine model: WJ6 Fādòngjī"
+engine_model/ha_25_type_99;"
+Engine model: 99 Shiki 950 Bariki Hatsudōki | Ha 25"
+engine_model/sakae_22;"
+Engine model: Ha 35-22 | Sakae 22 Gata | NK1G"
+engine_model/derwent_1;"
+Engine model: Rolls-Royce RB.37 | Derwent Mk. 1"
+engine_model/j71-a-13;"
+Engine model: J71-A-13"
+engine_model/T700-GE-701D;"
+Engine model: T700-GE-701D"
+engine_model/id38ss;"
+Engine model: ID 38 SS"
+engine_model/740_13_300;"
+Engine model: KAMAZ 740.13-300"
+engine_model/condor_900e;"
+Engine model: Condor 900E"
+engine_model/t64_ge_716;"
+Engine model: T64-GE-716(ST)"
+engine_model/r2000_7;"
+Engine model: R-2000-7"
 
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison

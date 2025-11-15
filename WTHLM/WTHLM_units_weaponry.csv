@@ -5,12 +5,25 @@ missile/guidance/ARH+IOG+GNSS+DL;ARH + IOG + GNSS + DL
 missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
+radar_predicted_missiles;Missiles shown
+
+//SHELL TYPES
+apds_sabot;APDS Sabot
+apfsds_sabot;APFSDS Sabot
+ahead/name;Shrapnel shell with time fuze
+ahead/name/short;AHEAD
 
 //USA GUNS
 weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun/short;M134
+weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun_default/short;M134
+weapons/gunM134_Minigun_ah_56;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun_ah_56/short;M134
 weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
@@ -46,6 +59,9 @@ weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
+weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;30 mm Bushmaster 2 Mk.44 Mod.1 cannon
+weapons/155mm_t180_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T180 <color=#ff6f00>CNN</color>
+weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 8-Inch, M47 <color=#ff6f00>CNN</color>
 weapons/406mm_50_mk7_naval_user_cannon;"<color=@userlogColoredText>406 mm</color> 16""/50 Mk 7 Mod 0 <color=#ff6f00>CNN</color>"
 
 //GERMANY GUNS
@@ -60,17 +76,23 @@ weapons/cannon_fm_k_45/short;H.S.-Flz.M.Kan. 45
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
+weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugzeugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
+weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7cm Gerät 341 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone Lange/45 <color=#ff6f00>CNN</color>
 
 //USSR GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;PK
+weapons/7_62mm_KT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> KT-7,62 <color=#ff6f00>MG</color>
+weapons/12_7mm_KT_user_cannon;<color=@userlogColoredText>12.7 mm</color> KT-12,7 <color=#ff6f00>MG</color>
+weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
+weapons/125mm_KBA_3_user_cannon;<color=@userlogColoredText>125 mm</color> KBA-3 <color=#ff6f00>CNN-LCH</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-PS-544S | ML-20S obr. 1937/43 gg. <color=#ff6f00>CNN-HWZ</color>
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-mm/52 obr. 1907 g. <color=#ff6f00>CNN</color>
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
@@ -78,27 +100,36 @@ weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color>
 //UK GUNS
 weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
+weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
 weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
 weapons/cannonJM61A2/short;JM61A2
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
-weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
-weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchimētoru Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchimētoru Hō
+weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
+weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Miri Sensha Hō <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
+weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchi Han Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
+weapons/410mm_45_type_3_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
+weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
 
 //CHINA GUNS
-weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74 7.62 Gōnglí Jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74V 7.62 Gōnglí Tóngzhóu Jīqiāng <color=#ff6f00>MG</color>
+weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
-weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> 1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
+weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
+weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
 
 //ITALY GUNS
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
@@ -106,15 +137,26 @@ weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
+weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
+weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
-weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 Mle. 1930
+weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
+weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
+weapons/100mm_45_mle_1933_naval_user_cannon/short;Canon de 100 mm/45 mle. 1933
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
+weapons/152mm_55_model_1930_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Canon de 152 mm/55 modèle 1930 <color=#ff6f00>CNN</color>
+weapons/152mm_55_model_1930_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
+weapons/152mm_55_model_1930mod_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Canon de 152 mm/55 modèle 1930 <color=#ff6f00>CNN</color>
+weapons/152mm_55_model_1930mod_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
 weapons/380mm_45_mle_1935_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
-weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
+weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
+weapons/380mm_45_mle_1935_mod_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
+weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
 
 //SWEDEN GUNS
 
 //ISRAEL GUNS
+weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyper-Velocity Medium Support Weapon System <color=#ff6f00>CNN</color>
 
 //UNCATEGORIZED GUNS
 
@@ -127,17 +169,22 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 37mm_AN_M4_naval_HE/name;37 mm HE
 37mm_AN_M4_naval_AP/name;37 mm AP-T
 75mm_m61_solid;M61 shot
+155mm_t152;T152E5
+155_mm_t267;T267
+203mm_m106;M106
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
 
 //GERMANY AMMUNITION
-15mm_sprgr_notracer;1,5cm Sprgr.Patr.Üb.o.Zerl.
+15mm_sprgr_notracer;1,5cm Spr.Gr.Patr.Üb.o.Zerl.
 20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
-20mm_pzsprgr;2cm Pzsprgr.Patr.L'spur.o.Zerl.
+20mm_pzsprgr;2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
 35_228mm_he_i_t_belt;DM 11 A1
 35_228mm_apds_t_belt;DM 23
-37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
-37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
-40mm_bofors_flak28_navy_he_t/name;4cm Pzgr.Patr.L'spur.
+37mm_sprgr_18_belt;3,7cm Spr.Gr.Patr. 18
+37mm_pzgr_belt;3,7cm Pz.Gr.Patr. 18
+37mm_pzgr_341;3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
+37mm_sprgr_341;3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)
+40mm_bofors_flak28_navy_he_t/name;4cm Pz.Gr.Patr.L'spur.
 40mm_bofors_mel58_navy_he/name;M-DN51
 40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 1
 88mm_sprgr_dist_fuse;8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)
@@ -163,6 +210,8 @@ t_ball_t_38/name/short;T
 57mm_or_281u_belt;OR-281U
 57mm_br_281u_belt;BR-281U
 76mm_obr1915_hetf;OF obr. 1915 g.
+122mm_3vdcz3;3VDCz3
+125mm_3of_82;3VOF128
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
 406mm_obr1915_28_apcbc;BR obr. 1915/28 gg.
 
@@ -176,9 +225,12 @@ b_mk_1z/name/short;I
 381mm_mark_22b_6crh_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
 
 //JAPAN AMMUNITION
+37mm_type_94_he;3.7 Sanchi 94 Shiki Tsūjō Dan
 155mm_60_type0_he;15.5 Sanchi 0 Shiki Tsūjō Dan
 155mm_60_type0_he_dist_fuse;15.5 Sanchi 0 Shiki Tsūjō Dan (TF)
 155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tekkō Dan
+356mm_type5_apc;36 Sanchi 5 Gō Tekkō Dan
+410mm_type91_apc;41 Sanchi 91 Shiki Tekkō Dan
 460mm_type0_common_he;46 Sanchi 0 Shiki Tsūjō Dan
 460mm_type91_apc;46 Sanchi 91 Shiki Tekkō Dan
 
@@ -189,6 +241,7 @@ b_mk_1z/name/short;I
 30mm_dtc10_30;L/DTC10-30
 105mm_type_75_heat;DTP/PW75-105
 105mm_type_75_hesh;DTJ/PW75-105
+125mm_bta4;BTA4-125
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
@@ -201,13 +254,23 @@ b_mk_1z/name/short;I
 381mm_50_apcbc;Palla perforante da 381/50
 
 //FRANCE AMMUNITION
-100mm_oea1928_he_df;100 mm OEA Mle. 1928
+37mm_oea1935_he;37 mm OEA mle. 1935
+40mm_gpr_ke_t_apfsds;OFLT
+40mm_gpr_pd_t_he;OET
+40mm_gpr_ab_t_he;OET CHR
+40mm_ke_ab_ahead;PPM CHR
+40mm_ctc_ke_ab_ahead;KE-AB
+40mm_ctc_gpr_pd_t_he;GPR-PD-T
+40mm_ctc_ke_t_apfsds;APFSDS-T
+40mm_ctc_ab_t_he;GPR-AB-T
+100mm_oea1928_he_df;100 mm OEA mle. 1928
+100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
-152mm_m1936_he_df;152 mm OEA Mle. 1936
-203mm_opf_mle1936_apcbc;203 mm OPf(K) RC Mle. 1936
-380mm_oea_mle1949_he;380 mm OEA Mle. 1949
-380mm_opf_mle1936_apcbc;380 mm OPf(K) RC Mle. 1936
-380mm_opf_mle1943_apcbc;380 mm OPf(K) RC Mle. 1943
+152mm_m1936_he_df;152 mm OEA mle. 1936
+203mm_opf_mle1936_apcbc;203 mm OPf(K) RC mle. 1936
+380mm_oea_mle1949_he;380 mm OEA mle. 1949
+380mm_opf_mle1936_apcbc;380 mm OPf(K) RC mle. 1936
+380mm_opf_mle1943_apcbc;380 mm OPf(K) RC mle. 1943
 
 //SWEDEN AMMUNITION
 20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
@@ -227,16 +290,24 @@ weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb,
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
 weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ Bomb, 2000lb, B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b61/short;☢ B61-8
+weapons/us_3000lb_m118;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
+weapons/us_3000lb_m118/short;M118
+weapons/us_3000lb_m118_90;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
+weapons/us_3000lb_m118_90/short;M118
 
 //GERMANY BOMBS
 weapons/sws_50_kg_sprengbombe;<color=@userlogColoredText>50 kg</color> 50 kg Sprengbombe <color=#ff6f00>BMB</color>
 weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
+weapons/de_hosbo_glide_bomb;<color=@userlogColoredText>490 kg</color> Hochleistungssprengbombe <color=#ff6f00>BMB-GNSS/IR</color>
+weapons/de_fx1400weapons/de_hosbo_glide_bomb;HOSBO
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000_default/short;S.C. 1000 L2
 
 //USSR BOMBS
+weapons/su_fab100_short_fin;<color=@userlogColoredText>103.5 kg</color> FAB-100sv <color=#ff6f00>BMB</color>
+weapons/su_fab100_short_fin/short;FAB-100sv
 weapons/su_ofab_100_120;<color=@userlogColoredText>114 kg</color> OFAB-100-120 <color=#ff6f00>BMB</color>
 weapons/su_ofab_100_120/short;OFAB-100-120
 weapons/su_ofab100m;<color=@userlogColoredText>114 kg</color> OFAB-100M <color=#ff6f00>BMB</color>
@@ -259,7 +330,7 @@ weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.
 weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
 //JAPAN BOMBS
-weapons/kr_kggb;<color=@userlogColoredText>289.72 kg</color> Hanguk-hyeong GPS Yudo-poktan <color=#ff6f00>BMB-GNSS</color>
+weapons/kr_kggb;<color=@userlogColoredText>316 kg</color> Han'guk-hyŏng GPS Yudo-Poktan <color=#ff6f00>BMB-GNSS</color>
 weapons/kr_kggb/short;KGGB
 
 //CHINA BOMBS
@@ -295,6 +366,10 @@ weapons/in_nasser_240/short;Naṣr 240
 //JAPAN ROCKETS
 
 //CHINA ROCKETS
+weapons/cn_fs_70;FS70 Hángkōng Huojiàndàn <color=#ff6f00>RKT</color>
+weapons/cn_fs_70/short;FS70
+weapons/cn_fire_snake_70a;FS70A Hángkōng Zhìdao Huojiàndàn <color=#ff6f00>RKT-GNSS</color>
+weapons/cn_fire_snake_70a/short;FS70A
 
 //ITALY ROCKETS
 weapons/158mm_NB_Wf_41_rocket_launcher;43 M. rakéta sorozatvető <color=#ff6f00>RKT</color>
@@ -330,13 +405,109 @@ weapons/us_aim4g_falcon;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G S
 weapons/us_aim4g_falcon/short;AIM-4G
 weapons/us_aim4g_falcon_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon <color=#ff6f00>AAM-IR</color>
 weapons/us_aim4g_falcon_default/short;AIM-4G
+weapons/us_aim7c_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7C Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7c_sparrow/short;AIM-7C
+weapons/us_aim7d_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7D Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7d_sparrow/short;AIM-7D
+weapons/us_aim7e_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e_sparrow/short;AIM-7E
+weapons/us_aim7e2_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e2_sparrow/short;AIM-7E-2
+weapons/us_aim7f_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow/short;AIM-7F
+weapons/us_aim7f_sparrow_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow_default/short;AIM-7F
+weapons/us_aim7f_sparrow_fa_18;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow_fa_18/short;AIM-7F
+weapons/us_aim7m_sparrow_fa_18;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_fa_18/short;AIM-7M
+weapons/us_aim7m_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow/short;AIM-7M
+weapons/us_aim7e2_dogfight_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e2_dogfight_sparrow/short;AIM-7E-2
+weapons/us_aim7f_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow_f_14/short;AIM-7F
+weapons/us_aim7m_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_14/short;AIM-7M
+weapons/us_aim7m_sparrow_f_15;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_15/short;AIM-7M
+weapons/us_aim7m_sparrow_f_15_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_15_default/short;AIM-7M
+weapons/us_aim7m_sparrow_f_16;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_16/short;AIM-7M
+weapons/us_aim7m_sparrow_f_16_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_16_default/short;AIM-7M
+weapons/us_aim7p_sparrow_fa_18;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7p_sparrow_fa_18/short;AIM-7P-2
+weapons/us_aim7p_sparrow_fa_18_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7p_sparrow_fa_18_default/short;AIM-7P-2
+weapons/us_aim9b_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder/short;AIM-9B
+weapons/us_aim9b_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_default/short;AIM-9B
+weapons/us_aim9b_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_default_group/short;AIM-9B
+weapons/us_aim9b_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_cwp/short;AIM-9B
+weapons/us_aim9b_fgw_2_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B FGW. 2 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B FGW. 2
+weapons/us_aim9c_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder/short;AIM-9C
+weapons/us_aim9c_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder_default/short;AIM-9C
+weapons/us_aim9c_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder_default_group/short;AIM-9C
+weapons/us_aim9d_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder/short;AIM-9D
+weapons/us_aim9d_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_default/short;AIM-9D
+weapons/us_aim9d_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_default_group/short;AIM-9D
+weapons/us_aim9d_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_cwp/short;AIM-9D
+weapons/us_aim9g_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9g_sidewinder/short;AIM-9G
+weapons/us_aim9g_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9g_sidewinder_default/short;AIM-9G
+weapons/us_aim9h_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9H Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9h_sidewinder/short;AIM-9H
+weapons/us_aim9j_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9j_sidewinder/short;AIM-9J
+weapons/us_aim9j_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9j_sidewinder_default/short;AIM-9J
 weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9n_sidewinder/short;AIM-9N
+weapons/us_aim9p_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p_sidewinder/short;AIM-9P-3
+weapons/us_aim9p_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p_sidewinder_default/short;AIM-9P-3
+weapons/us_aim9p4_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p4_sidewinder/short;AIM-9P-4
+weapons/us_aim9p4_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4
 weapons/us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)
 weapons/us_aim_9x/short;AIM-9X-1 (OFS 8.212)
 us_aim_9x;AIM-9X-1 (OFS 8.212)
 weapons/us_aim_9x_block_2;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-2 Sidewinder
 weapons/us_aim_9x_block_2/short;AIM-9X-2
+weapons/us_aim_54a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54a/short;AIM-54A
+weapons/us_aim_54a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54a_default/short;AIM-54A
+weapons/us_aim_54c;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c_default/short;AIM-54C
+weapons/us_aim_54c/short;AIM-54C
+weapons/us_aim_120a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120a/short;AIM-120A
+weapons/us_aim_120a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120a_default/short;AIM-120A
+weapons/us_aim_120b_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b_default/short;AIM-120B
+weapons/us_aim_120b;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b/short;AIM-120B
+weapons/us_aim_120b_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b_bol_pod/short;AIM-120B
 weapons/us_aim_120c_5;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5/short;AIM-120C-5
 weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
@@ -347,12 +518,30 @@ weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-12
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
+weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_b/short;AGM-114B
+weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_b_default/short;AGM-114B
+weapons/us_hellfire_agm_114_k;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k/short;AGM-114K
+weapons/us_hellfire_agm_114_k_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k_default/short;AGM-114K
+weapons/us_hellfire_agm_114_k_ucav_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K
+weapons/us_hellfire_agm_114_c;Air-Launched, Surface-Attack, Guided Missile, AGM-114C Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_c/short;AGM-114C
+weapons/us_agm_179_mr_ir;Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR) <color=#ff6f00>ATGM-IR</color>
+weapons/us_agm_179_mr_ir/short;JAGM-MR (IR)
+weapons/us_agm_179_mr_sal;Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL) <color=#ff6f00>ATGM-LG</color>
+weapons/us_agm_179_mr_sal/short;JAGM-MR (SAL)
 weapons/127mm_bgm_71b_tow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71A-3 TOW <color=#ff6f00>ATGM-WG</color>
 weapons/127mm_bgm_71b_tow_rocket_launcher/short;BGM-71A-3
 weapons/127mm_bgm_71c_itow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71C ITOW <color=#ff6f00>ATGM-WG</color>
 weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C
 weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
+weapons/rocket_mk11_naval_rocket_launcher;Guided Missile Launching System Mk 11 Mod 0 <color=#ff6f00>LCH</color>
+weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
 
 //GERMANY MISSILES
 weapons/de_x4_ruhrstahl;X 4 <color=#ff6f00>AAM-WG</color>
@@ -383,8 +572,30 @@ us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 //USSR MISSILES
+weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-TV/GNSS</color>"
+weapons/su_kh_59m/short;Kh-59M
+weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-TV/GNSS</color>"
+weapons/su_kh_59me/short;Kh-59MÈ
+weapons/152mm_9M133_btr_82at_launcher_user_cannon;Puskovoye ustrojstvo 9P163-1 <color=#ff6f00>LCH</color>
+weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39 <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_lmur/short;Kh-39
+209mm_9m33;9M33M
+weapons/209mm_9M33A3_launcher_user_cannon;Puskovoye ustrojstvo 9P35M2 <color=#ff6f00>LCH</color>
+weapons/rocket_9m33_naval_rocket_launcher;Puskovoye ustrojstvo ZIF-122 <color=#ff6f00>LCH</color>
+weapons/rocket_9m33_naval_rocket_launcher/short;ZIF-122
+weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M <color=#ff6f00>LCH</color>
+weapons/360mm_9m317m_user_cannon/short;9P331M
+360mm_9m317ma;9M317MA
 
 //UK MISSILES
+weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
+weapons/166mm_camm_user_cannon/short;iLauncher
+166mm_camm;Common Anti-Air Modular Missile
+166mm_camm_er;Common Anti-Air Modular Missile Extended Range
+weapons/uk_sea_eagle;Sea Eagle <color=#ff6f00>AShM-ARH</color>
+weapons/uk_sea_eagle/short;Sea Eagle
+weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle <color=#ff6f00>AShM-ARH</color>
+weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
 
 //JAPAN MISSILES
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -405,13 +616,27 @@ weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan
 weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 
 //CHINA MISSILES
-fb10_rocket;L/FB10
-fb10a_rocket;L/FB10A
-weapons/130mm_FB_10_rocket_launcher;L/FB10 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>
+weapons/cn_yj_81k;YJ81 | H/AKJ08 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
+weapons/cn_yj_81k/short;H/AKJ08
+weapons/cn_ba_11;Blue Arrow 11 Air-to-Surface Missile <color=#ff6f00>AGM-IR</color>
+weapons/cn_ba_11/short;BA-11
+weapons/cn_cm_502kg_he;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong <color=#ff6f00>AGM-IR</color>
+weapons/cn_cm_502kg_he/short;CM502KG
+weapons/cn_cm_502kg_he_rail;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong <color=#ff6f00>AGM-IR</color>
+weapons/cn_cm_502kg_he_rail/short;CM502KG
+fb10_rocket;FB10
+fb10a_rocket;FB10A
+weapons/130mm_FB_10_rocket_launcher;FB10 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>
 
 //ITALY MISSILES
 
 //FRANCE MISSILES
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon;AKERON MP <color=#ff6f00>LCH</color>
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
+140mm_akeron_mp;AKERON MP
+weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
+weapons/380mm_aster_30_user_cannon/short;SYLVER A50
+380mm_aster_30;Aster 30 Block 0
 
 //SWEDEN MISSILES
 us_iris_t;lvrb 98
@@ -425,6 +650,30 @@ weapons/il_derby_sam/short;I-Derby SR
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 
 //UNCATEGORIZED MISSILES
+
+//USA TORPEDOES
+
+//GERMANY TORPEDOES
+
+//USSR TORPEDOES
+weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Torpyeda vysotnogo torpyedomyetaniâ 45-54VT <color=#ff6f00>TRP</color>
+weapons/su_45_54vt_1954_torpedo/short;45-54VT
+
+//UK TORPEDOES
+
+//JAPAN TORPEDOES
+
+//CHINA TORPEDOES
+
+//ITALY TORPEDOES
+
+//FRANCE TORPEDOES
+
+//SWEDEN TORPEDOES
+
+//ISRAEL TORPEDOES
+
+//UNCATEGORIZED TORPEDOES
 
 //USA FUEL TANKS
 weapons/us_275gal_fuse_clip_drop_tank_1;Drop tank (275 gal)
@@ -451,6 +700,10 @@ weapons/in_100gal_marut_drop_tank_r;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r/short;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2/short;Drop tank (100 gal)
+weapons/uk_130gal_hawk_drop_tank_1;Drop tank (591 L)
+weapons/uk_130gal_hawk_drop_tank_1/short;Drop tank (591 L)
+weapons/uk_130gal_hawk_drop_tank_2;Drop tank (591 L)
+weapons/uk_130gal_hawk_drop_tank_2/short;Drop tank (591 L)
 
 //JAPAN FUEL TANKS
 weapons/jp_300_gal_fuse_f_2;Drop tank (300 gal)
@@ -463,6 +716,10 @@ weapons/jp_600gal_drop_tank_2/short;Drop tank (600 gal)
 //CHINA FUEL TANKS
 
 //ITALY FUEL TANKS
+weapons/it_330l_drop_tank_1;Drop tank (330 L)
+weapons/it_330l_drop_tank_1/short;Drop tank (330 L)
+weapons/it_330l_drop_tank_2;Drop tank (330 L)
+weapons/it_330l_drop_tank_2/short;Drop tank (330 L)
 
 //FRANCE FUEL TANKS
 weapons/nl_50gal_wingtip_tank_1;Drop tank (50 gal)
@@ -504,6 +761,8 @@ weapons/il_fastpack_f_16i_left/short;CFT
 //GERMANY SMOKE GRENADES
 
 //USSR SMOKE GRENADES
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'šaâ dymovaâ šaška BDŠ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;BDŠ-5
 
 //UK SMOKE GRENADES
 
@@ -524,9 +783,13 @@ weapons/80mm_brenus_smoke_grenade_launcher/short;GALIX 13
 //UNCATEGORIZED SMOKE GRENADES
 
 //EXPLOSIVE TYPES
-explosiveType/octogel;Oktogel
+explosiveType/octogel;HMX
 explosiveType/tg_50;TG-50
 explosiveType/hbx_3;HBX-3
+explosiveType/dhl_1;DHL1
+explosiveType/nipolit;Nipolit
+explosiveType/pbxn_9;PBXN-9
+explosiveType/xp3264;XP3264
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
@@ -1157,8 +1420,6 @@ weapons/su_s8_ko_rocket;S-8KO rocket
 weapons/su_s8_ko_rocket/short;S-8KO
 weapons/su_s_8m_rocket;S-8M rocket
 weapons/su_s_8m_rocket/short;S-8M
-weapons/cn_fs_70;FS70 rocket
-weapons/cn_fs_70/short;FS70
 weapons/cn_type90_he;Type 90-1 (HE warhead) rocket
 weapons/cn_type90_he/short;Type 90-1 (HE)
 weapons/cn_type90_heat;Type 90-1 (HEAT warhead) rocket
@@ -1672,7 +1933,7 @@ weapons/su_kh_29l;Kh-29L <color=#ff6f00>AGM-LG</color>
 weapons/su_kh_29l/short;Kh-29L
 weapons/su_grom_1;"9-A-7759 | Kh-36 ""Grom-E1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;Kh-36 (A)
-weapons/su_grom_2;<color=@userlogColoredText>598 kg</color> "9-A1-7759 | Kh-36 ""Grom-E2"" <color=#ff6f00>BMB-GNSS</color>"
+weapons/su_grom_2;"<color=@userlogColoredText>598 kg</color> 9-A1-7759 | Kh-36 ""Grom-E2"" <color=#ff6f00>BMB-GNSS</color>"
 weapons/su_grom_2/short;Kh-36 (A1)
 weapons/su_kh_25mr;Kh-25MR <color=#ff6f00>AGM-RG</color>
 weapons/su_kh_25mr/short;Kh-25MR
@@ -1834,8 +2095,6 @@ weapons/us_500lb_mk_82_ldgp_default;<color=@userlogColoredText>240.86 kg</color>
 weapons/us_1000lb_mk_83_ldgp;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_1000lb_mk_83_ldgp_default;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_2000lb_mk_84_ldgp;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_3000lb_m118;<color=@userlogColoredText>1360.78 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
-weapons/us_3000lb_m118/short;M118
 weapons/us_4000lb_anm56_box;<color=@userlogColoredText>1981.56 kg</color> Bomb, 4000lb, LC, AN/M56 <color=#ff6f00>BMB</color>
 weapons/us_4000lb_anm56_box/short;AN/M56
 weapons/us_250lb_mk_81_ldgp/short;Mk 81 Mod 0
@@ -1940,7 +2199,6 @@ weapons/105mm_GT3B_user_cannon;105 mm GT-3 cannon
 76mm_gt4_he;76/62 HE
 weapons/105mm_L7A3_GA_2_user_cannon;105 mm L7A3 cannon
 weapons/105mm_L7A3_user_cannon;105 mm L7A3 cannon
-weapons/105mm_LRF_user_cannon;105 mm LRF cannon
 weapons/105mm_M68A1_E8_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M68A1E8 <color=#ff6f00>CNN</color>
 weapons/105mm_M68A1_AGS_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, EX 35 MOD 0 <color=#ff6f00>CNN</color>
 105mm_m900;M900
@@ -2184,6 +2442,7 @@ missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
 missile/guidance/ir+IOG+DL;IR + IOG + DL
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
+missile/guidance/tv+IOG+GNSS;TV + IOG + GNSS
 missile/guidance/SARH;SARH
 missile/guidance/SARH+IOG;SARH + IOG
 missile/guidance/SARH+IOG+DL;SARH + IOG + DL
@@ -3024,7 +3283,6 @@ explosiveType/napalm;Napalm-B
 explosiveType/napalm_gel;Napalm
 explosiveType/sks;CKC
 explosiveType/fp_02;FP 02
-explosiveType/octogel;Octogel
 explosiveType/aerea_64057;Aerea 64057
 explosiveType/pentolite;Pentolite
 explosiveType/detonite;Detonite
@@ -3929,13 +4187,9 @@ weapons/cn_12_7_additionalpod_gun/short;QJK99-12.7-1
 weapons/gun_qjk_99_12_7_1;12.7 mm QJK99-12.7-1 machine gun
 weapons/gun_qjk_99_12_7_1/short;QJK99-12.7-1
 weapons/grenade_launcher_M129;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M129 <color=#ff6f00>LCH</color>
-weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
 weapons/grenade_launcher_M129/short;M129
-weapons/gunM134_Minigun/short;M134
 weapons/gunPKA762;7.62 mm PKA machine gun
 weapons/gunPKA762/short;PKA
-weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
-weapons/gunM134_Minigun_default/short;M134
 weapons/grenade_launcher_M75;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M75 <color=#ff6f00>LCH</color>
 weapons/grenade_launcher_M75/short;M75
 weapons/su_9M14M;9M14M Malyutka missile
@@ -3969,50 +4223,6 @@ weapons/flare_launcher_jet/short;Flares
 flare_launcher;Flares
 weapons/fr_sneb_type23_TDA;68 mm TDA rocket
 weapons/fr_sneb_type23_TDA/short;TDA 68 mm
-weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_b/short;AGM-114B
-weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_b_default/short;AGM-114B
-weapons/us_hellfire_agm_114_k;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_k/short;AGM-114K
-weapons/us_hellfire_agm_114_k_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_k_default/short;AGM-114K
-weapons/us_hellfire_agm_114_k_ucav_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K
-weapons/us_hellfire_agm_114_c;Air-Launched, Surface-Attack, Guided Missile, AGM-114C Hellfire <color=#ff6f00>AGM-LG</color>
-weapons/us_hellfire_agm_114_c/short;AGM-114C
-weapons/us_aim7c_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7C Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7c_sparrow/short;AIM-7C
-weapons/us_aim7d_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7D Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7d_sparrow/short;AIM-7D
-weapons/us_aim7e_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7e_sparrow/short;AIM-7E
-weapons/us_aim7e2_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7e2_sparrow/short;AIM-7E-2
-weapons/us_aim7f_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7f_sparrow/short;AIM-7F
-weapons/us_aim7f_sparrow_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7f_sparrow_default/short;AIM-7F
-weapons/us_aim7m_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow/short;AIM-7M
-weapons/us_aim7e2_dogfight_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7e2_dogfight_sparrow/short;AIM-7E-2
-weapons/us_aim7f_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7f_sparrow_f_14/short;AIM-7F
-weapons/us_aim7m_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow_f_14/short;AIM-7M
-weapons/us_aim7m_sparrow_f_15;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow_f_15/short;AIM-7M
-weapons/us_aim7m_sparrow_f_15_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow_f_15_default/short;AIM-7M
-weapons/us_aim7m_sparrow_f_16;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow_f_16/short;AIM-7M
-weapons/us_aim7m_sparrow_f_16_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7m_sparrow_f_16_default/short;AIM-7M
-weapons/us_aim7p_sparrow_fa_18;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7p_sparrow_fa_18/short;AIM-7P-2
-weapons/us_aim7p_sparrow_fa_18_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim7p_sparrow_fa_18_default/short;AIM-7P-2
 weapons/uk_skyflash_aim_7;Skyflash <color=#ff6f00>AAM-SARH</color>
 weapons/uk_skyflash_aim_7/short;Skyflash
 weapons/uk_skyflash_aim_7_dogfight;Skyflash <color=#ff6f00>AAM-SARH</color>
@@ -4031,66 +4241,6 @@ weapons/swd_rb99;robot 99 <color=#ff6f00>AAM-ARH</color>
 weapons/swd_rb99/short;rb 99
 weapons/swd_rb99_default;robot 99 <color=#ff6f00>AAM-ARH</color>
 weapons/swd_rb99_default/short;rb 99
-weapons/us_aim9b_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9b_sidewinder/short;AIM-9B
-weapons/us_aim9b_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9b_sidewinder_default/short;AIM-9B
-weapons/us_aim9b_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9b_sidewinder_default_group/short;AIM-9B
-weapons/us_aim9b_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9b_sidewinder_cwp/short;AIM-9B
-weapons/us_aim9b_fgw_2_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B FGW. 2 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B FGW. 2
-weapons/us_aim9p4_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9p4_sidewinder/short;AIM-9P-4
-weapons/us_aim9p4_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4
-weapons/us_aim9p_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9p_sidewinder/short;AIM-9P-3
-weapons/us_aim9p_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9p_sidewinder_default/short;AIM-9P-3
-weapons/us_aim9c_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim9c_sidewinder/short;AIM-9C
-weapons/us_aim9c_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim9c_sidewinder_default/short;AIM-9C
-weapons/us_aim9c_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
-weapons/us_aim9c_sidewinder_default_group/short;AIM-9C
-weapons/us_aim9d_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9d_sidewinder/short;AIM-9D
-weapons/us_aim9d_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9d_sidewinder_default/short;AIM-9D
-weapons/us_aim9d_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9d_sidewinder_default_group/short;AIM-9D
-weapons/us_aim9d_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9d_sidewinder_cwp/short;AIM-9D
-weapons/us_aim9g_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9g_sidewinder/short;AIM-9G
-weapons/us_aim9g_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9g_sidewinder_default/short;AIM-9G
-weapons/us_aim9h_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9H Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9h_sidewinder/short;AIM-9H
-weapons/us_aim9j_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9j_sidewinder/short;AIM-9J
-weapons/us_aim9j_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/us_aim9j_sidewinder_default/short;AIM-9J
-weapons/us_aim_54a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_54a/short;AIM-54A
-weapons/us_aim_54a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_54a_default/short;AIM-54A
-weapons/us_aim_54c;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_54c_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_54c_default/short;AIM-54C
-weapons/us_aim_54c/short;AIM-54C
-weapons/us_aim_120a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120a/short;AIM-120A
-weapons/us_aim_120a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120a_default/short;AIM-120A
-weapons/us_aim_120b_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120b_default/short;AIM-120B
-weapons/us_aim_120b;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120b/short;AIM-120B
-weapons/us_aim_120b_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120b_bol_pod/short;AIM-120B
 weapons/uk_fireflash;Fireflash <color=#ff6f00>AAM-RG</color>
 weapons/uk_fireflash/short;Fireflash
 weapons/uk_sraam;SRAAM <color=#ff6f00>AAM-IR</color>
@@ -4964,7 +5114,6 @@ weapons/163mm_roland_2_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color
 weapons/163mm_roland_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 weapons/239mm_9M331_user_cannon;9M331 SAM
 weapons/239mm_HQ_17_user_cannon;HQ17 SAM
-weapons/209mm_9M33A3_launcher_user_cannon;9K33M3 <color=#ff6f00>LCH</color>
 weapons/163mm_vt_1_launcher_user_cannon;VT1 SAM
 weapons/163mm_roland_vt_1_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 165mm_vt_1;VT1
@@ -5121,9 +5270,9 @@ weapons/76mm_modern_germ_smoke_grenade_launcher;76 mm smoke grenade launcher
 weapons/76mm_modern_germ_smoke_grenade_launcher/short;Smoke
 weapons/66mm_modern_uk_smoke_grenade_launcher;66 mm smoke grenade launcher
 weapons/66mm_modern_uk_smoke_grenade_launcher/short;Smoke
-weapons/66mm_modern_us_smoke_grenade_launcher;<color=@userlogColoredText>66 mm</color> Grenade, Launcher, Smoke, M82 <color=#ff6f00>GRN-SMK</color>
+weapons/66mm_modern_us_smoke_grenade_launcher;<color=@userlogColoredText>66 mm</color> Grenade, Launcher, Smoke: Simulant Screening, M82 <color=#ff6f00>GRN-SMK</color>
 weapons/66mm_modern_us_smoke_grenade_launcher/short;M82
-weapons/66mm_modern_smoke_grenade_launcher;<color=@userlogColoredText>66 mm</color> Grenade, Launcher, Smoke, M82 <color=#ff6f00>GRN-SMK</color>
+weapons/66mm_modern_smoke_grenade_launcher;<color=@userlogColoredText>66 mm</color> Grenade, Launcher, Smoke: Simulant Screening, M82 <color=#ff6f00>GRN-SMK</color>
 weapons/66mm_modern_smoke_grenade_launcher/short;M82
 weapons/40mm_modern_smoke_grenade_launcher;40 mm smoke grenade launcher
 weapons/40mm_modern_smoke_grenade_launcher/short;Smoke
@@ -6385,7 +6534,6 @@ weapons/fr_550mm_l3_torpedo_torpedo/short;L3
 weapons/fr_550mm_l3_torpedo;550 mm L3 torpedo
 weapons/fr_550mm_l3_torpedo/short;L3
 37mm_oea1925_he;37 mm OEA Mle 1925
-37mm_oea1935_he;37 mm OEA Mle. 1935
 138mm_oea1928_he;138.6 mm OEA Mle 1928
 138mm_opfa1924_sap;138.6 mm OPFA Mle 1924
 weapons/155mm_50_model_20_naval_user_cannon;155 mm/50 model 1920 gun
@@ -6481,8 +6629,6 @@ weapons/340mm_45_model_1912_naval_user_cannon/short;340 mm/45 model 1912
 340mm_opf_mle1921_apcbc;340 mm OPF Mle 1921 APCBC
 340mm_opf_mle1912_apc;340 mm OPF Mle 1912 APC
 weapons/13_2mm_browning_naval_user_machinegun;13.2 mm Browning machine gun
-weapons/152mm_55_model_1930_naval_user_cannon;152 mm/55 model 1930 gun
-weapons/152mm_55_model_1930_naval_user_cannon/short;152 mm/55 model 1930
 152mm_m1937_he;152 mm OEA Mle 1937 HE
 152mm_m1937_sap;152 mm OPF Mle 1937 SAPBC
 152mm_fr_us_ap_mk35;152 mm OPF Mle 1943 APCBC
@@ -6528,8 +6674,6 @@ weapons/320mm_40_oto_mod_1934_naval_user_cannon;320 mm/44 OTO model 1934 gun
 weapons/320mm_40_oto_mod_1934_naval_user_cannon/short;320-mm/44 OTO 1934
 weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon;320 mm/44 Ansaldo model 1934 gun
 weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon/short;320-mm/44 Ansaldo 1934
-weapons/410mm_45_type_3_naval_user_cannon;410 mm/45 Type 3 gun
-weapons/410mm_45_type_3_naval_user_cannon/short;410 mm/45 Type 3
 410mm_ordinary_type0_sap;410 mm Common Type 0
 410mm_no5_apc;410 mm No5 APC
 410mm_no3_apc;410 mm No3 APC

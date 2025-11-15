@@ -20,6 +20,12 @@ avionics_auto_cm_by_rwr;RWR
 avionics_auto_cm_by_mlws;MLWS
 avionics_auto_cm_sensors;Sensors
 avionics_auto_cm_programs;Programs
+sensors/us_lav_ad_track;ATT
+radar_air_search;Air Search
+radar_surface_search;Surface Search
+radar_gtm;GTM
+radar_sea;Sea
+radar_gmti;GMTI
 
 //RADARS
 sensors/us_sa_radar;SA
@@ -57,6 +63,10 @@ sensors/us_an_apg_63_v_1;AN/APG-63(V)1 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_65gy;AN/APG-65(GY) <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_65q;AN/APG-65Q <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66;AN/APG-66 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66h;AN/APG-66H <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66_v_2;AN/APG-66(V)2 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66_v_2_hms;AN/APG-66(V)2 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_63_v_3;AN/APG-66(V)3 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_67;AN/APG-67 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66_v_1;AN/APG-66(V)1 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66_v_3;AN/APG-66(V)3 <color=#ff6f00>RDR-PD</color>
@@ -68,6 +78,8 @@ sensors/us_an_apg_70i;AN/APG-70I <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_73;AN/APG-73 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_73_hms;AN/APG-73 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_76_an_asx_1;AN/APG-76 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_78;AN/APG-78 Longbow <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_78_v6;AN/APG-78(V)6 Longbow <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
 sensors/us_an_mpq_64;AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
@@ -83,6 +95,8 @@ sensors/su_n_001k;RLPK-27K Myeč <color=#ff6f00>RDR-PD</color>
 sensors/su_n_001vep;RLPK-27VEŠ Myeč-M <color=#ff6f00>RDR-PD</color>
 sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
+sensors/su_9s18m3;"Radiolokaczionnaâ stancziâ 9S18M3 ""Kupol-M3"" <color=#ff6f00>RDR-PESA</color>"
+sensors/su_viking;Radiolokaczionnaâ stancziâ 9S35M3 <color=#ff6f00>RDR-PESA</color>
 sensors/jp_awg_11;J/AWG-11
 sensors/jp_awg_12;J/AWG-12
 sensors/jp_j_apg_1;J/APG-1 <color=#ff6f00>RDR-AESA</color>
@@ -91,19 +105,25 @@ sensors/jp_type_81_search;81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō 
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
 sensors/fr_thales_rbe2;RBE2-AA <color=#ff6f00>RDR-AESA</color>
+sensors/fr_arabel;Thales Arabel <color=#ff6f00>RDR-PESA</color>
 sensors/sw_giraffe_1x;Giraffe 1X <color=#ff6f00>RDR-AESA</color>
+sensors/sw_giraffe_amb;Giraffe Agile Multi Beam <color=#ff6f00>RDR-PESA</color>
 sensors/il_spyder_search;Enhanced & Extended Multi-Mission Hemispheric Radar <color=#ff6f00>RDR-AESA</color>
 
 //RWRs
-sensors/us_an_alr_56a;AN/ALR-56A <color=#ff6f00>RWR</color>
+sensors/us_an_alr_56a;AN/ALR-56A
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
 sensors/su_spo-15;SPO-15
 sensors/su_spo-15l;SPO-15L
 sensors/su_spo-15lm;SPO-15LM
 sensors/su_spo-15s;SPO-15S
-sensors/su_spo-150;L-150 Pastyel' <color=#ff6f00>RWR</color>
-sensors/su_spo_150_28m;L-150-28M
+sensors/su_spo-150;Sistyema pryedupryeždyeniâ ob oblučyenii L-150 Pastyel'
+sensors/su_spo-150-14;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pastyel'
+sensors/su_spo_150_28m;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'
+sensors/su_spo-150-30sm;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'
+sensors/il_elisra_sps_3000;SPS-3000(V)
+sensors/cn_helicopter_z_late_rwr;YH96
 
 //TARGETING PODS
 weapons/an_aas_38;AN/AAS-38 NITE Hawk <color=#ff6f00>TGP-IR</color>
@@ -120,13 +140,19 @@ weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
 weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
+weapons/it_cldp_targeting_pod;Convertible Laser Designation Pod <color=#ff6f00>TGP-LG/EO</color>
+weapons/it_cldp_targeting_pod/short;CLDP
 
 //COUNTERMEASURES
 counterMeasures/l_370v28_5l;L-370-5L <color=#ff6f00>CM-DIR</color>
 counterMeasures/cn_z_10me;LDIRCM
 
 //ACTIVE PROTECTION SYSTEMS
-aps/arena_m;KAZ Aryena-M
+aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 | Drozd
+aps/arena_m;Komplyeks aktivnoj zaŝity Aryena-M
+
+//LWSs
+sensors/fr_antares_lws;ANTARES
 
 //UNCATEGORIZED
 sensors/su_yakor_m;Yakor-M
@@ -247,7 +273,8 @@ sensors/sw_app_f9_5;APP F9/5
 sensors/su_n_019e;N019E/OEPS-29E
 sensors/cn_type_1473;Type 1473
 counterMeasures/lsz_8vn;LSZ-8VN
-sensors/su_spo-150-30sm;L-150-30SM
 sensors/su_sapphire_23e;Sapphire-23E/TP-23-1
 sensors/us_an_alr_45f_v;AN/ALR-45F(V)
 sensors/us_an_alr_67_v_3;AN/ALR-67(V)3
+weapons/us_agm_12b_station;Bullpup Control Pod <color=#ff6f00>CTP-RG</color>
+weapons/us_agm_12b_station/short;Bullpup Control Pod

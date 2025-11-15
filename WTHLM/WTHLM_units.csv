@@ -1216,6 +1216,8 @@ shop/group/us_m47_48_group;M47 / 48A1
 shop/group/us_m60_group;M60A1 AOS / R/PE
 shop/group/us_m6_group;M6A1 / T1E1
 shop/group/us_t26_group;T26E5 / E4-1
+shop/group/us_m44_55_group;M44 / 55
+shop/group/us_m56_m50_group;M56 / M50
 shop/group/us_t32_group;T32 / 32E1
 shop/group/us_abrams_group;M1A1 / 1IP
 shop/group/us_abrams_a2_group;M1A2 / A2 SEP
@@ -1224,6 +1226,7 @@ shop/group/us_kit_3rank_group;"""Hell on Wheels"""
 shop/group/us_m46_m47_group;M46 / 47
 shop/group/us_mbt_xm_group;XM803 / MBT70
 shop/group/us_m48_m60_group;M48 / 60
+shop/group/us_m247_mim72_group;M247 / 48A2 GMSIA
 shop/group/us_sl_amraam_fcs_group;M1097A2 (AN/MPQ-64) / (SLAMRAAM)
 shop/group/p-26_group;P-26A (1933) / B
 shop/group/tbd_group;TBD-1 / B-18
@@ -1291,6 +1294,7 @@ shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
 shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Ferdinand / Pz.Jgr. Tiger B
+shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
 shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
 shop/group/germ_iris_slm_fcs_group;LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)
@@ -1330,6 +1334,7 @@ shop/group/me-262a_group;Me 262 A / C
 shop/group/me-163_group;Me 163 B-1 / 0
 shop/group/f-86_german_group;◄ Sabre Mk. 5 / 6
 shop/group/germ_cruiser_leipzig_nurnberg_group;Leipzig / Nürnberg
+shop/group/germ_westfalen_helgoland_group;SMS Westfalen / Helgoland
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
 shop/group/mig-21_hungary_group;◔ MiG-21MF / bisz
 shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
@@ -1338,13 +1343,15 @@ shop/group/ussr_btr_zis_group;BTR-152A / ZiS-43
 ussr_su_85_group;SU-85 / 85M
 shop/group/ussr_is_2_1944_group;IS-2 (2-j) / (2-j) (No. 321)
 shop/group/ussr_t_54_group;T-54
-shop/group/ussr_t_55_group;T-55A / AD-1
-shop/group/ussr_t_62_group;T-62 / 62М-1
+shop/group/ussr_t_55_group;T-55A / 62
+shop/group/ussr_t_62_group;T-55AD-1 / 62M-1
 shop/group/ussr_t_72b_group;T-72B (Kontakt-1) / (5)
 shop/group/ussr_kv_1_2_group;KV-1 (Feb, 1940) / 2 (Jan, 1940)
 shop/group/ussr_kv_1_85_group;KV-1 (Jul, 1941) / 85
+shop/group/ussr_t_34_85_group;T-34-85 (Mar, 1944) / (Sep, 1944)
 shop/group/ussr_t_64_group;T-64A / BV
 shop/group/ussr_bmp_1_group;BMP-1P / PT-85
+shop/group/ussr_su_object_group;SU-122-54 / Ob. 268
 shop/group/ussr_bmp_2_group;BMP-2D / Ob. 685
 shop/group/ussr_bmp_3_group;BMP-3 / 2S25
 shop/group/ussr_zis_su_group;ZiS-30 / SU-57B
@@ -1354,7 +1361,9 @@ shop/group/ussr_kit_3rank_group;"""In May 1945"""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
-shop/group/ussr_buk_m3_fcs_group;9S18M1-3 / A317M
+shop/group/ussr_it_9p149_group;IT-1 / 9P149M
+shop/group/ussr_9a33_35_group;9A33BM3 / 35M2
+shop/group/ussr_buk_m3_fcs_group;9S18M3 / A317M
 shop/group/i-15_group;I-15 (SGR) / (M-22) / (M-25)
 shop/group/i-16_group;I-16 Tip 10 / 18 / 24
 shop/group/i-153_group;I-15bis / I-153
@@ -1396,13 +1405,18 @@ shop/group/uk_cromwell_group;Cromwell, Mk. V / I
 shop/group/uk_valentine_group;Valentine, Mk. I / XI / IX
 shop/group/uk_chieftain_mk_3_5_group;Chieftain, Mk. 3 / 5
 shop/group/uk_challenger_comet_group;Challenger, Mk. I / Comet
+shop/group/uk_cromwell_sherman_group;Cromwell, Mk. V / I / Sherman, Mk. II
 shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
 shop/group/uk_challenger_group;Challenger 1, Mk. 2 / 3
 shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / TES
 shop/group/uk_challenger_bn_e_group;"Challenger 2, Mk. 2 ""BN"" / 2E"
 shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
+shop/group/uk_fv_m109_group;Centaur / ▄ M109A1
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3
+shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk1A
+shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 / Rooikat Mk1D
+shop/group/uk_vfm_mttd_group;VFM5 / MTTD
 shop/group/uk_ystervark_crusader_group;Ystervark / Crusader, Mk. III, A.A., Mk. II
 shop/group/uk_kit_3rank_group;Echoes of Overlord
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
@@ -1412,7 +1426,9 @@ shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
-shop/group/uk_sky_sabre_fcs_group;Sky Sabre (iLauncher) / (Giraffe AMB)
+shop/group/uk_stormer_9a33_group;Stormer / ☸ 9A33BM2
+shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ 9A35M
+shop/group/uk_sky_sabre_fcs_group;Sky Sabre (Giraffe AMB) / (iLauncher)
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
@@ -1439,6 +1455,7 @@ shop/group/sea_hawk_group;Sea Hawk F.G.A. Mk. 6 / Sea Venom
 shop/group/meteor3_group;Meteor F. Mk. 3 / 3 (EE337)
 shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
+shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
@@ -1538,9 +1555,11 @@ shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B1 bis / 2C
 shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
+shop/group/fr_m44_55_group;▄ M44 / 55
 shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
+shop/group/fr_foch_acra_group;AMX 50 Foch / 10M
 shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
 shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
 shop/group/d_371_group;D.371 / 373
@@ -2556,6 +2575,10 @@ f2g-1_shop;F2G-1
 f2g-1_0;F2G-1 Corsair
 f2g-1_1;F2G-1
 f2g-1_2;F2G
+xf5u_1_shop;XF5U-1
+xf5u_1_0;"Vought-Sikorsky Aircraft | XF5U-1 ""Flying Flapjack"""
+xf5u_1_1;XF5U-1
+xf5u_1_2;XF5U
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f-80a_shop;F-80A-5-LO
@@ -2808,6 +2831,10 @@ f_15c_msip2_shop;F-15C-40-MC (MSIP II)
 f_15c_msip2_0;F-15C-40-MC Eagle (Multistage Improvement Program II)
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15
+f_15c_golden_eagle_shop;F-15C-33-MC (RIP) (PASS)
+f_15c_golden_eagle_0;Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)
+f_15c_golden_eagle_1;F-15C
+f_15c_golden_eagle_2;F-15
 f_15e_shop;F-15E-43-MC
 f_15e_0;McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle
 f_15e_1;F-15E
@@ -2908,6 +2935,10 @@ ah_64e_shop;AH-64E (v6)
 ah_64e_0;Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
 ah_64e_1;AH-64E
 ah_64e_2;AH-64
+ah_56a_shop;AH-56A
+ah_56a_0;Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne
+ah_56a_1;AH-56A
+ah_56a_2;AH-56
 rah_66_shop;YRAH-66A (2000)
 rah_66_0;Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (2000)
 rah_66_1;YRAH-66A
@@ -2960,6 +2991,10 @@ us_lvt_a_1_trb_shop;○ LVT(A)(1)
 us_lvt_a_1_trb_0;○ Landing Vehicle, Tracked (Armored) (Mk. 1)
 us_lvt_a_1_trb_1;○ LVT(A)(1)
 us_lvt_a_1_trb_2;Light tank
+us_lvt_a1_m24_shop;LVT(A)(1) (M6)
+us_lvt_a1_m24_0;Food Machinery Corporation | Landing Vehicle, Tracked (Armored) (Mk. 1) (Gun, 75mm, M6)
+us_lvt_a1_m24_1;LVT(A)(1) (M6)
+us_lvt_a1_m24_2;Light Tank
 us_lvt_4_zis_2_shop;▃␗ LVT(A)(4) (ZiS-2)
 us_lvt_4_zis_2_0;▃␗ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)
 us_lvt_4_zis_2_1;▃␗ LVT(A)(4)
@@ -3165,7 +3200,7 @@ us_m44_0;G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
 us_m44_1;M44
 us_m44_2;SPH
 us_m55_shop;M55
-us_m55_0;Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55
+us_m55_0;Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55
 us_m55_1;M55
 us_m55_2;SPH
 us_m36_shop;M36 GMC
@@ -3402,22 +3437,18 @@ us_mbt_70_shop;MBT70
 us_mbt_70_0;Main Battle Tank, Armored, Full Tracked, 152mm, MBT70
 us_mbt_70_1;MBT70
 us_mbt_70_2;MBT
-us_m247_shop;M247
-us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
-us_m247_1;M247
-us_m247_2;SPAA
-us_rdf_lt_shop;14.8 Ton RDF/LT
-us_rdf_lt_0;AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank
-us_rdf_lt_1;14.8 Ton RDF/LT
-us_rdf_lt_2;Light tank
-us_mim_72_chaparral_shop;M48A2 GMS
-us_mim_72_chaparral_0;Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
-us_mim_72_chaparral_1;M48 GMS
-us_mim_72_chaparral_2;SPAA
 us_xm246_shop;XM246
 us_xm246_0;General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246
 us_xm246_1;XM246
 us_xm246_2;SPAAG
+us_m247_shop;M247
+us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
+us_m247_1;M247
+us_m247_2;SPAA
+us_mim_72_chaparral_shop;M48A2 GMSIA
+us_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
+us_mim_72_chaparral_1;M48A2 GMSIA
+us_mim_72_chaparral_2;SPAAM
 us_m901_itv_shop;M901
 us_m901_itv_0;Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901
 us_m901_itv_1;M901
@@ -3446,6 +3477,10 @@ us_xm_8_shop;XM8 AGS
 us_xm_8_0;105mm Armored Gun System, XM8
 us_xm_8_1;XM8
 us_xm_8_2;Light tank
+us_efv_p1_shop;EFV-P1 (SDD-2) (M82)
+us_efv_p1_0;General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)
+us_efv_p1_1;EFV-P1
+us_efv_p1_2;IFV
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 us_hstv_l_shop;HSTV(L)
@@ -3457,7 +3492,7 @@ us_m60_120s_0;General Dynamics Land Systems 120S Main Battle Tank
 us_m60_120s_1;120S
 us_m60_120s_2;MBT
 us_m1a1_hc_abrams_shop;M1A1HC
-us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun M1A1HC
+us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC
 us_m1a1_hc_abrams_1;M1A1
 us_m1a1_hc_abrams_2;MBT
 us_m1_abrams_shop;M1
@@ -3496,10 +3531,14 @@ us_m1a1_aim_abrams_shop;M1A1AIM SA
 us_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
 us_m1a1_aim_abrams_1;M1A1
 us_m1a1_aim_abrams_2;MBT
-us_m1a1_hc_usmc_shop;"M1A1HC ""Click-Bait"""
-us_m1a1_hc_usmc_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common ""Click-Bait"""
+us_m1a1_hc_usmc_shop;M1A1HC «Click-Bait»
+us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common «Click-Bait»
 us_m1a1_hc_usmc_1;M1A1
 us_m1a1_hc_usmc_2;MBT
+us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
+us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»
+us_m1a1_hc_usmc_sm_1;◍ M1A1HC
+us_m1a1_hc_usmc_sm_2;MBT
 us_lav_ad_shop;LAV-AD
 us_lav_ad_0;Light Armored Vehicle - Air Defense
 us_lav_ad_1;LAV-AD
@@ -3516,6 +3555,10 @@ us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
 us_m1128_wolfpack_0;Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)
 us_m1128_wolfpack_1;M1128
 us_m1128_wolfpack_2;Light tank
+us_rdf_lt_shop;14.8 Ton RDF/LT
+us_rdf_lt_0;AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank
+us_rdf_lt_1;14.8 Ton RDF/LT
+us_rdf_lt_2;Light tank
 us_ccvl_shop;CCVL
 us_ccvl_0;Close Combat Vehicle Light
 us_ccvl_1;CCVL
@@ -3560,6 +3603,10 @@ us_huckins_78ft_pt95_shop;USS PT-95
 us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95
 us_huckins_78ft_pt95_1;USS PT-95
 us_huckins_78ft_pt95_2;Motor Torpedo Boat
+us_huckins_78ft_pt262_shop;USS PT-262
+us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262
+us_huckins_78ft_pt262_1;USS PT-262
+us_huckins_78ft_pt262_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
 us_pt3_0;58 ft Experimental motor torpedo boat, USS PT-3
 us_pt3_1;PT-3
@@ -3642,14 +3689,18 @@ us_pt812_shop;PT-812
 us_pt812_0;105 ft aluminum motor torpedo boat, USS PT-812
 us_pt812_1;PT-812
 us_pt812_2;Motor Gun Boat
-us_admirable_class_shop;USS Candid (AM-154)
-us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
-us_admirable_class_1;USS Candid
-us_admirable_class_2;Gunboat
 us_ashville_class_shop;USS Asheville (PGM-84)
 us_ashville_class_0;Asheville-class gunboat, USS Asheville (PGM-84)
 us_ashville_class_1;USS Asheville
 us_ashville_class_2;Gunboat
+us_admirable_class_shop;USS Candid (AM-154)
+us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
+us_admirable_class_1;USS Candid
+us_admirable_class_2;Gunboat
+us_pgm_9_class_shop;USS PGM-9
+us_pgm_9_class_0;Consolidated Shipbuilding Corporation | PGM-9-class Motor Gunboat | USS PGM-9
+us_pgm_9_class_1;USS PGM-9
+us_pgm_9_class_2;Motor Gunboat
 us_pt811_shop;PT-811
 us_pt811_0;94 ft aluminum motor torpedo boat, USS PT-811
 us_pt811_1;PT-811
@@ -3729,7 +3780,7 @@ us_destroyer_fletcher_sub_event_0;Federal Shipbuilding and Drydock Company | Fle
 us_destroyer_fletcher_sub_event_1;USS Fletcher
 us_destroyer_fletcher_sub_event_2;Destroyer
 us_destroyer_fletcher_cowell_shop;USS Cowell (DD-547)
-us_destroyer_fletcher_cowell_0;Bethlehem Shipbuilding Corporation, Terminal Island, California | Fletcher-class Destroyer | USS Cowell (DD-547)
+us_destroyer_fletcher_cowell_0;Bethlehem Shipbuilding San Pedro | Fletcher-class Destroyer | USS Cowell (DD-547)
 us_destroyer_fletcher_cowell_1;USS Cowell
 us_destroyer_fletcher_cowell_2;Destroyer
 us_destroyer_fletcher_bennion_shop;USS Bennion (DD-662)
@@ -3846,6 +3897,10 @@ us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
 us_cruiser_baltimore_class_0;Fore River Shipyard | Baltimore-class Heavy Cruiser | USS Baltimore (CA-68)
 us_cruiser_baltimore_class_1;USS Baltimore
 us_cruiser_baltimore_class_2;Heavy Cruiser
+us_cruiser_oregon_class_shop;USS Oregon City (CA-122)
+us_cruiser_oregon_class_0;Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)
+us_cruiser_oregon_class_1;USS Oregon City
+us_cruiser_oregon_class_2;Heavy Cruiser
 us_cruiser_des_moines_class_newport_news_shop;USS Newport News (CA-148)
 us_cruiser_des_moines_class_newport_news_0;Newport News Shipbuilding and Dry Dock Company / Norfolk Naval Shipyard | Des Moines-class Heavy Cruiser | USS Newport News (CA-148) (1968)
 us_cruiser_des_moines_class_newport_news_1;USS Newport News
@@ -4608,20 +4663,24 @@ tornado_ids_de_mfg_shop;◄ IDS-Tornado (MFG)
 tornado_ids_de_mfg_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Batch 2) (Marinefliegerkommando)
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
+tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (SLE)
+tornado_ids_de_assta3_sle_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Service Life Enhancement Program)
+tornado_ids_de_assta3_sle_1;◄ IDS-Tornado
+tornado_ids_de_assta3_sle_2;◄ IDS-Tornado
 mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
 mirage_3s_c70_switzerland_0;"◌ Avions Marcel Dassault / Eidgenössisches Flugzeugwerk | Mirage III S C.70 ""MIRO"""
 mirage_3s_c70_switzerland_1;◌ Mirage III S
 mirage_3s_c70_switzerland_2;◌ Mirage III
-f-5e_switzerland_shop;◌ F-5E
-f-5e_switzerland_0;◌ Northrop Corporation F-5-21 | F-5E Tiger II
-f-5e_switzerland_1;◌ F-5E
-f-5e_switzerland_2;◌ F-5
+f-5e_switzerland_shop;◌ F5 E (1999)
+f-5e_switzerland_0;◌ Northrop Corporation F-5-21 | F5 E Tiger II (1999)
+f-5e_switzerland_1;◌ F5 E (1999)
+f-5e_switzerland_2;◌ F5
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000_block_10_shop;Eurofighter (T2 B10)
-ef_2000_block_10_0;Eurofighter Jagdflugzeug EF-2000 | Eurofighter (Tranche 2 Block 10)
-ef_2000_block_10_1;Eurofighter
-ef_2000_block_10_2;Eurofighter
+ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
+ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
+ef_2000_block_10_1;◄ Eurofighter
+ef_2000_block_10_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
 mig_29_9_12_germany_0;◊ izd. 9-12A | MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
@@ -4630,14 +4689,14 @@ mig_29_9_12g_shop;◄ MiG-29G
 mig_29_9_12g_0;◄ MiG-29G Fulcrum
 mig_29_9_12g_1;◄ MiG-29G
 mig_29_9_12g_2;◄ MiG-29
-fa_18c_switzerland_shop;◌ F/A-18C
-fa_18c_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A-18C Hornet
-fa_18c_switzerland_1;◌ F/A-18C
-fa_18c_switzerland_2;◌ F/A-18
-fa_18c_late_switzerland_shop;◌ F/A-18C (Upgrade 25)
-fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)
-fa_18c_late_switzerland_1;◌ F/A-18C
-fa_18c_late_switzerland_2;◌ F/A-18
+fa_18c_switzerland_shop;◌ F/A18 C
+fa_18c_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet
+fa_18c_switzerland_1;◌ F/A18 C
+fa_18c_switzerland_2;◌ F/A18
+fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
+fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Upgrade 25)
+fa_18c_late_switzerland_1;◌ F/A18 C
+fa_18c_late_switzerland_2;◌ F/A18
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 sa_313b_shop;◄ SE 313 B
@@ -4946,6 +5005,14 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;Light tank
+germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
+germ_leopard_2a4m_can_0;KNDS Deutschland | Leopard 2A4M CAN
+germ_leopard_2a4m_can_1;Leopard 2A4M
+germ_leopard_2a4m_can_2;MBT
+germ_leopard_2a4m_can_sm_shop;◍ Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_0;◍ KNDS Deutschland | Leopard 2A4M CAN «Elsa»
+germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
+germ_leopard_2a4m_can_sm_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -4988,6 +5055,10 @@ germ_destroyer_class1942_z51_2;Destroyer
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+germ_battleship_konig_shop;SMS König
+germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)
+germ_battleship_konig_1;SMS König
+germ_battleship_konig_2;Battleship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
@@ -5003,13 +5074,13 @@ germ_battleship_gneisenau_380mm_0;Deutsche Werke Kiel / Deutsche Werke Gotenhafe
 germ_battleship_gneisenau_380mm_1;Gneisenau
 germ_battleship_gneisenau_380mm_2;Battlecruiser
 germ_battlecruiser_mackensen_class_shop;Mackensen
-germ_battlecruiser_mackensen_class_0;Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen
+germ_battlecruiser_mackensen_class_0;Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | Mackensen
 germ_battlecruiser_mackensen_class_1;Mackensen
 germ_battlecruiser_mackensen_class_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 germ_battleship_bismarck_shop;Bismarck
-germ_battleship_bismarck_0;Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck
+germ_battleship_bismarck_0;Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)
 germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
@@ -5024,6 +5095,10 @@ kor_2_1;Bye-4
 kor_2_2;Bye-4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+yak_1_litvyak_shop;Litvâk's Yak-1
+yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1
+yak_1_litvyak_1;Yak-1
+yak_1_litvyak_2;Yak-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
@@ -5064,6 +5139,10 @@ su_30sm_shop;Su-30SM
 su_30sm_0;AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
+su_30mk2v_venezuela_shop;▄ Su-30MK2
+su_30mk2v_venezuela_0;▄ AO «Kompaniâ Sukhoj» | Su-30MK2
+su_30mk2v_venezuela_1;▄ Su-30MK2
+su_30mk2v_venezuela_2;▄ Su-30
 su_34_shop;Su-34NVO
 su_34_0;AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO
 su_34_1;Su-34NVO
@@ -5077,7 +5156,7 @@ su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35p_shop;Mi-35P
-mi_35p_0;AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P
+mi_35p_0;"AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"""
 mi_35p_1;Mi-35P
 mi_35p_2;Mi-35
 
@@ -5118,8 +5197,12 @@ ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-ussr_t_44_po_shop;T-44 №1
-ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 №1"
+ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (May, 1945) (Stabilizator STP-S-53 ""Taran"")"
+ussr_t_34_85_stp_s53_1;T-34-85
+ussr_t_34_85_stp_s53_2;Medium tank
+ussr_t_44_po_shop;T-44 (№ 1)
+ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 (№ 1)"
 ussr_t_44_po_1;T-44
 ussr_t_44_po_2;Medium Tank
 ussr_type_65_aa_shop;▂ A24
@@ -5150,25 +5233,37 @@ ussr_bmd_4m_shop;BMD-4M
 ussr_bmd_4m_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M | Boyevaâ mašina dyesanta BMD-4M"
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
+ussr_btr_82at_shop;BTR-82AT (9P163-1)
+ussr_btr_82at_0;Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)
+ussr_btr_82at_1;BTR-82AT
+ussr_btr_82at_2;IFV
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_80ue1_shop;T-80U-Ye1
+ussr_t_80ue1_0;"Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1"
+ussr_t_80ue1_1;T-80U-Ye1
+ussr_t_80ue1_2;MBT
+ussr_t_80ue1_sm_shop;◍ T-80U-Ye1
+ussr_t_80ue1_sm_0;"◍ Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1 «Maria»"
+ussr_t_80ue1_sm_1;◍ T-80U-Ye1
+ussr_t_80ue1_sm_2;MBT
 ussr_t_80um2_shop;T-80U (Drozd)
-ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)"
+ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)"
 ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;T-72B3A
-ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob""yekt 184-5 | T-72B3A obr. 2024 g."
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
 ussr_buk_m3_launcher_shop;9A317M
 ussr_buk_m3_launcher_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M ""Buk-M3"""
 ussr_buk_m3_launcher_1;9A317M
 ussr_buk_m3_launcher_2;SPAAM
-ussr_buk_m3_fcs_shop;9S18M1-3
-ussr_buk_m3_fcs_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 ""Kupol"""
-ussr_buk_m3_fcs_1;9S18M1-3
+ussr_buk_m3_fcs_shop;9S18M3
+ussr_buk_m3_fcs_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 ""Kupol-M3"""
+ussr_buk_m3_fcs_1;9S18M3
 ussr_buk_m3_fcs_2;Radar
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -5185,7 +5280,7 @@ ussr_pr_103_sm4_2;Motor torpedo boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 ussr_mpk_pr_1124_shop;MPK-33
-ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33"
+ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 ""Al'batros"" | MPK-33"
 ussr_mpk_pr_1124_1;MPK-33
 ussr_mpk_pr_1124_2;Anti-Submarine Ship
 
@@ -5194,6 +5289,10 @@ ussr_mpk_pr_1124_2;Anti-Submarine Ship
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+ussr_destroyer_pr48k_erevan_shop;Yeryevan
+ussr_destroyer_pr48k_erevan_0;Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan
+ussr_destroyer_pr48k_erevan_1;Yeryevan
+ussr_destroyer_pr48k_erevan_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -5201,17 +5300,17 @@ ussr_mpk_pr_1124_2;Anti-Submarine Ship
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 ussr_battlecruiser_kronshtadt_shop;Kronštadt
-ussr_battlecruiser_kronshtadt_0;Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt
+ussr_battlecruiser_kronshtadt_0;Zavod № 194 im. Marti | Tâžyelyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt
 ussr_battlecruiser_kronshtadt_1;Kronštadt
 ussr_battlecruiser_kronshtadt_2;Battlecruiser
 ussr_battlecruiser_sevastopol_shop;Syevastopol'
-ussr_battlecruiser_sevastopol_0;Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'
+ussr_battlecruiser_sevastopol_0;Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'
 ussr_battlecruiser_sevastopol_1;Syevastopol'
 ussr_battlecruiser_sevastopol_2;Battlecruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 ussr_battleship_pr23_sovetskij_soyuz_shop;Sovyetskij Soûz
-ussr_battleship_pr23_sovetskij_soyuz_0;Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_0;Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_1;Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
 
@@ -5244,6 +5343,10 @@ mosquito_tr_mk33_shop;Mosquito T.R. Mk. 33
 mosquito_tr_mk33_0;de Havilland Aircraft Company DH.98 | Mosquito T.R. Mk. 33
 mosquito_tr_mk33_1;Mosquito T.R. Mk. 33
 mosquito_tr_mk33_2;Mosquito
+mosquito_b_mk16_shop;Mosquito B. Mk. XVI
+mosquito_b_mk16_0;de Havilland Aircraft Company DH.98 | Mosquito B. Mk. XVI
+mosquito_b_mk16_1;Mosquito B. Mk. XVI
+mosquito_b_mk16_2;Mosquito
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -5256,6 +5359,14 @@ marut_mk1_2;Mārut
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+hawk_200_shop;Hawk 200 (ZH200)
+hawk_200_0;British Aerospace Hawk 200 (ZH200)
+hawk_200_1;Hawk 200
+hawk_200_2;Hawk
+hawk_200_rda_shop;Hawk 200 (RDA)
+hawk_200_rda_0;British Aerospace Hawk 200 (Radar Development Aircraft)
+hawk_200_rda_1;Hawk 200
+hawk_200_rda_2;Hawk
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;"▄ General Dynamics Corporation + Grumman Aerospace Corporation | F-111C ""Aardvark"""
 f_111c_raaf_1;▄ F-111C
@@ -5270,8 +5381,8 @@ harrier_gr7_1;Harrier G.R. Mk. 7
 harrier_gr7_2;Harrier
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF-2000 | Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4 (Centurion)
+ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)
 ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;Typhoon
 fa_18a_raaf_shop;▄ F/A-18A
@@ -5316,6 +5427,10 @@ ah_mk1_shop;Apache A.H. Mk. 1
 ah_mk1_0;Boeing Rotorcraft Systems / AugustaWestland | Apache A.H. Mk. 1
 ah_mk1_1;Apache A.H. Mk. 1
 ah_mk1_2;Apache
+ah_64e_britain_shop;Apache A.H. Mk. 2
+ah_64e_britain_0;Boeing Defense, Space & Security | Apache A.H. Mk. 2
+ah_64e_britain_1;Apache A.H. Mk. 2
+ah_64e_britain_2;Apache
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 uk_mark_v_shop;Mk. V (Male)
@@ -5372,6 +5487,10 @@ uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+uk_chieftain_900_shop;Chieftain 900
+uk_chieftain_900_0;British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900
+uk_chieftain_900_1;Chieftain 900
+uk_chieftain_900_2;MBT
 uk_badger_shop;Badger SV
 uk_badger_0;Denel Land Systems | Badger Section Variant
 uk_badger_1;Badger SV
@@ -5389,7 +5508,7 @@ uk_sky_sabre_launcher_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (
 uk_sky_sabre_launcher_1;Sky Sabre (iLauncher)
 uk_sky_sabre_launcher_2;SPAAM
 uk_sky_sabre_fcs_shop;Sky Sabre (Giraffe AMB)
-uk_sky_sabre_fcs_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)
+uk_sky_sabre_fcs_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe Agile Multi Beam)
 uk_sky_sabre_fcs_1;Sky Sabre (Giraffe AMB)
 uk_sky_sabre_fcs_2;Radar
 
@@ -5553,7 +5672,7 @@ uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 uk_destroyer_st_class_saumarez_shop;HMS Saumarez (G 12)
-uk_destroyer_st_class_saumarez_0;R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)
+uk_destroyer_st_class_saumarez_0;R. & W. Hawthorn, Leslie & Co. / HMS Proserpine | S-class | HMS Saumarez (G 12) (1944)
 uk_destroyer_st_class_saumarez_1;HMS Saumarez
 uk_destroyer_st_class_saumarez_2;Destroyer
 
@@ -6133,6 +6252,10 @@ ah_64d_japan_shop;▅ AH-64D
 ah_64d_japan_0;"▅ Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā ""Apatchi Rongubou"""
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
+ah_64e_indonesia_shop;◥ AH-64E (v6)
+ah_64e_indonesia_0;◥ Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
+ah_64e_indonesia_1;◥ AH-64E
+ah_64e_indonesia_2;◥ AH-64
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
@@ -6378,7 +6501,7 @@ jp_type_75_mlrs_2;MLRS
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_type_87_rcv_shop;87RCV
-jp_type_87_rcv_0;"Komatsu Seisaku | 87 Shiki Teisatsu Keikaisha ""Burakkuai"""
+jp_type_87_rcv_0;"Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha ""Burakkuai"""
 jp_type_87_rcv_1;87RCV
 jp_type_87_rcv_2;WIFV
 jp_type_89_shop;89FV
@@ -6406,7 +6529,7 @@ jp_m60a3_tts_0;Chrysler Defense Engineering | Rth Thạng M 60 A3
 jp_m60a3_tts_1;Th.Hlạk M 60 A3
 jp_m60a3_tts_2;MBT
 jp_stingray_shop;Th.Bao 32
-jp_stingray_0;Cadillac Gage Stingray | Rth Thạng Bao 32
+jp_stingray_0;Cadillac Gage Stingray | Rth Thạng Bao Stingray | Rth Thạng Bao 32
 jp_stingray_1;Th.Bao 32
 jp_stingray_2;Light Tank
 
@@ -6451,10 +6574,10 @@ jp_type_81_tansam_launcher_shop;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_0;"Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu ""Shōto Arō"""
 jp_type_81_tansam_launcher_1;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_2;SPAAM
-jp_icv_prototype_shop;CTWV (RCV)
-jp_icv_prototype_0;Mitsubishi Jū Kōgyō | Kyōtsū Senjutsu Sō Washa (Teisatsu Sentō Gata)
-jp_icv_prototype_1;CTWV
-jp_icv_prototype_2;WIFV
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
@@ -6462,7 +6585,7 @@ jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
 jp_type_10_1;10TK
 jp_type_10_2;MBT
 jp_oplot_t_shop;Th.Hlạk 57
-jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57
+jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk Oplot | Rth Thạng Hlạk 57
 jp_oplot_t_1;Th.Hlạk 57
 jp_oplot_t_2;MBT
 
@@ -6533,6 +6656,10 @@ jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor torpedo boat
+jp_pc301_kari_class_shop;Kari (PC-301)
+jp_pc301_kari_class_0;Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)
+jp_pc301_kari_class_1;Kari
+jp_pc301_kari_class_2;Submarine Chaser
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;Dai 2 Gō
@@ -6815,12 +6942,20 @@ jp_battleship_mutsu_shop;Mutsu
 jp_battleship_mutsu_0;Yokosuka Kaigun Kōshō | Nagato Gata Senkan (A-114) | Mutsu (1922)
 jp_battleship_mutsu_1;Mutsu
 jp_battleship_mutsu_2;Battleship
+jp_battleship_nagato_shop;Nagato
+jp_battleship_nagato_0;Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)
+jp_battleship_nagato_1;Nagato
+jp_battleship_nagato_2;Battleship
 
-//BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
+//JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_battleship_yamato_shop;Yamato
 jp_battleship_yamato_0;Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)
 jp_battleship_yamato_1;Yamato
 jp_battleship_yamato_2;Battleship
+jp_battleship_musashi_shop;Musashi
+jp_battleship_musashi_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)
+jp_battleship_musashi_1;Musashi
+jp_battleship_musashi_2;Battleship
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 ki_43_3_ko_shop;☀ Ki 43-III Kō
@@ -6865,6 +7000,18 @@ j_11b_shop;J11B
 j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
+jh_7_shop;H/JJH7
+jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;H/JJH7
+jh_7_2;H/JJH7
+jh_7a_shop;K/JJH7A
+jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"""
+jh_7a_1;K/JJH7A
+jh_7a_2;H/JJH7
+jh_7a_prototype_shop;K/JJH7A (prototype)
+jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"" (prototype)"
+jh_7a_prototype_1;K/JJH7A
+jh_7a_prototype_2;H/JJH7
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -6879,6 +7026,10 @@ z_10a_shop;L/Z10 (2018)
 z_10a_0;Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)
 z_10a_1;L/Z10
 z_10a_2;L/Z10
+ah_64e_china_shop;☀ AH-64E (v6)
+ah_64e_china_0;☀ Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)
+ah_64e_china_1;☀ AH-64E
+ah_64e_china_2;☀ AH-64
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
@@ -6896,13 +7047,17 @@ cn_type_65_aa_0;Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 cn_type_65_aa_1;A24
 cn_type_65_aa_2;SPAAG
 cn_wz_141_shop;141 (1 Hào)
-cn_wz_141_0;141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)
+cn_wz_141_0;Zhuāngjiabīng Mou Yánjiū Suo | 141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)
 cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_cm_34_shop;CM34
+cn_cm_34_0;Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē
+cn_cm_34_1;CM34
+cn_cm_34_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_vt_4_shop;VT4
@@ -6923,6 +7078,10 @@ cn_pgz_625_fb10_shop;CS/SA5 (2022)
 cn_pgz_625_fb10_0;Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAAG/M
+cn_oplot_t_shop;☪ BM Oplot-M
+cn_oplot_t_0;☪ Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-1 | Bojova mašina Oplot-M
+cn_oplot_t_1;☪ BM Oplot-M
+cn_oplot_t_2;MBT
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -6953,8 +7112,16 @@ cn_pgz_625_fb10_2;SPAAG/M
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+re_2005_vdm_shop;Re. 2005 (9-12087A)
+re_2005_vdm_0;Officine Meccaniche Italiane | Re. 2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12087A)
+re_2005_vdm_1;Re. 2005
+re_2005_vdm_2;Re. 2005
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+mb_326k_shop;MB-326K
+mb_326k_0;Aermacchi MB-326K
+mb_326k_1;MB-326K
+mb_326k_2;MB-326
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -6965,8 +7132,8 @@ amx_1;A-11A
 amx_2;A-11
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000a_shop;F-2000A (T2 B15)
-ef_2000a_0;Eurofighter Jagdflugzeug EF-2000 | F-2000A Typhoon (Tranche 2 Block 15)
+ef_2000a_shop;F-2000A (P3Ea)
+ef_2000a_0;Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)
 ef_2000a_1;F-2000A
 ef_2000a_2;F-2000
 tornado_ids_it_ret8_shop;A-200C (RET8)
@@ -7029,6 +7196,14 @@ it_2s1_1;◔ 2SZ1
 it_2s1_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_c13_t90_shop;C 13 (T 90 CKL)
+it_c13_t90_0;OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
+it_c13_t90_1;C 13 (T 90 CKL)
+it_c13_t90_2;Light Tank
+it_c13_tua_shop;C 13 (TUA)
+it_c13_tua_0;OTO Melara C 13 con sistema d'arma TUA
+it_c13_tua_1;C 13 (TUA)
+it_c13_tua_2;ATMC
 it_m47_105_shop; M47 RKM
 it_m47_105_0; Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
 it_m47_105_1; M47 RKM
@@ -7123,6 +7298,10 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_0;Cantieri riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)
+it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_2;Light Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -7132,9 +7311,13 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 it_battleship_littorio_class_roma_shop;Roma
-it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)
+it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
+it_battleship_littorio_class_littorio_shop;Italia
+it_battleship_littorio_class_littorio_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia
+it_battleship_littorio_class_littorio_1;Italia
+it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 fokker_d21_netherlands_shop;D.XXI-2
@@ -7147,6 +7330,10 @@ a-35b_shop;☨ A-35B-1-VN
 a-35b_0;☨ Vultee Aircraft V-88 | A-35B-1-VN Vengeance
 a-35b_1;☨ A-35B
 a-35b_2;☨ A-35
+fokker_d23_shop;D.XXIII
+fokker_d23_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII
+fokker_d23_1;D.XXIII
+fokker_d23_2;D.XXIII
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 sb_25j_netherlands_shop;◘ B-25K
@@ -7225,6 +7412,14 @@ tiger_hac_france_shop;☨ Tigre HAC
 tiger_hac_france_0;☨ Eurocopter EC-665 | Tigre, Hélicoptère Anti Char
 tiger_hac_france_1;☨ Tigre HAC
 tiger_hac_france_2;☨ Tigre
+ah_64e_netherlands_shop;◘ AH-64E (v6)
+ah_64e_netherlands_0;◘ Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
+ah_64e_netherlands_1;◘ AH-64E
+ah_64e_netherlands_2;◘ AH-64
+ah_64d_netherlands_shop;◘ AH-64D
+ah_64d_netherlands_0;◘ Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache
+ah_64d_netherlands_1;◘ AH-64D
+ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 fr_saint_chamond_shop;St.-Chamond mle. 1918
@@ -7240,7 +7435,7 @@ fr_amd_35_kwk39_2;Light tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 fr_m55_shop;▄ M55
-fr_m55_0;▄ Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55
+fr_m55_0;▄ Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55
 fr_m55_1;▄ M55
 fr_m55_2;SPH
 
@@ -7279,9 +7474,9 @@ fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm
 fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_2;MBT
-fr_cv_9035_nl_shop;◘ CV9035NL
-fr_cv_9035_nl_0;◘ BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm
-fr_cv_9035_nl_1;◘ CV9035NL
+fr_cv_9035_nl_shop;IGV 9035
+fr_cv_9035_nl_0;BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, IGV 9035 met kanon 35 mm
+fr_cv_9035_nl_1;IGV 9035
 fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
@@ -7293,6 +7488,10 @@ fr_samp_t_fcs_shop;☨ SAMP/T (MRI)
 fr_samp_t_fcs_0;"☨ Eurosam | Sol-Air Moyenne Portée/Terrestre ""Mamba"" (Module Radar et IFF)"
 fr_samp_t_fcs_1;☨ SAMP/T (MRI)
 fr_samp_t_fcs_2;Radar
+fr_jaguar_ebrc_shop;EBRC Jaguar
+fr_jaguar_ebrc_0;Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin Blindé de Reconnaissance et de Combat Jaguar
+fr_jaguar_ebrc_1;EBRC Jaguar
+fr_jaguar_ebrc_2;CRV
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 fr_vtb12_mod_shop;VTB 12
@@ -7345,8 +7544,16 @@ fr_vlt2_shop;VLT 2
 fr_vlt2_0;Société des Constructions navales de Meulan | Vedette Lance Torpille VLT 2
 fr_vlt2_1;VLT 2
 fr_vlt2_2;Motor Torpedo Boat
+fr_elan_class_commandant_domine_shop;Commandant Dominé (F 742)
+fr_elan_class_commandant_domine_0;Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1948)
+fr_elan_class_commandant_domine_1;Commandant Dominé
+fr_elan_class_commandant_domine_2;Minesweeping Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
+fr_frigate_corse_class_brestois_0;Arsenal de Lorient / Arsenal de Toulon | Escorteur rapide de type E 50 | Le Brestois (F 762) (1958)
+fr_frigate_corse_class_brestois_1;Le Brestois
+fr_frigate_corse_class_brestois_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -7381,6 +7588,10 @@ fr_battleship_richelieu_class_richelieu_shop;Richelieu
 fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la Classe Richelieu | Richelieu (1943)
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Battleship
+fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
+fr_battleship_richelieu_class_clemenceau_0;Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau
+fr_battleship_richelieu_class_clemenceau_1;Clemenceau
+fr_battleship_richelieu_class_clemenceau_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -7413,6 +7624,10 @@ saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
+f_16am_block_20_mlu_norway_0;◢ General Dynamics Corporation | F-16AM-20-CF Fighting Falcon
+f_16am_block_20_mlu_norway_1;◢ F-16A
+f_16am_block_20_mlu_norway_2;◢ F-16
 fa_18c_finland_shop;HN
 fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 / Patria | HN ""Hornet"""
 fa_18c_finland_1;HN
@@ -7487,6 +7702,14 @@ sw_eldenhet_98_2;SPAAM
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+md_450b_ouragan_iaf_shop; 'Organ
+md_450b_ouragan_iaf_0; Avions Marcel Dassault | M.D.450B 'Organ
+md_450b_ouragan_iaf_1; 'Organ
+md_450b_ouragan_iaf_2; 'Organ
+md_450b_ouragan_iaf_29_shop; 'Organ (Mis 29)
+md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 ""Ṭayeset Haṣar'ah"")"
+md_450b_ouragan_iaf_29_1; 'Organ
+md_450b_ouragan_iaf_29_2; 'Organ
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -7517,10 +7740,18 @@ f_16a_block_10_netz_mod_2; F-16
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_m113_hvms_shop;Bardelas (HVMS 60)
+il_m113_hvms_0;Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)
+il_m113_hvms_1;Bardelas (HVMS 60)
+il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_mim_72_chaparral_shop;Draḳon
+il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Draḳon
+il_mim_72_chaparral_1;Draḳon
+il_mim_72_chaparral_2;SPAA
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
@@ -8032,19 +8263,19 @@ uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
 uk_9a35_m_1;☸ 9A35M
 uk_9a35_m_2;SPAAM
 ussr_9a33bm3_shop;9A33BM3
-ussr_9a33bm3_0;"BM 9A33BM3 ""Osa-AKM"""
+ussr_9a33bm3_0;"Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
 ussr_9a33bm3_1;9A33BM3
 ussr_9a33bm3_2;SPAA
 germ_9a33bm3_shop;◊ 9A33BM2
-germ_9a33bm3_0;"◊ BM 9A33BM2 ""Osa-AK"""
+germ_9a33bm3_0;"◊ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
 germ_9a33bm3_1;◊ 9A33BM2
 germ_9a33bm3_2;SPAA
 it_9a33bm3_shop;╏ 9A33BM3
-it_9a33bm3_0;"╏ BM 9A33BM3 ""Osa-AKM"""
+it_9a33bm3_0;"╏ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
 it_9a33bm3_1;╏ 9A33BM3
 it_9a33bm3_2;SPAA
 uk_9a33bm2_shop;☸ 9A33BM2
-uk_9a33bm2_0;"☸ BM 9A33BM2 ""Osa-AK"""
+uk_9a33bm2_0;"☸ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
 uk_9a33bm2_1;☸ 9A33BM2
 uk_9a33bm2_2;SPAA
 ussr_pantsyr_s1_shop;72V6
@@ -8119,20 +8350,20 @@ germ_pzkpfw_Maus_shop;Maus
 germ_pzkpfw_Maus_0;Panzerkampfwagen Maus, Vs.-Fgst.Nr. 2
 germ_pzkpfw_Maus_1;Maus
 germ_pzkpfw_Maus_2;Heavy tank
-germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (früh)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Panzerkampfwagen Tiger Ausf. B mit frühem Turm (Fgst.Nr. 1 bis 47) | Tiger II
+germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serie)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_0;Panzerkampfwagen Tiger Ausf. B mit Serienturm | Tiger II
+germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serien-Turm)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Heavy tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger B (Sla.16)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;Panzerkampfwagen Tiger Ausf. B mit SGP Sla.16 | Tiger II
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger B (Sla. 16)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Heavy tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger B (10,5cm)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 | Tiger II
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger B (10,5cm Kw.K.)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Heavy tank
 germ_panzerjager_tiger_P_elefant_shop;Elefant
@@ -10083,10 +10314,6 @@ j_8f_shop;J8F
 j_8f_0;J8F
 j_8f_1;J8F
 j_8f_2;J8
-jh_7a_shop;JH7A
-jh_7a_0;"JH7A ""Fēi Bào"""
-jh_7a_1;JH7A
-jh_7a_2;JH7
 jf_17_shop;JF-17 Blāk I
 jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar
 jf_17_1;JF-17 Blāk I
@@ -11475,10 +11702,6 @@ md_450b_ouragan_shop;Ouragan
 md_450b_ouragan_0;M.D.450B Ouragan
 md_450b_ouragan_1;Ouragan
 md_450b_ouragan_2;Ouragan
-md_450b_ouragan_iaf_shop; Ouragan
-md_450b_ouragan_iaf_0; M.D.450B Ouragan
-md_450b_ouragan_iaf_1; Ouragan
-md_450b_ouragan_iaf_2; Ouragan
 v_156_f_shop;☨ V-156-F
 v_156_f_0;☨ V-156-F
 v_156_f_1;☨ V-156-F
@@ -11735,10 +11958,6 @@ ussr_t_62m1_shop;T-62M-1
 ussr_t_62m1_0;"Ob""yekt 166M-1 | T-62M-1"
 ussr_t_62m1_1;T-62M
 ussr_t_62m1_2;Medium tank
-germ_leopard_2a4m_can_shop;Leopard 2 A4M CAN
-germ_leopard_2a4m_can_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4M CAN
-germ_leopard_2a4m_can_1;Leopard 2 A4M
-germ_leopard_2a4m_can_2;MBT
 germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
 germ_leopard_2a4_pzbtl_123_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C) (Panzerbataillon 123)
 germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
@@ -12587,10 +12806,6 @@ uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
 uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
 uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
 uk_destroyer_clemson_montgomery_g95_2;Destroyer
-il_mim_72_chaparral_shop; M48A2 GMS
-il_mim_72_chaparral_0;" Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2 ""Drakon"""
-il_mim_72_chaparral_1; M48 GMS
-il_mim_72_chaparral_2;SPAA
 uk_adats_m113a3_shop;▄ M113A3 (ADATS)
 uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113 (ADATS)
@@ -12655,10 +12870,6 @@ ussr_t_80u_race_shop;T-80U
 ussr_t_80u_race_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_race_1;T-80U
 ussr_t_80u_race_2;MBT
-ussr_t_80ue1_shop;T-80UYe-1
-ussr_t_80ue1_0;"Ob""yekt 219AS-1 | T-80UYe-1"
-ussr_t_80ue1_1;T-80UYe-1
-ussr_t_80ue1_2;MBT
 ussr_t_80ud_shop;T-80UD
 ussr_t_80ud_0;"Ob""yekt 478B | T-80UD obr. 1985 g. Bereza"
 ussr_t_80ud_1;T-80UD
@@ -13143,10 +13354,6 @@ ah_64d_i_saraph_shop; AH-64D-I
 ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
 ah_64d_i_saraph_1; AH-64D
 ah_64d_i_saraph_2; AH-64
-ah_64d_netherlands_shop;◘ AH-64D
-ah_64d_netherlands_0;◘ Helicopter, Attack, AH-64D Longbow Apache
-ah_64d_netherlands_1;◘ AH-64D
-ah_64d_netherlands_2;◘ AH-64
 ah_64a_iaf_shop; AH-64A
 ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_iaf_1; AH-64A
@@ -13670,9 +13877,9 @@ germ_marder_1a1_shop;SPz Marder 1 A1 (-)
 germ_marder_1a1_0;Schützenpanzer Marder 1 A1 (-)
 germ_marder_1a1_1;SPz Marder 1
 germ_marder_1a1_2;Light tank
-germ_begleitpanzer_57_shop;BgPz 57
-germ_begleitpanzer_57_0;Thyssen Henschel | Begleitpanzer 57
-germ_begleitpanzer_57_1;BgPz 57
+germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
+germ_begleitpanzer_57_0;Thyssen Henschel + Bofors Begleitpanzer 57 mm
+germ_begleitpanzer_57_1;Begleit-Pz 57 mm
 germ_begleitpanzer_57_2;IFV
 sw_bt_42_shop;15 ryn.tyk.psv./BT42
 sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42
@@ -14577,12 +14784,16 @@ uk_battleship_colossus_shop;HMS Colossus (93)
 uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
 uk_battleship_colossus_1;HMS Colossus
 uk_battleship_colossus_2;Dreadnought
+uk_battleship_centurion_shop;HMS Centurion (12)
+uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
+uk_battleship_centurion_1;HMS Centurion
+uk_battleship_centurion_2;Dreadnought
 uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
 uk_battleship_nelson_shop;HMS Nelson (28)
-uk_battleship_nelson_0;Armstrong Whitworth | Nelson-class | HMS Nelson (28)
+uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
 uk_battleship_nelson_1;HMS Nelson
 uk_battleship_nelson_2;Battleship
 ussr_destroyer_kerch_shop;Kyerč' (1917)
@@ -14685,10 +14896,6 @@ germ_escort_typem1935_shop;M 17
 germ_escort_typem1935_0;Minensuchboot Typ 1935, M 17
 germ_escort_typem1935_1;M 17
 germ_escort_typem1935_2;Minesweeper
-it_c13_t90_shop;C-13 (90/38)
-it_c13_t90_0;OTO Melara C-13 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
-it_c13_t90_1;C-13 (90/38)
-it_c13_t90_2;Light tank
 uk_vickers_mbt_mk_3_shop;Vickers Mk. 3
 uk_vickers_mbt_mk_3_0;Vickers Mk. 3 Main Battle Tank
 uk_vickers_mbt_mk_3_1;Vickers Mk. 3

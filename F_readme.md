@@ -26,22 +26,28 @@ debug{
 
 This mod has additional packages you can install to modify vehicle names and put vehicles and weapons in their original languages for non-Latin scripts. To install these packages, do the following:
 
-1. Find the packages you want from this mod's `Packages` folder.
+1. Find the packages you want from this mod's Packages folder.
 
-2. Drop the package folders you select into your `lang` folder. That's it! You're done.
+2. Drop the package folders you select into your lang folder. That's it! You're done.
 
 Available packages:
 - Language packages:
   - Japanese:
-    - This package puts Japanese vehicles and weapons into Japanese.
+    - This package puts Japanese vehicles and weapons and weapons into Japanese.
   - Farsi:
-    - This package puts Iranian vehicles and weapons into Farsi.
+    - This package puts Iranian vehicles and weapons and weapons into Farsi.
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
+  - Ukrainian
+    - This package puts Ukrainian vehicles and weapons into Ukrainian.
+  - Thai + Ukrainian
+    - This package corrects crossover between the Thai and Ukrainian packages, allowing you to have Thai and Ukrainian running together in crossover cases (e.g. the long name of the Th.Hlạk 57).
 - Other packages:
   - Full Ammunition Names
     - This packages introduces the full names of ammunition that may be too long to be convenient for use.
-  - Full Ammunition Names - Japanese
-    - Version of the Full Ammunition Names package that puts the full names of Japanese weapons and ammunition in Japanese to go along with the main Japanese package.
   - Finnish Ps. Designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, transliterating from non-latin writing systems (e.g. Germany becomes Deutschland, China becomes Zhōngguó, etc.).
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, including in languages that use non-latin writing systems (e.g. Germany becomes Deutschland, China becomes 中国, etc.).
