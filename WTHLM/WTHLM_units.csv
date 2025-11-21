@@ -4995,6 +4995,14 @@ germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_th_800_bismark_shop;Class 3
+germ_th_800_bismark_0;"Henschel Wehrtechnik TH 800 / Sandock-Austral | Proto-Type, Class 3 Armored Car ""Bismarck"""
+germ_th_800_bismark_1;Class 3
+germ_th_800_bismark_2;Light Tank
+germ_th_400_shop;TH 400
+germ_th_400_0;Henschel Wehrtechnik TH 400
+germ_th_400_1;TH 400
+germ_th_400_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 germ_schutzenpanzer_puma_shop;SPz Puma S0
@@ -5273,6 +5281,10 @@ ussr_pr_103_sm4_1;TKA № 164
 ussr_pr_103_sm4_2;Motor torpedo boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+ussr_pr253l_shop;T-380
+ussr_pr253l_0;Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Ryejdovyye tral'ŝiki proyekt 253L | T-380
+ussr_pr253l_1;T-380
+ussr_pr253l_2;Raid Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
@@ -5310,7 +5322,7 @@ ussr_battlecruiser_sevastopol_2;Battlecruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 ussr_battleship_pr23_sovetskij_soyuz_shop;Sovyetskij Soûz
-ussr_battleship_pr23_sovetskij_soyuz_0;Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_0;Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_1;Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
 
@@ -7007,11 +7019,11 @@ jh_7_2;H/JJH7
 jh_7a_shop;K/JJH7A
 jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"""
 jh_7a_1;K/JJH7A
-jh_7a_2;H/JJH7
+jh_7a_2;K/JJH7
 jh_7a_prototype_shop;K/JJH7A (prototype)
 jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"" (prototype)"
 jh_7a_prototype_1;K/JJH7A
-jh_7a_prototype_2;H/JJH7
+jh_7a_prototype_2;K/JJH7
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -7072,6 +7084,10 @@ cn_vt_5_shop;╷ VT5BD
 cn_vt_5_0;╷ Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Lā'iṭa Ṭyānka VT5BD
 cn_vt_5_1;╷ VT5BD
 cn_vt_5_2;Light tank
+cn_t_80ud_478be_shop;☪ T-80UD (DU1)
+cn_t_80ud_478be_0;☪ Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza
+cn_t_80ud_478be_1;☪ T-80UD
+cn_t_80ud_478be_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 cn_pgz_625_fb10_shop;CS/SA5 (2022)
@@ -7112,10 +7128,10 @@ cn_oplot_t_2;MBT
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
-re_2005_vdm_shop;Re. 2005 (9-12087A)
-re_2005_vdm_0;Officine Meccaniche Italiane | Re. 2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12087A)
-re_2005_vdm_1;Re. 2005
-re_2005_vdm_2;Re. 2005
+re_2005_vdm_shop;Re.2005 (9-12087A)
+re_2005_vdm_0;Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12087A)
+re_2005_vdm_1;Re.2005
+re_2005_vdm_2;Re.2005
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 mb_326k_shop;MB-326K
@@ -7474,9 +7490,9 @@ fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm
 fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_2;MBT
-fr_cv_9035_nl_shop;IGV 9035
-fr_cv_9035_nl_0;BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, IGV 9035 met kanon 35 mm
-fr_cv_9035_nl_1;IGV 9035
+fr_cv_9035_nl_shop;CV9035NL
+fr_cv_9035_nl_0;BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm
+fr_cv_9035_nl_1;CV9035NL
 fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
@@ -8446,10 +8462,6 @@ germ_ru251_shop;Ru 251
 germ_ru251_0;Spähpanzer Ru 251
 germ_ru251_1;Ru 251
 germ_ru251_2;Light tank
-germ_th_800_bismark_shop;Class 3
-germ_th_800_bismark_0;"Class 3, New Generation Armoured Car ""Bismark"""
-germ_th_800_bismark_1;Class 3
-germ_th_800_bismark_2;Light tank
 germ_leopard_I_shop;KPz Leopard 1
 germ_leopard_I_0;Kampfpanzer Leopard 1
 germ_leopard_I_1;Leopard 1
@@ -15390,10 +15402,6 @@ ussr_cruiser_omaha_class_murmansk_shop;Murmansk
 ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
 ussr_cruiser_omaha_class_murmansk_1;Murmansk
 ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
-ussr_pr253l_shop;T-351
-ussr_pr253l_0;Proyekt 253L | T-351
-ussr_pr253l_1;T-351
-ussr_pr253l_2;Minesweeper
 it_ms444_shop;MS 444
 it_ms444_0;Cantiere navale di Monfalcone | Motosiluranti Tipo Higgins da 78 Piedi | MS 444
 it_ms444_1;MS 444
@@ -15445,8 +15453,4 @@ ussr_battleship_arhangelsk_shop;Arkhangyel'sk
 ussr_battleship_arhangelsk_0;Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk
 ussr_battleship_arhangelsk_1;Arkhangyel'sk
 ussr_battleship_arhangelsk_2;Battleship
-cn_t_80ud_478be_shop;☪ T-80UD (DU1)
-cn_t_80ud_478be_0;☪ Ob'êkt 478DU1 | T-80UD Ṭaink
-cn_t_80ud_478be_1;☪ T-80UD
-cn_t_80ud_478be_2;MBT
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;
