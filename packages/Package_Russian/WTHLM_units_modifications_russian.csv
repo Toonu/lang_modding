@@ -7,23 +7,59 @@ modification/pk3_gunpod/desc;Loadout unlocked: 7.62 mm <color=@userlogColoredTex
 modification/su_fab_250_us_mk82;ФАБ-250М / Mk 82 Mod 0
 modification/su_fab_250_us_mk82/desc;"Loadout unlocked: 227 kg <color=@userlogColoredText>ФАБ-250М</color> bomb.
 Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bomb."
+
 modification/su_fab_500_us_mk83;ФАБ-500М-62 / Mk 83 Mod 0
 modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>ФАБ-500М-62</color> bomb.
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
+modification/upab_500b_e;УПАБ-500Б-Э
+modification/upab_500b_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>БД3-УСК-Б</color> pylon:
+  • 505 kg <color=@userlogColoredText>УПАБ-500Б-Э</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/upab_1500_e;УПАБ-1500Б-Э
+modification/upab_1500_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>БД4-УСКМ</color> pylon:
+  • 1525 kg <color=@userlogColoredText>УПАБ-1500Б-Э</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom;Х-36 «Гром-Э2»
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58А</color> pylon:
+  • 598 kg <color=@userlogColoredText>Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;Х-36 «Гром-Э2»
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58А</color> pylon:
+  • 598 kg <color=@userlogColoredText>Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
 //MISSILES
+modification/su_rvv_sd;РВВ-СД
+modification/su_rvv_sd/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-170Е</color> pylon:
+  • <color=@userlogColoredText>РВВ-СД</color> <color=#ff6f00>AAM-ARH</color>
+
+modification/su_x29te_x59m;Х-29ТЭ / 59М
+modification/su_x29te_x59m/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-29ТЭ</color> <color=#ff6f00>AGM-EO</color>
+  • <color=@userlogColoredText>Х-59М</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/su_x38ml_e;Х-38МЛЭ
+modification/su_x38ml_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-38МЛЭ</color> <color=#ff6f00>AGM-LG/GNSS</color>"
+
+modification/su_x38mt_e;Х-38МТЭ
+modification/su_x38mt_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-38МТЭ</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+
 modification/su_lmur;Х-39
 modification/su_lmur/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АПУ-Л</color> pylon:
   • <color=@userlogColoredText>Х-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
 
-modification/su_x29te_x59m;Х-29ТЭ / 59М
-modification/su_x29te_x59m/desc;"Loadout unlocked:
-• <color=@userlogColoredText>AKU-58-1</color> pylon:
-  • <color=@userlogColoredText>Х-29ТЭ</color> <color=#ff6f00>AGM-EO</color> x1
-  • <color=@userlogColoredText>Х-59М</color> <color=#ff6f00>AGM-TV</color> x1"
-
 modification/su_kh_59;Х-59МЭ
 modification/su_kh_59/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-58-1</color> pylon:
-  • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV</color> x1"
+  • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV</color>"
