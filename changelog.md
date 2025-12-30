@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.16.00 - UNRELEASED, WIP
+## 1.16.00 - 26-12-2025
 
 ### General:
 
@@ -148,9 +148,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - "Sea Defender" changes:
         - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
-    - China rework and Mandarin package changes:
-        - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
-            - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」**.
+    - China rework and Mandarin package:
+        - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company SS.37 | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
+            - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company SS.37 | 鬥士Mk. I型驅逐機「格機」**.
         - **Ki 27 Otsu** → **97 Shì Zhàn Yi**. Statcard name → **Nakajima Hikōki | 97 Shì Zhàndòujī Yi**.
             - Mandarin package: **Ki 27 Otsu** → **九七式戰乙**. Statcard name → **中島飛行機 | 九七式戰鬥機乙**.
         - **Ki 43-III Kō** → **1 Shì Zhàn 3 Xíng Jia**. Statcard name → **Nakajima Hikōki | 1 Shì Zhàndòujī 3 Xíng Jia "Sun"**.
@@ -257,8 +257,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-9** → **Migé 9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 9 Xíng Fēijī**.
             - Mandarin package: **MiG-9** → **米格9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格9型飞机**.
             - Mandarin + Russian package: **MiG-9** → **米格9**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格9型飞机**.
-        - **I-307**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
-            - Mandarin + Russian package: **I-307** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФР | И-307**.
+        - **I-307**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FF | I-307**.
+            - Mandarin + Russian package: **I-307** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФФ | И-307**.
         - **MiG-15bis** → **Migé 15 Bisī**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 15 Bisī Xíng Fēijī**.
             - Mandarin package: **MiG-15bis** → **米格15比斯**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格15比斯型飞机**.
             - Mandarin + Russian package: **MiG-15bis** → **米格15比斯**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格15比斯型飞机**.
@@ -337,8 +337,8 @@ All dates are listed in DD-MM-YYYY format.
         - **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī "Yìng Lóng"**.
             - Mandarin package: **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
             - Mandarin + Russian package: **J11B** → **K/JJ11B**. Statcard name → **ПАО «Компания Сухой» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
-        - **JF-17 Blāk I**:
-            - Mandarin package: Statcard name → **Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Blāk I Thaṇḍar**.
+        - **JF-17 Blāk I** → **JF-17 Block I**. Statcard name **Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder**.
+            - Mandarin package: Statcard name → **Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Block I Thunder**.
         - **YL1** → **GJ1**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | GJ1 Xíng Wúrénjī**.
             - Mandarin package: 
             - Full Mandarin package: **YL1** → **攻击1** Statcard name → **成都飞机工业 (集团) | 攻击1型无人机**.
@@ -359,6 +359,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.
+        - **SA 342 L**: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L Xíng Wuzhuāng Zhíshēngjī**.
+            - Mandarin package: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L型武装直升机**.
         - **Z9W**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z9W型武装直升机**.
             - Full Mandarin package: **Z9W** → **直9W**. Statcard name → **哈尔滨飞机工业 (集团) | 直9W型武装直升机**.
@@ -590,7 +592,6 @@ All dates are listed in DD-MM-YYYY format.
         - **ZTZ99 (Phase 1) / (Phase 2)** (folder) → **ZTZ99 (1 Qí) / (2 Qí)**.
             - Mandarin package: Folder name → **ZTZ99 (一期) / (二期)**.
         - **9A331 / HQ17** (folder) → **9A331 / ADK17**.
-        
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.
@@ -654,6 +655,13 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000 SAM** (launcher)
         - **FM-3000**
         - **GB3**
+        - **LS-6(IR) 250**
+        - **Drop tank (100 gal.)** (for the **FR-1**)
+        - **Drop tank (100 gal.)** (for the **FR-1**)
+        - **Drop tank (480 gal.)** (for the **F/A-18E**)
+        - **Drop tank (820 liters.)** (for the **Su-7 family**)
+        - **Drop tank (5280 liters.)** (for the **MiG-25PD**)
+        - **Drop tank (400 liters.)** (for the **A 21 family**)
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
@@ -707,13 +715,475 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000** → **ADK11**.
             - Full Ammunition Names package: **FM-3000** → **ADK11 Dì Duì Kōng Daodàn**.
             - Full Ammunition Names - Full Mandarin package: **FM-3000** → **ADK11地對空导弹**.
-        - **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15 Kōng Kōng Daodàn**.
-            - Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15空空导弹**.
-            - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
+        - **PL-15** → **K/AKK15**. Statcard name → **PL15 | K/AKK15 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **PL15 | K/AKK15空空导弹**.
+            - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳15 | K/AKK15空空导弹**.
         - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
+        - **LS-6(IR) 250** → **LS-6/250 (Hóngwài)**. Statcard name → **LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
+            - Mandarin package: **LS-6(IR) 250** → **LS-6/250 (红外)**. Statcard name → **LS-6型250公斤制导滑翔炸弹 (红外导引头)**.
+        - **Drop tank (100 gal.)** → **Tank - 100 Gallon**. Statcard name → **Tank - 100 Gallon Droppable Fuel**.
+        - **Drop tank (130 gal.)** → **Tank - 130 Gallon**. Statcard name → **Tank - 130 Gallon Droppable Fuel**.
+        - **Drop tank (480 gal.)** → **FPU-12/A**.
+        - **Drop tank (820 liters.)** → **PTB-800**.
+        - **Drop tank (5280 liters.)** → **PTB-5000**.
+        - **Drop tank (400 liters.)** → **Drop tank (400 L)**. This is placeholder name for the A 21 family wing tanks. If anyone knows a source for these, let me (Theren) know, as I searched all over and couldn't find any name for these.
     - China rework:
-        - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
+        - **QJT2001 5.8 háomi chēzai jīqiāng** → **QJT2001 Shì 5.8 Háomi Bìngliè Jīqiāng**.
+            - Mandarin package: **QJT2001 5.8 háomi chēzai jīqiāng** → **QJT2001式5.8毫米并列机枪**.
+        - **QJT1955 7.62 háomi chēzai jīqiāng** → **1955 Nián Shì 7.62 Háomi Tankè Jīqiāng**.
+            - Mandarin package: **QJT1955 7.62 háomi chēzai jīqiāng** → **1955年式7.62毫米坦克机枪**.
+        - **QJT1959 7.62 háomi chēzai jīqiāng** → **1959 Nián Shì 7.62 Háomi Tankè Jīqiāng**.
+            - Mandarin package: **QJT1959 7.62 háomi chēzai jīqiāng** → **1959年式7.62毫米坦克机枪**.
+        - **QJT1986 7.62 háomi chēzai jīqiāng** → **1986 Nián Shì 7.62 Háomi Bìngliè Jīqiāng**.
+            - Mandarin package: **QJT1986 7.62 háomi chēzai jīqiāng** → **1986年式7.62毫米并列机枪**.
+        - **T74 7.62 Gōnglí Jīqiāng**:
+            - Mandarin package: **T74 7.62 Gōnglí Jīqiāng** → **T74 7.62公厘機槍**.
+        - **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**:
+            - Mandarin package: **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng** → **T74V 7.62公厘同軸機槍**.
+        - **QJC1954 12.7 háomi chēzai gāoshè jīqiāng** → **1954 Nián Shì 12.7 Háomi Gāoshè Jīqiāng**.
+            - Mandarin package: **QJC1954 12.7 háomi chēzai gāoshè jīqiāng** → **1954年式12.7毫米高射机枪**.
+        - **1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng**:
+            - Mandarin package: **1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977年式12.7毫米高射机枪**.
+        - **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng** → **QJC1988A Shì 12.7 Háomi Chēzài Gāoshè Jīqiāng**.
+            - Mandarin package: **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng** → **QJC1988A式12.7毫米车载高射机枪**.
+        - **QJG2002 14.5 háomi gāoshè jīqiāng** → **QJG2002 Shì 14.5 Háomi Dān Guan Gāoshè Jīqiāng**.
+            - Mandarin package: **QJG2002 14.5 háomi gāoshè jīqiāng** → **QJG2002式14.5毫米单管高射机枪**.
+        - **23-1 xíng 23 háomi hángkōng jīpào** → **23 Háomi 1 Xíng Hángkōng Jīpào**.
+            - Mandarin package: **23-1 xíng 23 háomi hángkōng jīpào** → **23毫米1型航空机炮**.
+        - **23L xíng 23 háomi hángkōng jīpào** → **23 Háomi 3L Xíng Hángkōng Jīpào**.
+            - Mandarin package: **23L xíng 23 háomi hángkōng jīpào** → **23毫米3L型航空机炮**.
+        - **23-2K xíng 23 háomi hángkōng jīpào** → **23 Háomi 2K Xíng Hángkōng Jīpào**.
+            - Mandarin package: **23-2K xíng 23 háomi hángkōng jīpào** → **23毫米2K型航空机炮**.
+        - **23-3 xíng 23 háomi hángkōng jīpào** → **23 Háomi 3 Xíng Hángkōng Jīpào**.
+            - Mandarin package: **23-3 xíng 23 háomi hángkōng jīpào** → **23毫米3型航空机炮**.
+        - **PG1987 25 háomi gāoshè pào** → **WA717A | PGZ2004A Shì Sì Guan 25 Háomi Lüdài Zì Háng Gāo Pào**.
+            - Mandarin package: **PG1987 25 háomi gāoshè pào** → **WA717A | PGZ2004A式四管25毫米履带自行高炮**.
+        - **PG1987 25 háomi gāoshè pào** → **WA709 | PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào**.
+            - Mandarin package: **PG1987 25 háomi gāoshè pào** → **WA709 | PG1987式双管25毫米高射机关炮**.
+        - **ZPT1990 25 háomi chēzai zìdòng pào** → **ZPT1990 Xíng 25 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1990 25 háomi chēzai zìdòng pào** → **ZPT1990式25毫米坦克炮**.
+        - **30-1 xíng** → **30-1 Xíng**. Statcard name: **30-1 xíng 30 háomi hángkōng jīpào** → **30 Háomi 1 Xíng Hángkōng Jīpào**.
+            - Mandarin package: **30-1 xíng** → **30-1型**. Statcard name: **30-1 xíng 30 háomi hángkōng jīpào** → **30毫米1型航空机炮**.
+        - **30-4 Xíng**: Statcard name: **30-4 Xíng 30 Háomi Hángkōng Jīpào** → **30 Háomi 1 Xíng Hángkōng Jīpào**.
+            - Mandarin package: **30-4 Xíng** → **30-4型**. Statcard name: **30-4 Xíng 30 Háomi Hángkōng Jīpào** → **30毫米4型航空机炮**.
+        - **ZPZ2002 30 háomi zìdòng pào** → **ZPZ2002 Xíng 30 Háomi Tankè Pào**. 
+            - Mandarin package: **ZPZ2002 30 háomi zìdòng pào** → **ZPZ2002式30毫米坦克炮**.
+        - **PG1999 30 háomi gāoshè pào** → **PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào**.
+            - Mandarin package: **PG1999 30 háomi gāoshè pào** → **PGZ2009式双35毫米自行高炮**.
+        - **37-1 xíng 37 háomi hángkōng jīpào** → **37 Háomi 1 Xíng Hángkōng Jīpào**.
+            - Mandarin package: **37-1 xíng 37 háomi hángkōng jīpào** → **37毫米1型航空机炮**.
+        - **37 mm Type 65 cannon** → **1965 Nián Shì Shuāng Guan 37 Háomi Gāoshè Jīguān Pào**.
+            - Mandarin package: **37 mm Type 65 cannon** → **1965年式双管37毫米高射机关炮**.
+        - **PG1959 57 háomi gāoshè pào** → **WA318 | PG1959 Shì 57 Háomi Gāoshè Pào**.
+            - Mandarin package: **PG1959 57 háomi gāoshè pào** → **WA318 | PG1959式57毫米高射炮**.
+        - **73 mm Type 85 cannon** → **1986 Nián Shì 73 Háomi Tankè Pào**.
+            - Mandarin package: **73 mm Type 85 cannon** → **1986年式73毫米坦克炮**.
+        - **ZPL1963 85 háomi tankè pào** → **1963 Nián Xíng 85 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL1963 85 háomi tankè pào** → **1963年式85毫米坦克炮**.
+        - **PTP86 100 háomi huátáng fan tankè pào** → **WA301 | PTL2002 Shì 100 Háomi Lún Shì Zìxíng Tújí Pào**.
+            - Mandarin package: **PTP86 100 háomi huátáng fan tankè pào** → **WA301 | PTL2002式100毫米轮式自行突击炮**.
+        - **ZPL1959 100 háomi tankè pào** → **1959 Nián Xíng 100 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL1959 100 háomi tankè pào** → **1959年式100毫米坦克炮**.
+        - **ZPT1969 100 háomi tankè pào** → **1969 Nián Xíng 100 Háomi Huátáng Tankè Pào**.
+            - Mandarin package: **ZPT1969 100 háomi tankè pào** → **1969年式100毫米滑膛坦克炮**.
+        - **100 ZPT1969-II háomi tankè pào** → **69-II Xíng 100 Háomi Tankè Pào**.
+            - Mandarin package: **100 ZPT1969-II háomi tankè pào** → **69-II型100毫米坦克炮**.
+        - **ZPL2004 100 háomi tankè pào** → **ZPL2004 Xíng 100 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL2004 100 háomi tankè pào** → **ZPL2004式100毫米坦克炮**.
+        - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
+            - Mandarin package: **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **PW1975式105毫米无后坐力炮**.
+        - **ZPT1983 105 háomi tankè pào** → **1983 Nián Xíng 105 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1983 105 háomi tankè pào** → **1983年式105毫米坦克炮**.
+        - **ZPT1983A 105 háomi tankè pào** → **1983A Nián Xíng 105 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1983A 105 háomi tankè pào** → **1983A年式105毫米坦克炮**.
+        - **ZPL1994 105 háomi tankè pào** → **ZPL1994 Xíng 105 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL1994 105 háomi tankè pào** → **ZPL1994式105毫米坦克炮**.
+        - **ZPL1998A 105 háomi tankè pào** → **ZPL1998A Xíng 105 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL1998A 105 háomi tankè pào** → **ZPL1998A式105毫米坦克炮**.
+        - **ZPL151A 105 Háomi Tankè Pào** → **ZPL151 Xíng 105 Háomi Tankè Pào**.
+            - Mandarin package: **ZPL151A 105 Háomi Tankè Pào** → **ZPL151式105毫米坦克炮**.
+        - **120 mm 122TM cannon** → **1971 Nián Shì 120 Háomi Huátáng Tankè Pào**.
+            - Mandarin package: **120 mm 122TM cannon** → **1971年式120毫米滑膛坦克炮**.
+        - **PTP89 120 háomi huátáng fan tankè pào** → **WA371 | PGZ2009 Shì 120 Háomi Zìxíng Fan Tankè Pào**.
+            - Mandarin package: **PTP89 120 háomi huátáng fan tankè pào** → **WA371 | PTZ1989式120毫米自行反坦克炮**.
+        - **ZPT1988C 125 háomi tankè pào** → **ZPT1988C Xíng 125 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1988C 125 háomi tankè pào** → **ZPT1988C式125毫米坦克炮**.
+        - **ZPT1998 125 háomi tankè pào** → **ZPT1998 Xíng 125 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1998 125 háomi tankè pào** → **ZPT1998式125毫米坦克炮**.
+        - **ZPT1998A 125 háomi tankè pào** → **ZPT1998A Xíng 125 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT1998A 125 háomi tankè pào** → **ZPT1998A式125毫米坦克炮**.
+        - **ZPT 125 háomi shíyàn tankè pào** → **ZPT Xíng 125 Háomi Tankè Pào**.
+            - Mandarin package: **ZPT 125 háomi shíyàn tankè pào** → **ZPT式125毫米坦克炮**.
+        - **PL1959A 130 háomi yězhàn pào** → **PL1959A Shì 130 Háomi Jiānóng Pào**.
+            - Mandarin package: **PL1959A 130 háomi yězhàn pào** → **PL1959A式130毫米加农炮**.
+        - **PL1966 152 háomi jiānóng liúdànpào** → **PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào**.
+            - Mandarin package: **PL1966 152 háomi jiānóng liúdànpào** → **PLZ1983式152毫米自行加榴炮**.
+        - **PL2005 155 háomi jiānóng liúdànpào** → **PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào**.
+            - Mandarin package: **PL2005 155 háomi jiānóng liúdànpào** → **PLZ2005式155毫米自行加榴炮**.
+        - **Type 87 AP** → **DKC/PG87-25**.
+            - Full Ammunition Names package: **Type 87 AP** → **DKC/PG87 Shì 25 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **Type 87 AP** → **DKC/PG87式25毫米穿甲弹**.
+        - **Type 87 HE** → **WBO41P/PG87-25**.
+            - Full Ammunition Names package: **Type 87 HE** → **WBO41P/PG87 Shì 25 Háomi Shāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names Mandarin package: **Type 87 HE** → **WBO41P/PG87式25毫米杀伤爆破燃烧弹**.
+        - **30 mm HE** → **DTY02-30**.
+            - Full Ammunition Names package: **30 mm HE** → **DTY02 Shì 30 Háomi Shāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names Mandarin package: **30 mm HE** → **TY02式30毫米杀伤爆破燃烧弹**.
+        - **30 mm APDS** → **DTC04-30**.
+            - Full Ammunition Names package: **30 mm APDS** → **DTC04 Shì 30 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **30 mm APDS** → **DTC04式30毫米穿甲弹**.
+        - **L/DTC10-30** → **DTC10-30**.
+            - Full Ammunition Names package: **L/DTC10 Shì 30 Háomi Chuānjiǎdàn** → **DTC10 Shì 30 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **L/DTC10-30** → **DTC10式30毫米穿甲弹**.
+        - **DKP01A** → **DKG01A/PGZ09-35**. (Yes this is correct, Gaijin mixed them up)
+            - Full Ammunition Names package: **DKP01A** → **DKG01A/PGZ09 Shì 35 Háomi Chuān Jia Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names Mandarin package: **DKP01A** → **DKG01A/PGZ09式35毫米穿甲爆破燃烧弹**.
+        - **DKG01A** → **DKP01A/PGZ09-35**. (Yes this is correct, Gaijin mixed them up)
+            - Full Ammunition Names package: **DKG01A** → **DKP01A/PGZ09 Shì 35 Háomi Shāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names Mandarin package: **DKG01A** → **DKP01A/PGZ09式35毫米杀伤爆破燃烧弹**.
+        - **Type 59 HE** → **59 Shì 57 Háomi Yè Shā Liú Dàn**.
+            - Full Ammunition Names package: **Type 59 HE** → **1959 Nián Shì 57 Háomi Gāoshè Pào Yòng Yèguāng Shāshāng Liú Dàn**.
+            - Mandarin package: **Type 59 HE** → **59式57毫米曳杀榴弹**.
+            - Full Ammunition Names Mandarin package: **Type 59 HE** → **1959年式57毫米高射炮用曳光杀伤榴弹**.
+        - **Type 59 APCBC** → **59 Shì 57 Háomi Bèi Mào Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 59 APCBC** → **1959 Nián Shì 57 Háomi Gāoshè Pào Yè Guāng Bèi Mào Chuān Jia Dàn**.
+            - Mandarin package: **Type 59 APCBC** → **59式57毫米被帽穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 59 APCBC** → **1959年式57毫米高射炮曳光被帽穿甲弹**.
+        - **Type 59 APCBC** → **59 Shì 57 Háomi Chuān Jia Yè Dàn**.
+            - Full Ammunition Names package: **Type 59 APCBC** → **1959 Nián Shì 57 Háomi Gāoshè Pào Yòng Chuān Jia Yèguāng Dàn**.
+            - Mandarin package: **Type 59 APCBC** → **59式57毫米穿甲曳弹**.
+            - Full Ammunition Names Mandarin package: **Type 59 APCBC** → **1959年式57毫米高射炮用穿甲曳光弹**.
+        - **DKY1** → **DKY/PG59-57**.
+            - Full Ammunition Names package: **DKY1** → **DKY/PG59 Shì 57 Háomi Shāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names Mandarin package: **DKY1** → **DKY/PG59式57毫米杀伤爆破燃烧弹**.
+        - **Type 85 HE** → **DYS73-73**.
+            - Full Ammunition Names package: **Type 85 HE** → **DYS73 Shì 73 Háomiǐ Gāngzhū Shāshāng Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **Type 85 HE** → **DYS73式73毫米钢珠杀伤榴弹**.
+        - **Type 85 HEAT** → **DYP73-73**.
+            - Full Ammunition Names package: **Type 85 HEAT** → **DYP73 Shì 73 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **Type 85 HEAT** → **DYP73式73毫米破甲弹**.
+        - **Type 56 HE** → **56 Shì 85 Háomi Shā Bào Liú Dàn**.
+            - Full Ammunition Names package: **Type 56 HE** → **1956 Nián Shì 85 Háomi Jiānóngpào Shāshāng Bàopò Liú Dàn**.
+            - Mandarin package: **Type 56 HE** → **56式85毫米杀爆榴弹**.
+            - Full Ammunition Names Mandarin package: **Type 56 HE** → **1956年式85毫米加农炮杀伤爆破榴弹**.
+        - **Type 1956 HEAT-FS** → **56 Shì 85 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names package: **Type 1956 HEAT-FS** → **1956 Nián Shì 85 Háomi Jiānóngpào Qìgāng Wēi Xuán Pò Jia Dàn**.
+            - Mandarin package: **Type 1956 HEAT-FS** → **56式85毫米破甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 1956 HEAT-FS** → **1956年式85毫米加农炮气缸微旋破甲弹**.
+        - **Type 56 HVAP** → **56 Shì 85 Háomi Chāosù Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 56 HVAP** → **1956 Nián Shì 85 Háomi Jiānóngpào Yè Guāng Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **Type 56 HVAP** → **56式85毫米超速穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 56 HVAP** → **1956年式85毫米加农炮曳光超速穿甲弹**.
+        - **Type 56 APBC** → **56 Shì 85 Háomi Jiān Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 56 APBC** → **1956 Nián Shì 85 Háomi Jiānóngpào Yè Guāng Jiān Tóu Chuān Jia Dàn**.
+            - Mandarin package: **Type 56 APBC** → **56式85毫米尖穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 56 APBC** → **1956年式85毫米加农炮曳光尖头穿甲弹**.
+        - **Type 56 AP** → **56 Shì 85 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 56 AP** → **1956 Nián Shì 85 Háomi Jiānóngpào Yè Guāng Chuān Jia Dàn**.
+            - Mandarin package: **Type 56 AP** → **56式85毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 56 AP** → **1956年式85毫米加农炮曳光穿甲弹**.
+        - **DJW85** → **DJW1-85**.
+            - Full Ammunition Names package: **DJW85** → **DJW1 Shì 85 Háomi Wū Héjīn Tuō Ké Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DJW85** → **DJW1式85毫米钨合金脱壳穿甲弹**.
+        - **Type 44 HE** → **59 Shì 100 Háomi Shā Bào Liú Dàn**.
+            - Full Ammunition Names package: **Type 44 HE** → **1959 Nián Shì 100 Háomi Tankè Pào Shāshāng Bàopò Liú Dàn**.
+            - Mandarin package: **Type 44 HE** → **59式100毫米杀爆榴弹**.
+            - Full Ammunition Names Mandarin package: **Type 44 HE** → **1959年式100毫米坦克炮杀伤爆破榴弹**.
+        - **Type 44 AP** → **59 Shì 100 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 44 AP** → **1959 Nián Shì 100 Háomi Tankè Pào Chuān Jia Dàn**.
+            - Mandarin package: **Type 44 AP** → **59式100毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 44 AP** → **1959年式100毫米坦克炮穿甲弹**.
+        - **Type 1959 APDS** → **59 Shì 100 Háomi Wū Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type 1959 APDS** → **1959 Nián Shì 100 Háomi Tankè Pào Wū Tóu Chuān Jia Dàn**.
+            - Mandarin package: **Type 1959 APDS** → **59式100毫米钨穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 1959 APDS** → **1959年式100毫米坦克炮钨头穿甲弹**.
+        - **Type 1973 HEAT-FS** → **73 Shì 100 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names package: **Type 1973 HEAT-FS** → **1973 Nián Shì 100 Háomi Huátáng Pào Pò Jia Dàn**.
+            - Mandarin package: **Type 1973 HEAT-FS** → **73式100毫米破甲弹**.
+            - Full Ammunition Names Mandarin package: **Type 1973 HEAT-FS** → **1973年式100毫米滑膛炮破甲弹**.
+        - **1-71-74 HE** → **71 Shì 100 Háomi Shā Bào Liú Dàn**.
+            - Full Ammunition Names package: **1-71-74 HE** → **1971 Nián Shì 100 Háomi Huátáng Tankè Pào Shāshāng Bàopò Liú Dàn**.
+            - Mandarin package: **1-71-74 HE** → **71式100毫米杀爆榴弹**.
+            - Full Ammunition Names Mandarin package: **1-71-74 HE** → **1971年式100毫米滑膛坦克炮杀伤爆破榴弹**.
+        - **1-72-85 APDS-FS** → **71 Shì 100 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **1-72-85 APDS-FS** → **1971 Nián Shì 100 Háomi Huátáng Tankè Pào Tuō Ké Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **1-72-85 APDS-FS** → **71式100毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **1-72-85 APDS-FS** → **1971年式100毫米滑膛坦克炮脱壳超速穿甲弹**.
+        - **DYW PT86-100** → **DYW/PTL02-100**.
+            - Full Ammunition Names package: **DYW PT86-100** → **DYW/PTL02 Shì 100 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DYW PT86-100** → **DYW/PTL02式100毫米穿甲弹**.
+        - **Type-83 APDS** → **83 Shì 105 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **Type-83 APDS** → **1983 Nián Shì 105 Háomi Tankè Pào Tuō Ké Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **Type-83 APDS** → **1983式105毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **Type-83 APDS** → **1983年式105毫米坦克炮脱壳超速穿甲弹**.
+        - **Type-83 HEAT** → **83 Shì 105 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names package: **Type-83 HEAT** → **1983 Nián Shì 105 Háomi Tankè Pò Jia Dàn**.
+            - Mandarin package: **Type-83 HEAT** → **1983式105毫米破甲弹**.
+            - Full Ammunition Names Mandarin package: **Type-83 HEAT** → **1983年式105毫米坦克炮破甲弹**.
+        - **Type-83 HESH** → **83 Shì 105 Háomi Suì Jia Dàn**.
+            - Full Ammunition Names package: **Type-83 HESH** → **1983 Nián Shì 105 Háomi Tankè Pào Suì Jia Dàn**.
+            - Mandarin package: **Type-83 HESH** → **1983式105毫米碎甲弹**.
+            - Full Ammunition Names Mandarin package: **Type-83 HESH** → **1983年式105毫米坦克炮碎甲弹**.
+        - **DTP/PW75-105**:
+            - Full Ammunition Names Mandarin package: **DTP/PW75-105** → **DTP/PW75式105毫米破甲弹**.
+        - **DTJ/PW75-105**:
+            - Full Ammunition Names Mandarin package: **DTJ/PW75-105** → **DTJ/PW75式105毫米碎甲弹**.
+        - **BTM1** → **BTM1-105**.
+            - Full Ammunition Names package: **BTM1** → **BTM1 Shì 105 Háomi Hùnníngtu Pòhuài Dàn**.
+            - Full Ammunition Names Mandarin package: **BTM1** → **BTM1式105毫米混凝土破坏弹**.
+        - **DTB1** → **DTB1-105**.
+            - Full Ammunition Names package: **DTB1** → **DTB1 Shì 105 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DTB1** → **DTB1式105毫米杀伤爆破榴弹**.
+        - **DTW2-105**:
+            - Full Ammunition Names package: **DTW2-105** → **DTW2 Shì 105 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DTW2-105** → **DTW2式105毫米穿甲弹**.
+        - **120-I** → **71 Shì 120 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **120-I** → **1971 Nián Shì 120 Háomi Huátáng Tankè Pào Tuō Ké Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **120-I** → **71式120毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **120-I** → **1971年式120毫米滑膛坦克炮脱壳超速穿甲弹**.
+        - **120-II** → **71 Shì 120 Háomi Wū Chuān Jia Dàn**.
+            - Full Ammunition Names package: **120-II** → **1971 Nián Shì 120 Háomi Huátáng Tankè Pào Wū Tóu Tuō Ké Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **120-II** → **71式120毫米钨穿甲弹**.
+            - Full Ammunition Names Mandarin package: **120-II** → **1971年式120毫米滑膛坦克炮钨头脱壳超速穿甲弹**.
+        - **120-HE** → **71 Shì 120 Háomi Shā Bào Liú Dàn**.
+            - Full Ammunition Names package: **120-HE** → **1971 Nián Shì 120 Háomi Huátáng Tankè Pào Shāshāng Bàopò Liú Dàn**.
+            - Mandarin package: **120-HE** → **71式120毫米杀爆榴弹**.
+            - Full Ammunition Names Mandarin package: **120-HE** → **1971年式120毫米滑膛坦克炮杀伤爆破榴弹**.
+        - **120-HEAT** → **71 Shì 120 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names package: **120-HEAT** → **1971 Nián Shì 120 Háomi Huátáng Tankè Pào Pò Jia Dàn**.
+            - Mandarin package: **120-HEAT** → **71式120毫米破甲弹**.
+            - Full Ammunition Names Mandarin package: **120-HEAT** → **1971年式120毫米滑膛坦克炮破甲弹**.
+        - **DYW1** → **DYW/PTZ89-120**.
+            - Full Ammunition Names package: **DYW1** → **DYW/PTZ89 Shì 120 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DYW1** → **DYW/PTZ89式120毫米穿甲弹**.
+        - **DYS120** → **DYS/PTZ89-120**.
+            - Full Ammunition Names package: **DYS120** → **DYS/PTZ89 Shì 120 Háomi Shāshāng Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DYS120** → **DYS/PTZ89式120毫米杀伤榴弹**.
+        - **DTB-125**:
+            - Full Ammunition Names package: **DTB-125** → **DTB Shì 125 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DTB-125** → **DTB式125毫米杀伤爆破榴弹**.
+        - **DTB12-125**:
+            - Full Ammunition Names package: **DTB12-125** → **DTB12 Shì 125 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DTB12-125** → **DTB12式125毫米杀伤爆破榴弹**.
+        - **DTP-125**:
+            - Full Ammunition Names package: **DTP-125** → **DTP Shì 125 Háomi Pò Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DTP-125** → **DTP式125毫米破甲弹**.
+        - **125-I** → **85-1 Shì 125 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names package: **125-I** → **1985 Nián 1 Shì 125 Háomi Huátáng Tankè Pào Tuō Ké Chāosù Chuān Jia Dàn**.
+            - Mandarin package: **125-I** → **85-1式125毫米穿甲弹**.
+            - Full Ammunition Names Mandarin package: **125-I** → **1985年1式125毫米滑膛坦克炮脱壳超速穿甲弹**.
+        - **DTW-125**:
+            - Full Ammunition Names package: **DTW-125** → **DTW Shì 125 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DTW-125** → **DTW式125毫米穿甲弹**.
+        - **DTC10-125**:
+            - Full Ammunition Names package: **DTC10-125** → **DTC10 Shì 125 Háomi Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **DTC10-125** → **DTC10式125毫米穿甲弹**.
+        - **BTA4-125**:
+            - Full Ammunition Names Mandarin package: **BTA4-125** → **BTA4型125毫米穿甲弹**.
+        - **DJB2** → **DJB2/PL59A-130**.
+            - Full Ammunition Names package: **DJB2** → **DJB2/PL59A Shì 130 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DJB2** → **DJB2/PL59A式130毫米杀伤爆破榴弹**.
+        - **DJB3 (VTF)** → **DJB3/PL59A-130**.
+            - Full Ammunition Names package: **DJB3 (VTF)** → **DJB3/PL59A Shì 130 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DJB3 (VTF)** → **DJB3/PL59A式130毫米杀伤爆破榴弹**.
+        - **DJF1** → **DJF1/PL59A-130**.
+            - Full Ammunition Names package: **DJF1** → **DJF1/PL59A Shì 130 Háomi Fā Yān Dàn**.
+            - Full Ammunition Names Mandarin package: **DJF1** → **DJF1/PL59A式130毫米发烟弹**.
+        - **BEE7 HEF** → **CS/BEE7-152**.
+            - Full Ammunition Names package: **BEE7 HEF** → **CS/BEE7 Xíng 152 Háomi Di Pái Huojiàn Fùhé Zēng Chéng Dàn**.
+            - Full Ammunition Names Mandarin package: **BEE7 HEF** → **CS/BEE7型152毫米底排火箭复合增程弹**.
+        - **BEE7 HEF (VTF)** → **CS/BEE7-152 (VTF)**.
+            - Full Ammunition Names package: **BEE7 HEF (VTF)** → **CS/BEE7 Xíng 152 Háomi Di Pái Huojiàn Fùhé Zēng Chéng Dàn (Variable Time Fuze)**.
+            - Full Ammunition Names Mandarin package: **BEE7 HEF (VTF)** → **CS/BEE7型152毫米底排火箭复合增程弹 (Variable Time Fuze)**.
+        - **DDB37 HEF** → **DDB1/PLZ83-152**.
+            - Full Ammunition Names package: **DDB37 HEF** → **DDB1/PLZ83 Shì 152 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **DDB37 HEF** → **DDB1/PLZ83式152毫米杀伤爆破榴弹**.
+        - **DDB37 HEF (VTF)** → **DDB1/PLZ83-152 (VTF)**.
+            - Full Ammunition Names package: **DDB37 HEF (VTF)** → **DDB1/PLZ83 Shì 152 Háomi Shāshāng Bàopò Liú Dàn (Variable Time Fuze)**.
+            - Full Ammunition Names Mandarin package: **DDB37 HEF (VTF)** → **DDB1/PLZ83式152毫米杀伤爆破榴弹 (Variable Time Fuze)**.
+        - **Type 05 HE** → **DLXA/PLZ05-155**.
+            - Full Ammunition Names package: **Type 05 HE** → **DLXA/PLZ05 155 Háomi Shāshāng Bàopò Liú Dàn**.
+            - Full Ammunition Names Mandarin package: **Type 05 HE** → **DLXA/PLZ05式155毫米杀伤爆破榴弹**.
+        - **Type 05 HE(VT)** → **DLXA/PLZ05-155 (VTF)**.
+            - Full Ammunition Names package: **Type 05 HE(VT)** → **DLXA/PLZ05 155 Háomi Shāshāng Bàopò Liú Dàn (Variable Time Fuze)**.
+            - Full Ammunition Names Mandarin package: **Type 05 HE(VT)** → **DLXA/PLZ05式155毫米杀伤爆破榴弹 (Variable Time Fuze)**.
+        - **BEA1-155** → **CS/BEA1-155**.
+            - Full Ammunition Names package: **BEA1-155** → **CS/BEA1 Xíng 155 Háomi Di Pái Chuān Jia Dàn**.
+            - Full Ammunition Names Mandarin package: **BEA1-155** → **CS/BEA1型155毫米底排穿甲弹**.
+        - **100-2** → **100-2 Xíng**. Statcard name → **100 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **100-2** → **100-2型**. Statcard name → **100公斤2型航空爆破炸弹**.
+        - **250-2** → **250-2 Xíng**. Statcard name → **250 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **250-2** → **250-2型**. Statcard name → **250公斤2型航空爆破炸弹**.
+        - **Type 250-2** → **250-2 Xíng**. Statcard name → **250 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **Type 250-2** → **250-2型**. Statcard name → **250公斤2型航空爆破炸弹**.
+        - **Type 250-3** → **250-3 Xíng**. Statcard name → **250 Gōngjīn 3 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **Type 250-3** → **250-3型**. Statcard name → **250公斤3型航空爆破炸弹**.
+        - **250-3** → **250-3 Xíng**. Statcard name → **250 Gōngjīn 3 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **250-3** → **250-3型**. Statcard name → **250公斤3型航空爆破炸弹**.
+        - **Type 250-4** → **250-4 Xíng**. Statcard name → **250 Gōngjīn 4 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **Type 250-4** → **250-4型**. Statcard name → **250公斤4型航空爆破炸弹**.
+        - **250-1** → **250-1 Xíng (Ránshāo)**. Statcard name → **250 Gōngjīn 1 Xíng Hángkōng Bàopò Ránshāo Zhàdàn**.
+            - Mandarin package: **250-1** → **250-1型 (燃烧)**. Statcard name → **250公斤1型航空爆破燃烧炸弹**.
+        - **250-2** → **250-1 Xíng (Ránshāo)**. Statcard name → **250 Gōngjīn 1 Xíng Hángkōng Bàopò Ránshāo Zhàdàn**.
+            - Mandarin package: **250-2** → **250-1型 (燃烧)**. Statcard name → **250公斤1型航空爆破燃烧炸弹**.
+        - **TS250** → **GB3**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn | GB3 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
+            - Mandarin package: **TS250** → **GB3**. Statcard name → **GB250型250公斤激光卫星制导炸弹 | GB3型250公斤激光卫星制导炸弹**.
+        - **LS6** → **LS-6/250**. Statcard name → **LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn**.
+            - Mandarin package: **LS6** → **LS-6/250**. Statcard name → **LS-6型250公斤制导滑翔炸弹**.
+        - **500-2** → **500-2 Xíng**. Statcard name → **500 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **500-2** → **500-2型**. Statcard name → **500公斤2型航空爆破炸弹**.
+        - **Type 500-3** → **500-3 Xíng**. Statcard name → **500 Gōngjīn 3 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **Type 500-3** → **500-3型**. Statcard name → **500公斤3型航空爆破炸弹**.
+        - **Type 500-4** → **500-4 Xíng**. Statcard name → **500 Gōngjīn 4 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **Type 500-4** → **500-4型**. Statcard name → **500公斤4型航空爆破炸弹**.
+        - **LS6** → **LS-6/500**. Statcard name → **LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn**.
+            - Mandarin package: **LS6** → **LS-6/500**. Statcard name → **LS-6型500公斤制导滑翔炸弹**.
+        - **LS500J** → **K/YJG500**. Statcard name → **K/YJG500 Xíng 500 Gōngjīn Jīguāng Zhìdao Zhàdàn**.
+            - Mandarin package: **LS500J** → **K/YJG500**. Statcard name → **K/YJG500型500公斤激光制导炸弹**.
+        - **LS1000J** → **GB1000**. Statcard name → **GB1000 Xíng 1000 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
+            - Mandarin package: **LS1000J** → **GB1000**. Statcard name → **GB1000型1000公斤激光卫星制导炸弹**.
+        - **1500-2** → **1500-2 Xíng**. Statcard name → **1500 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **1500-2** → **1500-2型**. Statcard name → **1500公斤2型航空爆破炸弹**.
+        - **3000-2** → **3000-2 Xíng**. Statcard name → **3000 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn**.
+            - Mandarin package: **3000-2** → **3000-2型**. Statcard name → **3000公斤2型航空爆破炸弹**.
+        - **Type 90-1 (HE)** → **90-1 Xíng (Shā Bào Dàn)**. Statcard name → **90 Háomi 1 Xíng Hángkōng Huojiàn Shāshāng Bàopò Dàn**.
+            - Mandarin package: **Type 90-1 (HE)** → **90-1型 (杀爆弹)**. Statcard name → **90毫米1型航空火箭杀伤爆破弹**.
+        - **Type 90-1 (HEAT)** → **90-1 Xíng (Pò Jia)**. Statcard name → **90 Háomi 1 Xíng Hángkōng Huojiàn Pò Jia Dàn**.
+            - Mandarin package: **Type 90-1 (HEAT)** → **90-1型 (破甲)**. Statcard name → **90毫米1型航空火箭破甲弹**.
+        - **FS70**:
+            - Mandarin package: Statcard name → **FS70航空火箭弹**.
+            - Full Mandarin package: **FS70** → **火蛇70**. Statcard name → **火蛇70航空火箭弹**.
+        - **FS70A** → **GR5**. Statcard name → **GR5 Hángkōng Zhìdao Huojiàndàn**.
+            - Mandarin package: **FS70A** → **GR5**. Statcard name → **GR5航空制导火箭弹**.
+        - **BRM1**: Statcard name → **BRM1 Xíng 90 Háomi Hángkōng Zhìdao Huojiàndàn**.
+            - Mandarin package: Statcard name → **BRM1型90毫米航空制导火箭弹**.
+        - **Type 130-2** → **130-1 Xíng**. Statcard name → **130 Háomi 1 Xíng Hángkōng Huojiàn Shāshāng Bàopò Dàn**.
+            - Mandarin package: **Type 130-2** → **130-1型**. Statcard name → **130毫米1型航空火箭杀伤爆破弹**.
+        - **PL2** → **K/AKK2**. Statcard name → **PL2 | K/AKK2 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL2** → **K/AKK2**. Statcard name → **PL2 | K/AKK2空空导弹**.
+            - Full Mandarin package: **PL2** → **K/AKK2**. Statcard name → **霹雳2 | K/AKK2空空导弹**.
+        - **PL5B** → **K/AKK5B**. Statcard name → **PL5B | K/AKK5B Kōng Kōng Daodàn**.
+            - Mandarin package: **PL5B** → **K/AKK5B**. Statcard name → **PL5B | K/AKK5B空空导弹**.
+            - Full Mandarin package: **PL5B** → **K/AKK5B**. Statcard name → **霹雳5B | K/AKK5B空空导弹**.
+        - **PL5C** → **K/AKK5C**. Statcard name → **PL5C | K/AKK5C Kōng Kōng Daodàn**.
+            - Mandarin package: **PL5C** → **K/AKK5C**. Statcard name → **PL5C | K/AKK5C空空导弹**.
+            - Full Mandarin package: **PL5C** → **K/AKK5C**. Statcard name → **霹雳5C | K/AKK5C空空导弹**.
+        - **PL5EII** → **K/AKK5EII**. Statcard name → **PL5EII | K/AKK5EII Kōng Kōng Daodàn**.
+            - Mandarin package: **PL5EII** → **K/AKK5EII**. Statcard name → **PL5EII | K/AKK5EII空空导弹**.
+            - Full Mandarin package: **PL5EII** → **K/AKK5EII**. Statcard name → **霹雳5EII | K/AKK5EII空空导弹**.
+        - **PL7** → **K/AKK7**. Statcard name → **PL7 | K/AKK7 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL7** → **K/AKK7**. Statcard name → **PL7 | K/AKK7空空导弹**.
+            - Full Mandarin package: **PL7** → **K/AKK7**. Statcard name → **霹雳7 | K/AKK7空空导弹**.
+        - **PL8** → **K/AKK8**. Statcard name → **PL8 | K/AKK8 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL8** → **K/AKK8**. Statcard name → **PL8 | K/AKK8空空导弹**.
+            - Full Mandarin package: **PL8** → **K/AKK8**. Statcard name → **霹雳8 | K/AKK8空空导弹**.
+        - **PL8B** → **K/AKK8B**. Statcard name → **PL8B | K/AKK8B Kōng Kōng Daodàn**.
+            - Mandarin package: **PL8B** → **K/AKK8B**. Statcard name → **PL8B | K/AKK8B空空导弹**.
+            - Full Mandarin package: **PL8B** → **K/AKK*B**. Statcard name → **霹雳8B | K/AKK8B空空导弹**.
+        - **PL11** → **K/AKK11**. Statcard name → **PL11 | K/AKK11 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL11** → **K/AKK11**. Statcard name → **PL11 | K/AKK11空空导弹**.
+            - Full Mandarin package: **PL11** → **K/AKK11**. Statcard name → **霹雳11 | K/AKK11空空导弹**.
+        - **PL12** → **SD10A**. Statcard name → **SD10A Kōng Kōng Daodàn**.
+            - Mandarin package: **PL12** → **SD10A**. Statcard name → **SD10A空空导弹**.
+            - Full Mandarin package: **PL12** → **SD10A**. Statcard name → **SD10A空空导弹**.
+        - **AKK90**: Statcard name → **TY90 | AKK90 Kōng Kōng Daodàn**.
+            - Mandarin package: **AKK90**: Statcard name → **TY90 | AKK90空空导弹**.
+            - Full Mandarin package: **AKK90**: Statcard name → **天燕90 | AKK90空空导弹**.
+        - **AKD09**: Statcard name → **AKD09 Kòng Dì Daodàn**.
+            - Mandarin package: Statcard name → **AKD09空地导弹**.
+        - **AKD10**: Statcard name → **AKD10 Kòng Dì Daodàn**.
+            - Mandarin package: **AKD10**: Statcard name → **AKD10空地导弹**.
+        - **BA-11** → **BA-11A**. Statcard name → **BA-11A Xíng Kòng Dì Daodàn**.
+            - Mandarin package: **BA-11** → **BA-11A**. Statcard name → **BA-11A型空地导弹**.
+        - **H/AKJ08**: Statcard name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
+            - Mandarin package: Statcard name → **YJ81 | H/AKJ08空舰导弹**.
+            - Full Mandarin package: Statcard name → **鹰击81 | H/AKJ08空舰导弹**.
+        - **AFT08A**: Statcard name → **HJ-8A | AFT08A Fan Tankè Daodàn**.
+            - Mandarin package: Statcard name → **HJ-8A | AFT08A反坦克导弹**.
+            - Full Mandarin package: Statcard name → **红箭-8A | AFT08A反坦克导弹***.
+        - **AFT08C**: Statcard name → **HJ-8C | AFT08C Fan Tankè Daodàn**.
+            - Mandarin package: Statcard name → **HJ-8C | AFT08C反坦克导弹**.
+            - Full Mandarin package: Statcard name → **红箭-8C | AFT08C反坦克导弹**.
+        - **AFT08E**: Statcard name → **HJ-8E | AFT08E Fan Tankè Daodàn**.
+            - Mandarin package: Statcard name → **HJ-8E | AFT08E反坦克导弹**.
+            - Full Mandarin package: Statcard name → **红箭-8E | AFT08E反坦克导弹**.
+        - **AFT08H**: Statcard name → **HJ-8H | AFT08H Fan Tankè Daodàn**.
+            - Mandarin package: Statcard name → **HJ-8H | AFT08H反坦克导弹**.
+            - Full Mandarin package: Statcard name → **红箭-8H | AFT08H反坦克导弹**.
+        - **AFT08J**: Statcard name → **HJ-8L | AFT08L Fan Tankè Daodàn**.
+            - Mandarin package: Statcard name → **HJ-8L | AFT08L反坦克导弹**.
+            - Full Mandarin package: Statcard name → **红箭-8L | AFT08L反坦克导弹**.
+        - **AFT07 | HJ73** (launcher) → **HJ-73 | AFT07 Fan Tankè Daodàn**.
+            - Mandarin package: **AFT07 | HJ73** → **HJ-73 | AFT07反坦克导弹**.
+            - Full Mandarin package: **AFT07 | HJ73** → **红箭-73 | AFT07反坦克导弹**.
+        - **AFT07E | HJ73** → **AFT07**.
+            - Full Ammunition Names package: **AFT07E | HJ73** → **AFT07 Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **AFT07E | HJ73** → **AFT07反坦克导弹**.
+        - **AFT07E | HJ73E** (launcher) → **HJ-73E | AFT07E Fan Tankè Daodàn**.
+            - Mandarin package: **AFT07E | HJ73E** → **HJ-73E | AFT07E反坦克导弹**.
+            - Full Mandarin package: **AFT07E | HJ73E** → **红箭-73E | AFT07E反坦克导弹**.
+        - **AFT07E | HJ73E** → **AFT07E**.
+            - Full Ammunition Names package: **AFT07E | HJ73E** → **AFT07E Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **AFT07E | HJ73E** → **AFT07E反坦克导弹**.
+        - **302 Anti-tank Missile** (launcher) → **302 Fan Tankè Daodàn**.
+            - Mandarin package: **302 Anti-tank Missile** → **302反坦克导弹**.
+        - **302**:
+            - Full Ammunition Names package: **302** → **302 Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **302** → **302反坦克导弹**.
+        - **AFT09 anti-tank missile system** (launcher) → **HJ-9 | AFT09 Zhòngxíng Fan Tankè Daodàn Fāshè Chē**.
+            - Mandarin package: **AFT09 anti-tank missile system** → **HJ-9 | AFT09重型反坦克导弹发射车**.
+            - Full Mandarin package: **AFT09 anti-tank missile system** → **红箭-9 | AFT09重型反坦克导弹发射车**.
+        - **AFT09**:
+            - Full Ammunition Names package: **AFT09** → **AFT09 Zhòngxíng Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **AFT09** → **AFT09重型反坦克导弹发射车**.
+        - **QN201** (launcher) → **QN201 Jīngjì Xíng Duō Yòngtú Daodàn Fāshè Jià**.
+            - Mandarin package: **QN201** → **QN201经济型多用途导弹发射架**.
+        - **QN201**:
+            - Full Ammunition Names package: **QN201** → **QN201 Jīngjì Xíng Duō Yòngtú Daodàn**.
+            - Full Ammunition Names + Mandarin package: **QN201** → **QN201经济型多用途导弹**.
+        - **QN502C** (launcher) → **QN502C Zhōng Chéng Chēzài Zì Xún Dì Zhìnéng Fan Tankè Daodàn Fāshè Jià**.
+            - Mandarin package: **QN502C** → **QN502C中程车载自寻的智能反坦克导弹发射架**.
+        - **QN502C**:
+            - Full Ammunition Names package: **QN502C** → **QN502C Zhōng Chéng Chēzài Zì Xún Dì Zhìnéng Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **QN502C** → **QN502C中程车载自寻的智能反坦克导弹**.
+        - **GP105**:
+            - Full Ammunition Names package: **GP105** → **GP105 Xíng 105 Háomi Pào Shè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **GP105** → **GP105型105毫米炮射导弹**.
+        - **GP125**:
+            - Full Ammunition Names package: **GP125** → **GP125 Xíng 125 Háomi Pào Shè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **GP125** → **GP125型125毫米炮射导弹**.
+        - **APS03** → **APS03-100**.
+            - Full Ammunition Names package: **APS03** → **APS03 Shì 100 Háomi Fan Tankè Daodàn**.
+            - Full Ammunition Names + Mandarin package: **APS03** → **APS03式100毫米反坦克导弹**.
+        - **FB10 Dì Duì Kōng Daodàn Fāshè Chē** (launcher):
+            - Mandarin package: **FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **FB-10地對空导弹发射架**.
+            - Full Mandarin package: **FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **飞豹10地對空导弹发射架**.
+        - **FB10**:
+            - Full Ammunition Names + Mandarin package: **FB10** → **FB10地對空导弹**.
+            - Full Ammunition Names + Full Mandarin package: **FB10** → **飞豹10地對空导弹**.
+        - **FB10A**:
+            - Full Ammunition Names + Mandarin package: **FB10A** → **FB10A地對空导弹**.
+            - Full Ammunition Names + Full Mandarin package: **FB10A** → **飞豹10A地對空导弹**.
+        - **HQ17 SAM** (launcher) → **HQ-17 | ADK17 Dì Duì Kōng Daodàn Xìtong**.
+            - Mandarin package: **HQ17 SAM** → **HQ-17 | ADK17地對空导弹系統**.
+            - Full Mandarin package: **HQ17 SAM** → **红旗-17 | ADK17地對空导弹系統**.
+        - **HQ17** → **ADK17**.
+            - Full Ammunition Names package: **HQ17** → **ADK17 Dì Duì Kōng Daodàn**.
+            - Full Ammunition Names + Mandarin package: **HQ17** → **ADK17地對空导弹**.
+        - **TC-1L Tián Jiàn I** (launcher) → **Jiàn 1 Fángkōng Fēidàn Xìtong**.
+            - Mandarin package: **TC-1L Tián Jiàn I** → **劍一防空飛彈系統**.
+        - **TC-1L** → **Jiàn 1**.
+            - Full Ammunition Names package: **TC-1L** → **Jiàn 1 Fēidàn**.
+            - Full Ammunition Names + Mandarin package: **TC-1L** → **劍一飛彈**.
+        - **HN6** (launcher) → **HN-6 Dì Duì Kōng Daodàn Fāshè Jià**.
+            - Mandarin package: **HN6** → **HN-6地對空导弹发射架**.
+            - Full Mandarin package: **HN6** → **红缨-6地對空导弹发射架**.
+        - **HN6** → **HN-6**.
+            - Full Ammunition Names package: **HN6** → **HN-6 Dì Duì Kōng Daodàn**.
+            - Full Ammunition Names + Mandarin package: **HN6** → **HN-6地對空导弹**.
+            - Full Mandarin package: **HN6** → **红缨-6**.
+            - Full Ammunition Names + Full Mandarin package: **HN6** → **红缨-6地對空导弹**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
@@ -727,6 +1197,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **A.P.C., 15-inch 6-crh., Mk. XXIIb**.
         - Full Ammunition Names package: **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **Shell, B.L., A.P.C., 15-inch 6-crh., Mk. XXIIb**.
     - **Mk 11 Mod 0**: Long name → **Launcher System, Guided Missile, Mk 11 Mod 0**.
+    - **PTB-490** (all MiG-21's) → **PTB-500**. Long name → **Podvyesnoj toplivnyj bak PTB-500**.
 
 ### Modifications:
 
@@ -742,26 +1213,189 @@ All dates are listed in DD-MM-YYYY format.
         - **LWS/LR** → **LWS / LR**
         - **M-910-21/22-10 gun pod** → **M910-21/22-10**
         - All modifications for weapons have been added and corrected (it's pointless listing them all here when it's the same name as the weapons).
+    - China rework and Mandarin package:
+        - All modifications have been adjusted to match weapon name changes and the multiple packages. Only additional changes will be listed here to make this changelog not a billion lines.
+        - **H/AKJ81** modification → **H/AKJ08**. The pylon in the description has been corrected from **H/EDJ49B** to **GDJ-49B** (it was an image where just the corner of the letter was visible, it could have been an E or a G given the font and that it's just a corner but the fact that every other pylon is GDL or, more commonly, GDJ means this is almost certainly GDJ).
+        - **AKD08A** → **AFT08A**.
+        - **AKD08C** → **AFT08C**.
+        - **AKD08E** → **AFT08E**.
+        - **AKD08H** → **AFT08H**.
+        - **FS70A** → **GR5**.
+        - **Mk82/LS-6 250** → **Mk 82 Mod 0 / LS-6/250**.
+        - **Mk83/LS-6 500** → **Mk 83 Mod 0 / LS-6/500**.
+        - **Type 250 / LS6** → **Type 250 / LS-6/250**.
+        - **Type 500 / LS6** → **Type 500 / LS-6/500**.
     - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
     - Corrected a typo in the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
     - Added bomb masses to the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
-    - **H/AKJ81** modification → **H/AKJ08**.
     - Corrected the description of the **39A940-31/32** gun pod modification.
+    - **16"/50 Mk 7 Mod 0** modification → **16" A.P. Mk 8 Mod 6** (somehow I gave it the name of the gun and not the ammunition).
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **MTU 8V 199 TE20**
+        - **MTU 8V 199 TE21**
+        - **6M70T4**
+        - **V-1710-55**
+        - **Cyclone R-1820-F53**
+        - **R-1820-72w**
+        - **DSC1122**
+        - **3040 MX**
+        - **HD4070**
+        - **GRS900R**
+        - **HSWL 256B**
+        - **AL-31FN series 3**
+        - **M88-2E4**
+        - **AL-41F1S**
+        - **WS-10B**
+        - **Viper 11**
+        - **F414-GE-400**
+        - **F414-GE-39E (RM16)**
+
+- #### Changes:
+
+    - Update "Line of Contact" changes:
+        - **V-1710-55** → **Allison Engine Company F10L | V-1710-55**.
+        - **Cyclone R-1820-F53** → **GR-1820-F53 Cyclone**.
+        - **R-1820-72w** → **R-1820-72W Cyclone**.
+        - **GRS900R** → **GRS 900R**.
+        - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
+        - **AL-41F1S** → **izd. 117S | AL-41F1S**.
+        - **WS-10B** → **FWS10B Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10B** → **FWS10B发动机 "太行"**.
+        - **Viper 11** → **Viper Mk. 200**.
+        - **F414-GE-39E (RM16)** → **RM16**.
+    - China rework & Mandarin package:
+        - **WJ6 Fādòngjī**:
+            - Mandarin package: **WJ6 Fādòngjī** → **WJ6发动机**.
+            - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨6发动机**.
+        - **WP-5** → **WP5 Fādòngjī**.
+            - Mandarin package: **WP-5** → **WP5发动机**.
+            - Full Mandarin package: **WP-5** → **涡喷5发动机**.
+        - **WP-6** → **WP6 Fādòngjī**.
+            - Mandarin package: **WP-6** → **WP6发动机**.
+            - Full Mandarin package: **WP-6** → **涡喷6发动机**.
+        - **WP-6A** → **WP6A Fādòngjī**.
+            - Mandarin package: **WP-6A** → **WP6A发动机**.
+            - Full Mandarin package: **WP-6A** → **涡喷6A发动机**.
+        - **WP-6A-III** → **WP6AIII Fādòngjī**.
+            - Mandarin package: **WP-6A-III** → **WP6AIII发动机**.
+            - Full Mandarin package: **WP-6A-III** → **涡喷6AIII发动机**.
+        - **WP-7B** → **WP7B Fādòngjī**.
+            - Mandarin package: **WP-7B** → **WP7B发动机**.
+            - Full Mandarin package: **WP-7B** → **涡喷7B发动机**.
+        - **WP-7F** → **WP7F Fādòngjī**.
+            - Mandarin package: **WP-7F** → **WP7F发动机**.
+            - Full Mandarin package: **WP-7F** → **涡喷7F发动机**.
+        - **WP-13A-II** → **WP13AII Fādòngjī**.
+            - Mandarin package: **WP-13A-II** → **WP13AII发动机**.
+            - Full Mandarin package: **WP-13A-II** → **涡喷13AII发动机**.
+        - **WP-13B-II** → **WP13BII Fādòngjī**.
+            - Mandarin package: **WP-13B-II** → **WP13BII发动机**.
+            - Full Mandarin package: **WP-13B-II** → **涡喷13BII发动机**.
+        - **WP-13F** → **WP13F Fādòngjī**.
+            - Mandarin package: **WP-13F** → **WP13F发动机**.
+            - Full Mandarin package: **WP-13F** → **涡喷13F发动机**.
+        - **WP-13FI** → **WP13FI Fādòngjī**.
+            - Mandarin package: **WP-13FI** → **WP13FI发动机**.
+            - Full Mandarin package: **WP-13FI** → **涡喷13FI发动机**.
+        - **WS-9** → **FWS9 Fādòngjī "Qínlǐng"**.
+            - Mandarin package: **WS-9** → **FWS9发动机 "秦岭"**.
+        - **WS-10A** → **FWS10A Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10A** → **FWS10A发动机 "太行"**.
+        - **WZ-8A** → **WZ8A Fādòngjī**.
+            - Mandarin package: **WZ-8A** → **WZ8A发动机**.
+            - Full Mandarin package: **WZ-8A** → **涡轴8A发动机**.
+        - **WZ-8C** → **WZ8C Fādòngjī**.
+            - Mandarin package: **WZ-8C** → **WZ8C发动机**.
+            - Full Mandarin package: **WZ-8C** → **涡轴8C发动机**.
+        - **WZ-8D** → **WZ8D Fādòngjī**.
+            - Mandarin package: **WZ-8D** → **WZ8D发动机**.
+            - Full Mandarin package: **WZ-8D** → **涡轴8D发动机**.
+        - **WZ-9** → **FWZ9 Fādòngjī**.
+            - Mandarin package: **WZ-9** → **FWZ9发动机**.
+        - **WZ-9C** → **FWZ9C Fādòngjī**.
+            - Mandarin package: **WZ-9C** → **FWZ9C发动机**.
+        - **Shenyang Liming** (engine manufacturer) → **Zhōngguó Háng Fā Shěnyáng Límíng Hángkōng Fādòngjī Yǒuxiàn Zérèn Gōngsī**.
+            - Mandarin package: **Shenyang Liming** → **中国航发沈阳黎明航空发动机有限责任公司**.
+        - **XAEC** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **XAEC** → **西安航空发动机 (集团) 有限公司**.
+        - **Zhuzhou Aero-Engine Factory** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **Zhuzhou Aero-Engine Factory** → **西安航空发动机 (集团) 有限公司**.
+    - **Allison** (engine manufacturer) → **Allison Engine Company**.
+    - **Allison** (transmission manufacturer) → **Allison Transmission**.
 
 ### Sensors:
 
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **AN/APG-79**
+        - **CAPTOR-E**
+        - **Sapphire-25/TP-26Sh1**
+        - **N001VE**
+        - **N035**
+        - **Type 03 TA**
+        - **KLJ-10A**
         - **YINGS-III**
+        - **HQ-11 TA** (the name literally does not exist publically there is no way to rename this one; it's LLQ[something] but I don't know what that something is)
+        - **ES-05**
 
 - #### Changes:
 
     - Update "Line of Contact" changes:
+        - **CAPTOR-E** (for the **Eurofighter (P3Ec1)**) → **ECRS Mk1**.
+        - **CAPTOR-E** (for the **Typhoon F.G.R. Mk. 4 (ZK355)** and **F-2000A (ECRS Mk2)**) → **ECRS Mk2**.
+        - **Sapphire-25/TP-26Sh1** → **Sistyema upravlyeniâ vooružyeniyem S-25** with the **Tyeplopyelyengator TP-26Š1** IRST and the **Bortovoj radiolokaczionnoj stanczii RP-25MN "Sapfir-25"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N005**.
+        - **N001VE** → **Sistyema upravlyeniâ vooružyeniyem SUV-VÈ** with the **Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27** IRST and the **Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ "Myeč"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N001VYe**.
+        - **N035** → **Radiolokaczionnaâ stancziâ N035 "Irbis"** (we don't know the name of the rest of the system).
+        - **Type 03 TA** → **03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
+            - Japanese package: **Type 03 TA** → **03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
+        - **KLJ-10A** → **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
+            - Mandarin package: **KLJ-10A** → **KLJ-10机载脉冲多普勒火控雷达**.
         - **YINGS-III** → **YINGS-IIIA (Biāo Pèixíng)**. Long name → **YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
-    - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
+        - **ES-05** → **RAVEN ES-05**.
+    - China rework & Mandarin package:
+        - **Type 280** → **208 Léidá | SL-5 Léidá | K/LKK208 Léidá**.
+            - Mandarin package: **Type 280** → **208雷达 | SL-5雷达 | K/LKK208雷达**.
+        - **Type 208a** → **208A Léidá | SL-5 Léidá | K/LKK208A Léidá**.
+            - Mandarin package: **Type 208a** → **208A雷达 | SL-5A雷达 | K/LKK208A雷达**.
+        - **Type 226** → **226 Léidá | K/LKK226 Léidá**.
+            - Mandarin package: **Type 226** → **226雷达 | K/LKK226雷达**.
+        - **JL-7A** → **JL-7A Xìliè Shèjí Miáozhun Léidá**.
+            - Mandarin package: **JL-7A** → **JL-7A系列射击瞄准雷达**.
+        - **JL-10A** → **JL-10A Xìliè Shèjí Miáozhun Léidá**.
+            - Mandarin package: **JL-10A** → **JL-10A系列射击瞄准雷达**.
+        - **Type 1473** → **1473H Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73H Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+            - Mandarin package: **Type 1473** → **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达**.
+        - **KLJ-7** → **1478 Léidá | KLJ-7 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK78 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+            - Mandarin package: **KLJ-7** → **1478雷达 | KLJ-7机载脉冲多普勒火控雷达 | K/LKK78机载脉冲多普勒火控雷达**.
+        - **K/LKK92B** → **1492 Léidá | K/LKK92 Léidá**.
+            - Mandarin package: **K/LKK92B** → **1492雷达 | K/LKK92雷达**.
+        - **Type 1493** → **1493 Léidá | K/LKK93 Léidá**.
+            - Mandarin package: **Type 1493** → **1493雷达 | K/LKK93雷达**.
+        - **Z-10 FCR** → **YH Háomi Bō Léidá**.
+            - Mandarin package: **Z-10 FCR** → **YH毫米波雷达**.
+            - Full Mandarin package: **Z-10 FCR** → **浴火毫米波雷达**.
+        - **Type 930-4** (RWR) → **930-4 Léidá Gàojing Shèbèi**.
+            - Mandarin package: **Type 930-4** (RWR) → **930-4雷达告警设备**.
+        - **KJ8602** (RWR) → **BM/KJ8602 Léidá Gàojing Shèbèi**.
+            - Mandarin package: **KJ8602** (RWR) → **BM/KJ8602雷达告警设备**.
+        - **KJ8602A** (RWR) → **BM/KJ8602A Léidá Gàojing Shèbèi**.
+            - Mandarin package: **KJ8602A** (RWR) → **BM/KJ8602A雷达告警设备**.
+        - **YH96** (RWR) → **YH96 Jīzai Daodàn Bījìn Hóngwài Gàojing Shèbèi**.
+            - Mandarin package: **YH96** (RWR) → **YH96机载导弹逼近红外告警设备**.
+            - Full Mandarin package: **YH96** (RWR) → **浴火96机载导弹逼近红外告警设备**.
+        - **K/PSZ01** → **K/PZS01**. Long name → **K/PZS01 Xíng Zhòuyè Miáozhǔn Diào Cāng**.
+            - Mandarin package: **K/PSZ01** → **K/PZS01**. Long name → **K/PZS01型昼夜瞄准吊舱**.
+        - **K/JDC03A** → **K/JDC03A**. Long name → **K/JDC03A Xíng Zhòuyè Miáozhǔn Diào Cāng**.
+            - Mandarin package: **K/JDC03A** → **K/JDC03A**. Long name → **K/JDC03A型昼夜瞄准吊舱**.
+        - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025
 

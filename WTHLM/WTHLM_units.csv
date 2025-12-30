@@ -1510,7 +1510,7 @@ shop/group/mig-9_china_group;␗ Migé 9 / I-307
 shop/group/mig-15_china_group;␗ Migé 15 Bisī / 17
 shop/group/mig-19_china_group;J6A / 7II
 shop/group/f_5a_china_group;☀ F-5A-25 / E
-shop/group/j_11_group;␗ K/JJ11 / 11A
+shop/group/j_11_group;K/JJ11 / 11A
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / 5A1
 shop/group/cn_76_211_group;211 / ␗ PT-76
 shop/group/cn_t_34_m4_group;␗ Tè 34 / ☀ M4A1
@@ -7123,7 +7123,7 @@ jp_battleship_musashi_2;Battleship
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 gladiator_mk1_china_shop;☀ Dòushì Mk. I
-gladiator_mk1_china_0;"☀ Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī ""Gé Jī"""
+gladiator_mk1_china_0;"☀ Gloster Aircraft Company SS.37 | Dòushì Mk. I Xíng Qūzhú Jī ""Gé Jī"""
 gladiator_mk1_china_1;☀ Dòushì Mk. I
 gladiator_mk1_china_2;☀ Dòushì
 ki-27_otsu_china_shop;☀ 97 Shì Zhàn Yi
@@ -7323,7 +7323,7 @@ mig-9_china_0;␗ Opytno-konstruktorskoye bûro № 155 | Migé 9 Xíng Fēijī
 mig-9_china_1;␗ Migé 9
 mig-9_china_2;␗ Migé 9
 mig-9_late_china_shop;␗ I-307
-mig-9_late_china_0;␗ Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307
+mig-9_late_china_0;␗ Opytno-konstruktorskoye bûro № 155 | izd. FF | I-307
 mig-9_late_china_1;␗ I-307
 mig-9_late_china_2;␗ I-307
 mig-15bis_nr23_china_shop;␗ Migé 15 Bisī
@@ -7452,10 +7452,10 @@ mirage_2000_5ei_shop;M-2000-5
 mirage_2000_5ei_0;Dassault Aviation | M-2000-5 Xíng Zhàndòu Jī
 mirage_2000_5ei_1;M-2000-5
 mirage_2000_5ei_2;M-2000
-j_11_shop;␗ K/JJ11
-j_11_0;"␗ PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī ""Yìng Lóng"""
-j_11_1;␗ K/JJ11
-j_11_2;␗ K/JJ11
+j_11_shop;K/JJ11
+j_11_0;"PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī ""Yìng Lóng"""
+j_11_1;K/JJ11
+j_11_2;K/JJ11
 j_11a_shop;K/JJ11A (MLU)
 j_11a_0;"PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11A Xíng Fēijī ""Yìng Lóng"" (Mid-Life Update)"
 j_11a_1;K/JJ11A
@@ -7464,9 +7464,9 @@ j_11b_shop;K/JJ11B
 j_11b_0;"PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī ""Yìng Lóng"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
-jf_17_shop;JF-17 Blāk I
-jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar
-jf_17_1;JF-17 Blāk I
+jf_17_shop;JF-17 Block I
+jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder
+jf_17_1;JF-17 Block I
 jf_17_2;JF-17
 su_30mkk_shop;␗ Sū 30MKK
 su_30mkk_0;␗ PPAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī
@@ -7478,6 +7478,10 @@ z_11wa_shop;Z11WA
 z_11wa_0;Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī
 z_11wa_1;Z11WA
 z_11wa_2;Z11
+sa_342l_china_shop;␗ SA 342 L
+sa_342l_china_0;␗ Société Nationale Industrielle Aérospatiale | SA 342 L Xíng Wuzhuāng Zhíshēngjī
+sa_342l_china_1;␗ SA 342 L
+sa_342l_china_2;␗ SA 342
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 z_9w_shop;Z9W

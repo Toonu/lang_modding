@@ -21,7 +21,7 @@ ucav_wing_loong_i_killstreak_2;GJ1
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 gladiator_mk1_china_shop;鬥士Mk. I
-gladiator_mk1_china_0;Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」
+gladiator_mk1_china_0;Gloster Aircraft Company SS.37 | 鬥士Mk. I型驅逐機「格機」
 gladiator_mk1_china_1;鬥士Mk. I
 gladiator_mk1_china_2;鬥士
 ki-27_otsu_china_shop;☀ 九七式戰乙
@@ -366,9 +366,9 @@ j_11b_shop;K/JJ11B
 j_11b_0;"PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 ""应龙"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
-jf_17_shop;JF-17 Blāk I
-jf_17_0;Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Blāk I Thaṇḍar
-jf_17_1;JF-17 Blāk I
+jf_17_shop;JF-17 Block I
+jf_17_0;Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Block I Thunder
+jf_17_1;JF-17 Block I
 jf_17_2;JF-17
 su_30mkk_shop;␗ 苏30MKK
 su_30mkk_0;␗ PAO «Kompaniâ Sukhoj» | 苏30MKK型飞机
@@ -380,6 +380,10 @@ z_11wa_shop;Z11WA
 z_11wa_0;昌河飞机工业 (集团) | Z11WA型武装直升机
 z_11wa_1;Z11WA
 z_11wa_2;Z11
+sa_342l_china_shop;␗ SA 342 L
+sa_342l_china_0;␗ Société Nationale Industrielle Aérospatiale | SA 342 L型武装直升机
+sa_342l_china_1;␗ SA 342 L
+sa_342l_china_2;␗ SA 342
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 z_9w_shop;Z9W
