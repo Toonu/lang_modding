@@ -88,6 +88,7 @@ sensors/us_comanche_fcr;Comanche Radar <color=#ff6f00>RDR-PD</color>
 sensors/uk_captor_ecrs_1_pirate;ECRS Mk1 <color=#ff6f00>RDR-AESA</color>
 sensors/uk_captor_ecrs_2_pirate;ECRS Mk2 <color=#ff6f00>RDR-AESA</color>
 sensors/de_hensoldt_trml_4b;TRML 4D <color=#ff6f00>RDR-AESA</color>
+sensors/su_thorium;Radiolokaczionnaâ stancziâ Torij-A <color=#ff6f00>RDR</color>
 sensors/su_sapphire_21;Sapphire-21
 sensors/su_sapphire_23;Sapphire-23D/TP-23
 sensors/su_sapphire_23mla_2;Sapphire-23MLA-2/TP-23M
@@ -124,12 +125,13 @@ sensors/cn_type_208a;208A Léidá | SL-5A Léidá | K/LKK208A Léidá <color=#ff
 sensors/uk_marconi_type_226;226 Léidá | K/LKK226 Léidá <color=#ff6f00>RDR</color>
 sensors/cn_jl_7a;JL-7A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR</color>
 sensors/cn_jl_10a;JL-10A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR-PD</color>
-sensors/cn_type_1473;1473H Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73H Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1473;1473 Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_klj_7;1478 Léidá | KLJ-7 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK78 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
-sensors/cn_klj_10a;KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá <color=#ff6f00>RDR-AESA</color>
-sensors/cn_type_1492;1492 Léidá | K/LKK92 Léidá <color=#ff6f00>RDR-PD</color>
-sensors/cn_type_1493_pd;1493 Léidá | K/LKK93 Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_klj_10a;KLJ-10A Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá <color=#ff6f00>RDR-AESA</color>
+sensors/cn_type_1492;1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1493_pd;1493 Léidá | K/LKK93 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_z10_fcr;YH Háomi Bō Léidá <color=#ff6f00>RDR</color>
+sensors/cn_clc_1_search;CLC1 Duanchéng Dīkōng Jānshì Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
 sensors/cn_hq_11_search;HQ-11 TA
@@ -153,6 +155,7 @@ sensors/su_spo-150-14;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pasty
 sensors/su_spo_150_28m;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'
 sensors/su_spo-150-30sm;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'
 sensors/il_elisra_sps_3000;SPS-3000(V)
+sensors/cn_type_930;930 Léidá Gàojing Shèbèi
 sensors/cn_type_930_4;930-4 Léidá Gàojing Shèbèi
 sensors/cn_kj_8602;BM/KJ8602 Léidá Gàojing Shèbèi
 sensors/cn_kj8602a;BM/KJ8602A Léidá Gàojing Shèbèi
@@ -171,6 +174,8 @@ weapons/us_sniper_atp_targeting_pod;AN/AAQ-33 Sniper Advanced Targeting Pod <col
 weapons/us_sniper_atp_targeting_pod/short;AN/AAQ-33
 weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
+weapons/su_apk_9;Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9 <color=#ff6f00>TGP-EO</color>
+weapons/su_apk_9/short;APK-9
 weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
 weapons/cn_k_pzs_01_targeting_pod;K/PZS01 Xíng Zhòuyè Miáozhun Diào Cāng <color=#ff6f00>TGP-LG/EO</color>
@@ -187,10 +192,13 @@ weapons/it_cldp_targeting_pod/short;CLDP
 //COUNTERMEASURES
 counterMeasures/l_370v28_5l;L-370-5L <color=#ff6f00>CM-DIR</color>
 counterMeasures/cn_z_10me;LDIRCM
+weapons/countermeasure_chaff_only_large_a32a;BOX-3 <color=#ff6f00>CM-CHF</color>
+weapons/countermeasure_chaff_only_large_a32a/short;BOX-3
 
 //ACTIVE PROTECTION SYSTEMS
-aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 | Drozd
-aps/arena_m;Komplyeks aktivnoj zaŝity Aryena-M
+aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»
+aps/arena_3;Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»
+aps/arena_m;Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»
 
 //LWSs
 sensors/fr_antares_lws;ANTARES
@@ -230,9 +238,6 @@ sensors/jp_ops_16_radar;OPS-16
 sensors/jp_type_21;Type-21
 sensors/jp_type_22;Type-22
 sensors/fr_me140_mr126;ME-140/MR-126 radar
-sensors/cn_type_208a;Type 208a
-sensors/cn_jl_7a;JL-7A
-sensors/cn_type_930_4;Type 930-4
 sensors/su_1rl33;1RL33
 sensors/su_1rl33rt;1RL33RT
 sensors/su_1rl34;1RL34
@@ -290,7 +295,6 @@ sensors/su_l-082;L-082
 sensors/su_rn_01_arbalet;RN-01 Crossbow
 sensors/su_kopio_25;Kopyo-25
 sensors/su_kopio;Kopyo-21
-sensors/su_thorium;Thorium
 sensors/us_an_apq_83;AN/APQ-83
 sensors/sw_ps-46a;PS-46/A
 sensors/sw_ps-371a;PS-371/A
@@ -311,7 +315,6 @@ sensors/cn_helicopter_z_rwr;RWR
 sensors/cn_helicopter_z_mlws;MLWS
 sensors/sw_app_f9_5;APP F9/5
 sensors/su_n_019e;N019E/OEPS-29E
-sensors/cn_type_1473;Type 1473
 counterMeasures/lsz_8vn;LSZ-8VN
 sensors/su_sapphire_23e;Sapphire-23E/TP-23-1
 sensors/us_an_alr_45f_v;AN/ALR-45F(V)

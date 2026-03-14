@@ -13,8 +13,532 @@ Some terminology for this changelog:
 - Long distance name: The name that appears at long distances from a vehicle.
 - Caliber/mass tag: Yellow colored text in front of a weapon's long name denoting its caliber or mass, depending on what is appropriate for the weapon type.
 - Type tag: Orange colored text at the end of a weapon's long name denoting the type of weapon in abbreviations.
+- Report: A bug report for the mod on the GitHub that is responsible for the listed change.
+- Reported: A bug report for the mod that is responsible for the listed change, but is not on the GitHub and was reported through means such as a DM.
 
 All dates are listed in DD-MM-YYYY format.
+
+## 1.17.00 - UNRELEASED
+
+### Vehicles:
+
+- ### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **F-16C PoBIT**
+        - **F/A-18** (folder)
+        - **AH-64A** (killstreak)
+        - **M1296**
+        - **USS Helm**
+        - **Me 210A-1**
+        - **Alpha Jet A (JaboG 41)** (Germany)
+        - **Sd.Kfz.234/2 "Biene"**
+        - **sWaTrgIng**
+        - **S-61**
+        - **Z52**
+        - **MiG-29 (9-12)**
+        - **MiG-29M (9-15)**
+        - **MiG-29** (folder)
+        - **Mi-35M** (killstreak)
+        - **T-64B/80B** (folder)
+        - **Pantsir-SM-SV**
+        - **TK-126**
+        - **F-111/Tornado** (folder)
+        - **F/A-18** (UK / Australia) (folder)
+        - **F/A-18F** (UK / Australia)
+        - **MTB-379**
+        - **Me 210 V22**
+        - **F-15J** (Japan) (folder)
+        - **F-5/F-16** (Japan / Thailand) (folder)
+        - **Ho-Ni II**
+        - **Ho-Ro/Ni** (folder)
+        - **BTR-3E1** (Japan / Thailand)
+        - **IJN Tade**
+        - **IJN Kagero**
+        - **J-15T**
+        - **ZTZ96B**
+        - **Ba.65 A.80**
+        - **WM-21**
+        - **Héja I**
+        - **Héja II**
+        - **WM-23**
+        - **Me 210 Ca-1**
+        - **Me 210 Ca-1 39M**
+        - **Me 410 Ca** (Italy / Hungary) (folder)
+        - **Fw 190 F-8** (Italy / Hungary)
+        - **Centauro II (P)**
+        - **RN Saetta**
+        - **RN Vincenzo Gioberti**
+        - **Verdun**
+        - **F-16A** (Sweden / Norway)
+        - **JAS39D**
+        - **JAS39** (folder)
+        - **T-50** (Sweden / Finland)
+        - **Kurnass/Baz** (folder)
+        - **Barak II/Sufa**
+        - **Eitan (P)**
+
+- #### Changes:
+
+    - Update "Ninth Wave" changes"
+        - **F-16C PoBIT** → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
+        - **F/A-18** (folder) → **F/A-18A-18 / C-52**.
+        - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
+        - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
+        - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
+        - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
+        - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
+        - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
+        - **sWaTrgInf**: Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
+        - **S-61** → **S 61**. Statcard name → **Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot (S 54-61) | S 61**.
+        - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
+        - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
+        - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
+        - **MiG-29** (folder) → **MiG-29 (9-12) / (9-13)**.
+        - **Mi-35M** (killstreak) → **Mi-24VM**. Statcard name → **Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM**.
+        - **T-64B/80B** (folder) → **T-64BV / 80B**.
+        - **Pantsir-SM-SV** → **Panczir'-SM-SV**. Statcard name → **Konstruktorskoye bûro priborostroyeniâ | Zyenitnyj rakyetno-pušyečnyj komplyeks "Panczir'-SM-SV"**. It doesn't have a normal style Russian name because we absolutely cannot find this thing's GRAU index so we're relegated to Panczir'-SM-SV.
+        - **TK-126**: Statcard name → **Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)**.
+        - **F-111/Tornado** (folder) → **F-111F / Tornado G.R. Mk. 1**.
+        - **F/A-18** (UK / Australia) (folder) → **F/A-18A / A (HUG 2.4)**.
+        - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
+        - **MTB-379** → **HMS MTB 379**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 379**.
+        - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
+            - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
+        - **F-15J** (Japan) (folder) → **F-15J (C4) / J(M)**.
+        - **F-5/F-16** (Japan / Thailand) (folder) → **B.Kh.18Kh (2014) / 19**.
+            - Thai package: **F-5/F-16** (Japan / Thailand) (folder) → **บ.ข.๑๘ข (2014) / ๑๙**.
+        - **Ho-Ni II** → **Ho Ni II (early)**. Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 10 Senchi Jisō Hō | Ho Ni II (early)**.
+            - Japanese package: **Ho-Ni II** → **ホニII (early)**. Statcard name → **陸軍野戦砲兵学校 | 一式十糎自走砲 | ホニII (early)**.
+        - **Ho-Ro/Ni** (folder) → **Ho Ro / Ni II**.
+            - Japanese package: **Ho-Ro/Ni** (folder) → **ホロ / ニII**.
+        - **BTR-3E1** → **Bīthīxār 3 Xī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1**.
+            - Thai package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
+            - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1**.
+            - Thai + Ukrainian package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
+        - **IJN Tade** → **Tade**. Statcard name → **Fujinagata Zōsensho | Nitō Kuchikukan | Tade Gata Kuchikukan (F-37) | Tade**.
+            - Japanese package: **IJN Tade** → **蓼**. Statcard name → **藤永田造船所 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 蓼**.
+        - **IJN Kagero** → **Kagerō**. Statcard name → **Maizuru Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Kagerō (1943)**.
+            - Japanese package: **IJN Kagero** → **陽炎**. Statcard name → **舞鶴海軍工廠 / 呉海軍工廠 | 一等驅逐艦 | 陽炎型驅逐艦 (F-49) | 陽炎 (1943)**.
+        - **J-15T** → **H/JJ15T**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī "Fēi Shā"**.
+            - Mandarin package: Statcard name → **沈阳飞机工业 (集团) | H/JJ15T型飞机 "飞鲨"**.
+        - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
+            - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
+        - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore A. 80 R.C. 41)**.
+        - **WM-21** → **W.M. 21**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 21 Sólyom közelfelderítő**.
+        - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
+        - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
+        - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
+        - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép**.
+        - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)**.
+        - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
+        - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
+        - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
+        - **RN Saetta** → **Saetta (SA)**. Statcard name → **Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)**.
+        - **RN Vincenzo Gioberti** → **Vincenzo Gioberti (GB)**. Statcard name → **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)**.
+        - **Verdun** → **Verdun (X 33)**. Statcard name → **Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)**.
+        - **F-16A** (Sweden / Norway) → **F-16A-10-CF**. Statcard name → **General Dynamics Corporation | F-16A-10-CF Fighting Falcon**.
+        - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
+        - **JAS39** (folder) → **JAS 39 A / C**.
+        - **T-50** (Sweden / Finland) → **14 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50**.
+        - **Kurnass/Baz** (folder) → **F-4E Kurnas 2000 / F-15A-18**.
+            - Hebrew package: **Kurnass/Baz** (folder) → **15A-18 / 2000 קורנס F-4E**.
+        - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
+        - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
+            - Hebrew package: **Eitan (P)** → **איתן צריח**. Statcard name → **נגמ״ש איתן עם צריח | מרכז שיקום ואחזקה 7000**.
+    - Israel rework:
+        - **Spitfire F. Mk. IX** → **Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX**.
+            - Hebrew package: **Spitfire F. Mk. IX** → **IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | IX ספיטפייר דגם**.
+        - **Spitfire L.F. Mk. IXe (CW)** → **Spiṭfayer IX (KK)**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
+            - Hebrew package: **Spitfire L.F. Mk. IXe (CW)** → **(כ״ק) IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
+        - **Weizman's Spitfire L.F. Mk. IXe** → **Weiṣman's Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
+            - Hebrew package: **Weizman's Spitfire L.F. Mk. IXe** → **של ויצמן IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
+    - Hungarian air rework:
+        - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
+        - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
+        - **Bf 109 F-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 F-4 vadászrepülőgép**.
+        - **Bf 109 G-2** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 G-2 vadászrepülőgép**.
+    - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | He 112 B-2/U2**.
+    - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
+    - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
+    - **La-174** → **174**. Statcard name → **Opytno-konstruktorskoye bûro № 301 174** (yeah I know it sucks).
+    - **La-200 / 15** (folder) → **200 / La-15**.
+    - **MiG-23BN** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 32-24B | MiG-23BN**.
+    - **MiG-23MLA** (Germany) → **MiG-23ML**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-12A | MiG-23ML**.
+    - **MiG-23MF** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-11A | MiG-23MF**.
+    - **Su-22UM3K** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-52UM3K | Su-22UM3K**.
+    - **Su-22M4** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4**.
+    - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
+    - **Ptx. M 163** → **Ptx. Xěm 163**. Statcard name ** → **General Electric Company | Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163**.
+        - Thai package: **ปตอ. เอ็ม 163** → **ปตอ. เอ็ม ๑๖๓**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยาน ๒๐ มม อัตตาจรแบบ เอ็ม ๑๖๓**.
+    - **Th.Hlạk M 60 A3** → **Th.Hlạk Xěm 60 Xe 3**. Statcard name → **Chrysler Defense Engineering | Roth Thạng Hlạk Xěm 60 Xe 3**.
+        - Thai package: **ถ.หลัก เอ็ม 60 เอ 3** → **ถ.หลัก เอ็ม ๖๐ เอ ๓**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม ๖๐ เอ ๓**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Roth Thạng Bao 32**.
+        - Thai package: **ถ.เบา 32** → **ถ.เบา ๓๒**. Statcard name → **Cadillac Gage Stingray | รถถังเบา ๓๒**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Thạng Hlạk 57**.
+        - Thai package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก ๕๗**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Roth Thạng Hlạk 57**.
+        - Thai + Ukrainian package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก ๕๗**.
+    - **B.Kh.20**:
+        - Thai package: Statcard name → **Saab 39 C | เครื่องบินขับไล่แบบที่ ๒๐** (previously it was accidentally เครื่องบินขับไล่แบบที่ ๒๐ก (B.Kh.20K) which is the JAS 39 D).
+    - **Ba.65 / Ju 87 R** (folder) → **Ba. 65 (K-14fc) (L) / Ju 87 R-2**.
+    - **Ba.65 (K-14fc) L** → **Ba. 65 (K-14fc) (L)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)**.
+    - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
+    - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
+    - **K/JJ10C** → **J10CE**. The new FWS10B means that, combined with the weapon config, it is now identical to the 2024 display of the J10CE. It also gets no K/ because the J10CE isn't in service (the K/ thing is also prob gonna be removed from all aircraft but that's not this update).
+        - Full Mandarin package: **K/JJ10C** → **歼10CE**.
+    - **JAS 39 E**: Statcard name → **Saab 39 Gripen E | JAS 39 E Gripen**.
+    - **Bf 109 E-7** (Japan) → **Bf 109 E-7/N**.
+    - **VBM Freccia C/C**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro**.
+    - **VBM Freccia C/C (OWS 30mm)**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
+    - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2)**.
+    - **Mi-24VM**: Statcard name → **Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM**.
+    - Japanese package: the F-4EJs, F-15J, and F-16AJ have recieved their missing roundels.
+
+### Weapons:
+
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **7.62 mm M1919A4E1 machine gun**
+        - **Drop tank/IRST**
+        - **30 mm M44/73 cannon**
+        - **55 mm Gerät 58 cannon**
+        - **PL-12A**
+        - **YJ-83K**
+        - **KD-88**
+        - **KD-88A**
+        - **LS-6(IR) 500**
+        - **8.56 mm Gebauer 1939.M machine gun**
+        - **8 mm Gebauer Gebauer 1926/39.M machine gun**
+        - **8 mm Gebauer Gebauer 1934/37.M machine gun**
+        - **12.7 mm Gebauer 1940.M GKM machine gun**
+        - **40 mm M39 cannon**
+        - **Wgr.41 Spr**
+        - **I-Derby ER**
+
+- #### Changes:
+
+    - Update "Ninth Wave" changes:
+        - **7.62 mm M1919A4E1 machine gun** → **Machine Gun, Caliber .30, Browning, M1919A4E1**.
+        - **Drop tank/IRST** → **AN/ASG-34(V)1**.
+        - **30 mm M44/73 cannon** → **3cm Flugabwehrkanone M/44 L/73**.
+        - **55 mm Gerät 58 cannon** → **5,5cm Gerät 58**.
+        - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.
+            - Mandarin package: Statcard name → **PL12AE空空导弹**.
+            - Full Mandarin package: **PL-12A** → **霹雳12AE**. Statcard name → **霹雳12AE空空导弹**.
+        - **YJ-83K** → **H/AKJ83**. Statcard name → **YJ83K | H/AKJ83 Kōng Jiàn Daodàn**.
+            - Mandarin package: Statcard name → **YJ83K | H/AKJ83空舰导弹**.
+            - Full Mandarin package: Statcard name → **鹰击83K | H/AKJ83空舰导弹**.
+        - **KD-88** → **K/AKD88**. Statcard name → **K/AKD88 Kòng Dì Daodàn**.
+            - Mandarin package: Statcard name → **K/AKD88空地导弹**.
+        - **KD-88A** → **K/AKD88A**. Statcard name → **K/AKD88A Kòng Dì Daodàn**.
+            - Mandarin package: Statcard name → **K/AKD88A空地导弹**.
+        - **LS-6(IR) 500** → **LS-6/500 (Hóngwài)**. Statcard name → **LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
+            - Mandarin package: **LS-6(IR) 500** → **LS-6/500 (红外)**. Statcard name → **LS-6型500公斤制导滑翔炸弹 (红外导引头)**.
+        - **8.56 mm Gebauer 1939.M machine gun** → **8,56 mm 39 M. géppuska**.
+        - **8 mm Gebauer Gebauer 1926/39.M machine gun** → **8 mm 26/31 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
+        - **8 mm Gebauer Gebauer 1934/37.M machine gun** → **8 mm 34/37 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
+        - **12.7 mm Gebauer 1940.M GKM machine gun** → **12,7 mm 40 M. géppuska**.
+        - **40 mm M39 cannon** → **4 cm 36 M. légvédelmi gépágyú**.
+        - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
+        - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
+    - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
+    - **2cm Flugzeugabwehrkanone-Zwilling 38** → **2cm Flugabwehrkanone-Zwilling 38**.
+    - **43 M. rakéta sorozatvető**: Type tag changed to LCH.
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **Large caliber chaff countermeasures** (for the **A 32 A**)
+
+- #### Changes:
+
+    - Update "Ninth Wave" additions:
+        - **Large caliber chaff countermeasures** (for the **A 32 A**) → **BOX-3**.
+    - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
+        - Mandarin package: **Type 930** → **930雷达告警设备**.
+    - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
+    - **1473H Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73H Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá** → **1473 Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达** → **1473雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73机载脉冲多普勒火控雷达**.
+    - **1492 Léidá | K/LKK92 Léidá** → **1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1492雷达 | K/LKK92雷达** → **1492雷达 | K/LKK92机载脉冲多普勒火控雷达**.
+    - **1493 Léidá | K/LKK92 Léidá** → **1493 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1493雷达 | K/LKK92雷达** → **1493雷达 | K/LKK92机载脉冲多普勒火控雷达**.
+
+## 1.16.02 - 21-02-2026
+
+### Vehicles:
+
+- #### Additions:
+
+    - **F-16A** (France / Netherlands)
+
+- #### Changes:
+
+    - **F-16A** (France / Netherlands) → **F-16A-5-CF**. Statcard name → **General Dynamics Corporation / N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | F-16A-5-CF Fighting Falcon**.
+    - Changed the Indian roundel back to the Wheel of Dharma because even though it looks like a pirate ship steering wheel ingame, the Khanda is a Sikh religious symbol.
+    - **T-72B3 (Aryena-È)** → **T-72B3 (Aryena-M)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»)**.
+    - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj avtomobil' "Garford"**.
+    - **Su-27SM3** → **Su-27SM**. Statcard name → **Kompaniâ «Sukhoj» | izd. T-10SM | Samolyet Su-27SM** ([Report](https://github.com/Addysaurus/lang_modding/issues/120)).
+    - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»**.
+    - **75MSSR**: Statcard name → **Komatsu Seisaku KA161 | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki ([Report](https://github.com/Addysaurus/lang_modding/issues/121))**.
+        - Japanese package: Statcard name → **小松製作 KA161 | 75式自走130mm多連装ロケット弾発射機**.
+    - **Mi-35P**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet "Fyeniks"** (it is very slightly shorter now by 4 characters).
+    - **Mi-8AMTŠ-VN**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
+    - **D.XXI-2**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141 | D.XXI-2**.
+    - **G.I Mercury** → **G.I (Mercury Mk. VIII)**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 138 | G.I (Mercury Mk. VIII)**.
+    - **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 155 | D.XXIII**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **M.C. 500 lb** (another one, same as the existing one) (default bomb not needing a mod that was added at some point, idr when)
+    - **Oktogel** (no clue when this was added)
+
+- #### Changes:
+
+    - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+    - **M.C. 500 lb** → **M.C., 500 lb., Mk. I (No. 25 Mk. III)**. Statcard name → **Bomb, H.E., Aircraft, M.C., 500 lb., Mk. I (Tail, 500 lb., No. 25 Mk. III)**.
+    - **20 mm Type 99 Model 1 cannon** → **99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata**. I was reviewing a wiki article and it came up so I had to reseach it anyway. Thought might as well.
+        - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號固定機銃三型**.
+    - **20 mm Type 99 Model 2 Mark 3 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 3 cannon** → **九九式二十粍二號固定機銃三型**.
+    - **20 mm Type 99 Model 2 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 cannon** → **九九式二十粍二號固定機銃四型**.
+    - **20 mm Type 99 Model 2 Mark 5 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 5 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 5 cannon** → **九九式二十粍二號固定機銃五型**.
+    - Removed the erroneous type tag from the **9M33M3**.
+
+### Infantry weaponry:
+
+- #### Changes:
+
+    - **M249**: Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249 "Para"**.
+
+### Sensors:
+
+- #### Additions:
+
+    - **CLC-1** (somehow missed this when doing the China rework)
+
+- #### Changes:
+
+    - **CLC-1** → **CLC1 Duanchéng Dīkōng Jānshì Léidá**.
+        - Mandarin package: **CLC-1** → **CLC1短程低空监视雷达**.
+
+## 1.16.01 - 22-01-2026
+
+### Vehicles:
+
+- #### Additions:
+
+    - **ELC 901**
+    - **Mosquito J30**
+    - **Ar-2** (in all of the time this mod has existed which, if you count the personal project part, is over 2 years, I somehow have forgotten to include this plane that has been in the game forever)
+
+- #### Changes:
+
+    - **Mosquito J30** → **J 30**. Statcard name → **de Havilland Aircraft Company D.H. 98 | J 30**.
+    - **ELC 901** → **E.L.C. (TC.901)**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901**.
+    - **ELC bis** → **E.L.C. bis**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90**.
+    - **T-72B3 "Arena"** → **T-72B3 (Aryena-È)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)**.
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.**.
+    - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
+    - **Huòkè 75H**:
+        - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
+    - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it ([Report](https://github.com/Addysaurus/lang_modding/issues/85)).
+    - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2** (Reported).
+    - **Ayanami**:
+        - Japanese package: Statcard name → **藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 (F-43) | 綾波 (1936)** (it was somehow missing its plan number).
+    - **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **03 Shiki Sha Rēda Sō Sorabu** → **03 Shiki Sha Rēda Sō Kūsen-bu**. Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **03 Shiki Has Sō**: Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **E-15 Bisī**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15 Bisī Qūzhú Jī "Qīshénkè"** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15比斯驅逐機「柒什克」**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-15比斯驅逐機「柒什克」**.
+    - **E-16-5**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-5 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-5型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-5型驅逐機**.
+    - **E-16-10**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-10 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-10型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-10型驅逐機**.
+    - **E-16-17**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-17 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-17型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-17型驅逐機**.
+    - **Zhōng 28 Jia**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo / Zhōngyāng Fēijī Zhìzào Chang | Zhōng 28 Jia Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского / 中央飛機製造廠 | 忠28甲型驅逐機**.
+    - **E-153**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153 Qūzhú Jī "Qīshénkè"** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153驅逐機「柒什克」**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-153驅逐機「柒什克」**.
+    - **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB Shì Qīng Hōngzhà Jī**. The documents are contradictory, I gotta choose something. There's probably more documents that call it a third different thing, but I only have 2 documents to go off of.
+    - **D.B.3 / C.B. (M-103U)** (folder) → **D.B.3 / SB**.
+        - Mandarin + Russian package: **D.B.3 / C.B. (M-103U)** → **D.B.3 / СБ**.
+        - Mandarin package: **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB式輕轟炸機**.
+        - Mandarin + Russian package: **C.B. (М-103У)** → **СБ**. Statcard name → **Авиационный завод № 22 им. С. П. Горбунова | СБ式輕轟炸機**.
+    - **P-43** (China / Taiwan): Statcard name → **Republic Aviation Corporation AP-4A | P-43 Shì Qūzhú Jī**.
+        - Mandarin package: Statcard name → **Republic Aviation Corporation AP-4A | P-43式驅逐機**.
+    - **A-29-LO**: Statcard name → **Lockheed Corporation Model 414 | A-29-LO Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 414 | A-29-LO式轟炸機**.
+    - **D.B.3** (China / Taiwan): Statcard name → **Zavod № 18 | D.B.3 Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Zavod № 18 | D.B.3式轟炸機**.
+        - Mandarin + Russian package: Statcard name → **Завод № 18 | D.B.3式轟炸機**.
+    - **Madīng 139**: Statcard name → **Glenn L. Martin Company Model 139WC | Madīng 139 Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Glenn L. Martin Company Model 139WC | 馬丁139式轟炸機**.
+    - **FB-26** (China / Taiwan): Statcard name → **de Havilland Aircraft Company D.H. 98 | FB-26 Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **de Havilland Aircraft Company D.H. 98 | FB-26轟炸機**.
+    - **Mosquito F.B. Mk. VI**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI**.
+    - **Mosquito F.B. Mk. XVIII**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. XVIII**.
+    - **Mosquito N.F. Mk. II**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito N.F. Mk. II**.
+    - **Mosquito T.R. Mk. 33**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito T.R. Mk. 33**.
+    - **Mosquito B. Mk. XVI**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito B. Mk. XVI**.
+    - **Mosquito F. Mk. II** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F. Mk. II**.
+    - **Mosquito F.B. Mk. VI** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI**.
+    - **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
+    - **Sky Sabre (iLauncher)** → **SV 15T (Land Ceptor)**. Statcard name → **Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)**.
+    - **Sky Sabre (Giraffe AMB)** → **SV 15T (Giraffe AMB)**. Statcard name → **Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)**.
+    - **Sky Sabre (iLauncher) / (Giraffe AMB)** (folder) → **Sky Sabre**.
+    - **Project 68** (folder) → **Čapayev / Sverdlov / Mikhail Kutuzov**.
+    - **EBRC Jaguar**: Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar**.
+    - **BMPT (2002)**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. "Tyerminator"**.
+    - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
+    - **CV90120** → **CV90120-T**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 90120-T**.
+    - Changed the roundel for Indian vehicles to ☬ (the Khanda) because the "Wheel of Dharma" character we were using was really just a pirate ship stearing wheel.
+    - Changed the roundel for Malaysian vehicles to a sun to be more like the Malaysian Air Force roundel, rather than the same as the British one.
+    - Corrected the roundel for the **MiG-21SPSK** from East German to German.
+    - Corrected the display of the statcard name on the Chinese **9A331-1**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **Akan m/46A**
+
+- #### Changes:
+
+    - **Akan m/46A** → **20 mm akan m/46A**. Statcard name → **20 mm automatkanon m/46A**.
+    - **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng**.
+        - Mandarin package: **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999式12.7毫米航空机枪**.
+    - **BA-11A** ([Report](https://github.com/Addysaurus/lang_modding/issues/85)):
+        - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
+    - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN (Reported).
+    - **Common Anti-Air Modular Missile** → **CAMM**. The Full Ammunition Names package name was accidentally the base name too. It is still the original in the Full Ammunition Names package.
+    - **Common Anti-Air Modular Missile Extended Range** → **CAMM-ER**. The Full Ammunition Names package name was accidentally the base name too. It is still the original in the Full Ammunition Names package.
+    - **AAM-3**: Statcard name → **90 Shiki Kū Taikū Yūdōdan | AAM-3** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **AAM-4**: Statcard name → **99 Shiki Kū Taikū Yūdōdan | AAM-4** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **ASM-1**: Statcard name → **80 Shiki Kū Taikan Yūdōdan | ASM-1** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **ASM-2**: Statcard name → **93 Shiki Kū Taikan Yūdōdan | ASM-2** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **RUAG Defence 120 mm Compact Tank Gun** → **120 mm Compact Tank Gun L50**.
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the **FS70** modification accidentally appearing as the Mandarin **火蛇70** even when not using the Mandarin package.
+    - Added pylon names for the Chinese HF rocket launcher modifications and corrected their extended names to "Hángkōng Huǒjiàn Fāshèqì" from "Fāshèqì" ("发射器" → "航空火箭发射器" in the Mandarin packages). The pylon named were missed last update by mistake.
+
+### Infantry weaponry:
+
+- #### Additions:
+
+    - **M249 Para**
+    - **M4A1**
+    - **MAC-11 PDW**
+    - **M110 SDMR**
+    - **M16A4**
+    - **XM5**
+    - **ASM Val**
+    - **AK-12**
+
+- #### Changes:
+
+    - **M249 Para** → **M249**. Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249**.
+    - **M4A1**: Statcard name → **Colt's Manufacturing Company Model 921 | Rifle, 5.56mm, M4A1**.
+    - **MAC-11 PDW** → **M11**. Statcard name → **Military Armament Corporation Model 11 | Submachine Gun, 9mm: M11**.
+    - **M110 SDMR** → **M110A1 SDMR**. Statcard name → **Heckler & Koch | Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated Marksman Rifle**.
+    - **M16A4**: Statcard name → **Colt's Manufacturing Company Model 945 | Rifle, 5.56mm, M16A4**.
+    - **XM5** → **M7**. Statcard name → **SIG Sauer | Rifle, 6.8mm, M7**.
+    - **ASM Val** → **ASM**. Statcard name → **AO «Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ» | 6P30M | 9-mm avtomat spyeczial'nyj ASM "Val"**.
+    - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70 | 5,45-mm avtomat Kalašnikova AK-12 obr. 2012 g.**.
+
+### Sensors:
+
+- #### Additions:
+
+    - **Arena-E**
+    - **APK-9** (forgot to add this in Line of Contact)
+
+- #### Changes:
+
+    - **Arena-E** → **Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»**.
+
+### Sensors:
+
+- #### Additions:
+
+    - **Arena-E**
+    - **APK-9** (forgot to add this in Line of Contact)
+
+- #### Changes:
+
+    - **Arena-E** → **Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»**.
+    - **Komplyeks aktivnoj zaŝity Aryena-M** → **Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»**.
+    - **Komplyeks aktivnoj zaŝity 1030M-01 | Drozd** → **Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»**.
+    - **APK-9**: Long name → **Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9**.
+    - **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá** → **KLJ-10A Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
+        - Mandarin package: **KLJ-10机载脉冲多普勒火控雷达** → **KLJ-10A机载脉冲多普勒火控雷达**.
+    - Changed the type tag of the Kh-59M and Kh-59MÈ to AGM-EO.
+
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - Update "Line of Contact" additions (forgot to add last time):
+        - **MiG-25PD**
+        - **F/A-18E**
+        - **HMS Prince of Wales**
+        - **BMPT-72**
+        - **Winter Concert**
+    - **ELC 901**
+    - Update "Leviathans" additions (somehow forgot to add over half a year ago, I'm stupid):
+        - **IRIS-T SLM**
+        - **RAH-66**
+        - **CS/SA5**
+        - **IJN Yamato**
+
+- #### Changes:
+
+    - Update "Line of Contact" changes:
+        - **F/A-18E** → **F/A-18E-2-MC**.
+        - **HMS Prince of Wales** → **HMS Prince of Wales (53)**.
+    - **ELC 901** → **E.L.C. (TC.901)**.
+    - Update "Leviathans" changes (how did I forget these ffs):
+        - **IRIS-T SLM** → **LV IRIS-T SLM**.
+        - **RAH-66** → **YRAH-66A (2000)**.
+        - **CS/SA5** → **CS/SA5 (2022)**.
+        - **IJN Yamato** → **Yamato**.
+            - Japanese package: **IJN Yamato** → **大和**.
+    - **Re. 2005 (9-12 010 A)** → **Re.2005 (9-12087A)** (renamed the vehicle in an earlier update but forgot to rename the loading screen).
+    - **Yamashiro**:
+        - Japanese package: **Yamashiro** → **山城**.
+    - **Leopard 2 A6 vs T-90A and ZTZ99 (Phase 2)** → **Leopard 2 A6 vs. T-90A and ZTZ99 (2 Qí)**.
+        - Mandarin package: **Leopard 2 A6 vs T-90A and ZTZ99 (Phase 2)** → **Leopard 2 A6 vs. T-90A and ZTZ99 (二期)**.
+    - **Z10**:
+        - Full Mandarin package: **Z10** → **直10**.
+    - **ZBD04A and Z10**:
+        - Full Mandarin package: **ZBD04A and Z10** → **ZBD04A and 直10**.
 
 ## 1.16.00 - 26-12-2025
 

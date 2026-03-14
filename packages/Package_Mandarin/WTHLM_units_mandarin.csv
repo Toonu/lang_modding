@@ -37,27 +37,27 @@ cw_21_0;☀ Curtiss-Wright Corporation Model 21 | C.W.21驅逐機
 cw_21_1;☀ C.W.21
 cw_21_2;☀ C.W.21
 i-15bis_china_shop;☀ E-15比斯
-i-15bis_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-15比斯型驅逐機"
+i-15bis_china_0;☀ Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15比斯驅逐機「柒什克」
 i-15bis_china_1;☀ E-15比斯
 i-15bis_china_2;☀ E-15
 i-16_type5_1935_china_shop;☀ E-16-5
-i-16_type5_1935_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-5型驅逐機"
+i-16_type5_1935_china_0;☀ Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-5型驅逐機
 i-16_type5_1935_china_1;☀ E-16-5
 i-16_type5_1935_china_2;☀ E-16
 i-16_type10_china_shop;☀ E-16-10
-i-16_type10_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-10型驅逐機"
+i-16_type10_china_0;☀ Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-10型驅逐機
 i-16_type10_china_1;☀ E-16-10
 i-16_type10_china_2;☀ E-16
 i-16_type17_china_shop;☀ E-16-17
-i-16_type17_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-17型驅逐機"
+i-16_type17_china_0;☀ Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-17型驅逐機
 i-16_type17_china_1;☀ E-16-17
 i-16_type17_china_2;☀ E-16
 i-16_chung_28_shop;忠28甲
-i-16_chung_28_0;"Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機"
+i-16_chung_28_0;Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機
 i-16_chung_28_1;忠28甲
 i-16_chung_28_2;忠28
 i-153_m62_china_shop;☀ E-153
-i-153_m62_china_0;"☀ Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-153驅逐機"
+i-153_m62_china_0;☀ Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153驅逐機「柒什克」
 i-153_m62_china_1;☀ E-153
 i-153_m62_china_2;☀ E-153
 hs-123a-1_china_shop;☀ Hs 123 A-1
@@ -73,7 +73,7 @@ v_12d_0;☀ Vultee Aircraft V-12-D | V-12-D型轟炸機
 v_12d_1;☀ V-12-D
 v_12d_2;☀ V-12
 martin_139wc_shop;☀ 馬丁139
-martin_139wc_0;☀ Glenn L. Martin Company Model 139WC | 馬丁139轟炸機
+martin_139wc_0;☀ Glenn L. Martin Company Model 139WC | 馬丁139式轟炸機
 martin_139wc_1;☀ 馬丁139
 martin_139wc_2;☀ 馬丁139
 hawk_iii_shop;☀ 霍克III
@@ -81,7 +81,7 @@ hawk_iii_0;☀ Curtiss-Wright Corporation Hawk Model 68C / 中央飛機製造廠
 hawk_iii_1;☀ 霍克III
 hawk_iii_2;☀ 霍克III
 h-75m_china_shop;☀ 霍克75H
-h-75m_china_0;☀ Curtiss-Wright Corporation Hawk Model 75M | 霍克75H驅逐機
+h-75m_china_0;☀ Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機
 h-75m_china_1;☀ 霍克75H
 h-75m_china_2;☀ 霍克75
 d_510c_shop;☀ D.510C
@@ -95,7 +95,7 @@ p-66_0;Vultee Aircraft V-48-C | P-48-C型驅逐機「前鋒」
 p-66_1;P-48-C
 p-66_2;P-48
 p-43a-1_china_shop;☀ P-43
-p-43a-1_china_0;☀ Republic Aviation Corporation AP-4A | P-43驅逐機
+p-43a-1_china_0;☀ Republic Aviation Corporation AP-4A | P-43式驅逐機
 p-43a-1_china_1;☀ P-43
 p-43a-1_china_2;☀ P-43
 p-40e_china_shop;☀ P-40E-CU
@@ -103,17 +103,17 @@ p-40e_china_0;☀ Curtiss-Wright Corporation Hawk Model 87B-2 | P-40E-CU型驅�
 p-40e_china_1;☀ P-40E
 p-40e_china_2;☀ P-40
 a_29_hudson_shop;☀ A-29-LO
-a_29_hudson_0;☀ Lockheed Corporation Model 414 | A-29-LO轟炸機
+a_29_hudson_0;☀ Lockheed Corporation Model 414 | A-29-LO式轟炸機
 a_29_hudson_1;☀ A-29
 a_29_hudson_2;☀ A-29
 db_3a_china_shop;☀ D.B.3
-db_3a_china_0;☀ Opytno-konstruktorskoye bûro № 39 | D.B.3轟炸機
+db_3a_china_0;☀ Zavod № 18 | D.B.3式轟炸機
 db_3a_china_1;☀ D.B.3
 db_3a_china_2;☀ D.B.3
-sb_2m_103u_china_shop;☀ C.B. (M-103U)
-sb_2m_103u_china_0;☀ Opytno-konstruktorskoye bûro № 156 | C.B.轟炸機 (M-103U)
-sb_2m_103u_china_1;☀ C.B.
-sb_2m_103u_china_2;☀ C.B.
+sb_2m_103u_china_shop;☀ SB
+sb_2m_103u_china_0;☀ Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB式輕轟炸機
+sb_2m_103u_china_1;☀ SB
+sb_2m_103u_china_2;☀ SB
 p1y1_mod11_china_shop;☀ 銀河一一型
 p1y1_mod11_china_0;☀ 中島飛行機 | 銀河一一型轟炸機
 p1y1_mod11_china_1;☀ 銀河一一型
@@ -161,7 +161,7 @@ ki_61_1a_otsu_china_0;☀ 川崎航空機工業 | 三式戰鬥機一型乙「飛
 ki_61_1a_otsu_china_1;☀ 三式戰一型
 ki_61_1a_otsu_china_2;☀ 三式戰
 mosquito_fb_mk26_china_shop;FB-26
-mosquito_fb_mk26_china_0;de Havilland Aircraft Company DH.98 | FB-26轟炸機
+mosquito_fb_mk26_china_0;de Havilland Aircraft Company D.H. 98 | FB-26轟炸機
 mosquito_fb_mk26_china_1;FB-26
 mosquito_fb_mk26_china_2;FB-26
 p-38l_1_china_rocaf_shop;☀ P-38L-1-LO
@@ -346,10 +346,10 @@ j_10a_shop;K/JJ10A
 j_10a_0;"成都飞机工业 (集团) | K/JJ10A型飞机 ""猛龙"""
 j_10a_1;K/JJ10A
 j_10a_2;K/JJ10
-j_10c_shop;K/JJ10C
-j_10c_0;"成都飞机工业 (集团) | K/JJ10C型飞机 ""猛龙"""
-j_10c_1;K/JJ10C
-j_10c_2;K/JJ10
+j_10c_shop;J10CE
+j_10c_0;"成都飞机工业 (集团) | J10CE型飞机 ""猛龙"""
+j_10c_1;J10CE
+j_10c_2;J10
 mirage_2000_5ei_shop;M-2000-5
 mirage_2000_5ei_0;Dassault Aviation | M-2000-5型戰鬥機
 mirage_2000_5ei_1;M-2000-5
@@ -366,6 +366,10 @@ j_11b_shop;K/JJ11B
 j_11b_0;"PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 ""应龙"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
+j_15t_shop;H/JJ15T
+j_15t_0;"沈阳飞机工业 (集团) | H/JJ15T型飞机 ""飞鲨"""
+j_15t_1;H/JJ15T
+j_15t_2;H/JJ15
 jf_17_shop;JF-17 Block I
 jf_17_0;Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Block I Thunder
 jf_17_1;JF-17 Block I
@@ -692,6 +696,10 @@ cn_ztz_96a_prot_shop;WZ122R (2号)
 cn_ztz_96a_prot_0;中国兵器工业集团有限公司 | WZ122R (样车2号)
 cn_ztz_96a_prot_1;WZ122R
 cn_ztz_96a_prot_2;MBT
+cn_ztz_96b_shop;ZTZ96B (2017)
+cn_ztz_96b_0;中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)
+cn_ztz_96b_1;ZTZ96B
+cn_ztz_96b_2;MBT
 cn_pgz_09_shop;PGZ09
 cn_pgz_09_0;中国兵器工业集团有限公司 | PGZ2009式双35毫米自行高炮
 cn_pgz_09_1;PGZ09

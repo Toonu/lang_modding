@@ -2,12 +2,21 @@
 //ROCKETS
 modification/cn_hf7d;火蛇70
 modification/cn_hf7d/desc;"Loadout unlocked:
-• <color=@userlogColoredText>HF-7D</color> launcher:
+• <color=@userlogColoredText>HF-7D</color> airborne rocket launcher:
   • <color=@userlogColoredText>火蛇70</color> <color=#ff6f00>RKT</color> x7"
+
+modification/q_5b_type130;130-1型
+modification/q_5b_type130/desc;"Loadout unlocked:
+• 强5B, K/JQ5, A5C (2003), K/JJ7 (all), K/JJH7 (all):
+  • <color=@userlogColoredText>HF-14</color> airborne rocket launcher:
+    • <color=@userlogColoredText>130-1型</color> <color=#ff6f00>RKT</color> x4
+• K/JJ10A:
+  • <color=@userlogColoredText>HF-14</color> airborne rocket launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>130-1型</color> <color=#ff6f00>RKT</color> x4"
 
 modification/cn_fire_snake_70a;GR5
 modification/cn_fire_snake_70a/desc;"Loadout unlocked:
-• <color=@userlogColoredText>火蛇70航空火箭弹集束发射器</color> launcher:
+• <color=@userlogColoredText>火蛇70航空火箭弹集束发射器</color> airborne rocket launcher:
   • <color=@userlogColoredText>GR5</color> <color=#ff6f00>AGM-LG</color> x7"
 
 //MISSILES
@@ -94,10 +103,10 @@ modification/cn_ty_90/desc;"Loadout unlocked:
 • <color=@userlogColoredText>霹发90</color> missile launcher x4 on quad rack:
   • <color=@userlogColoredText>AKK90</color> <color=#ff6f00>AAM-ARH</color>"
 
-modification/cn_ba_11;蓝新-11A
+modification/cn_ba_11;蓝箭-11A
 modification/cn_ba_11/desc;"Loadout unlocked:
 • Pylon:
-  • <color=@userlogColoredText>蓝新-11A</color> <color=#ff6f00>AGM-IR</color> x4"
+  • <color=@userlogColoredText>蓝箭-11A</color> <color=#ff6f00>AGM-IR</color> x4"
 
 modification/cn_hj8_e;AFT08E
 modification/cn_hj8_e/desc;"Loadout unlocked:

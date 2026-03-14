@@ -1,63 +1,52 @@
 <ID|readonly|noverify>;<English>
-modification/su_x38ml_e;Kh-38MLE
-modification/su_x38ml_e/desc;Allows the installation of Kh-38MLE guided missiles.
-modification/su_x38mt_e;Kh-38MTE
-modification/su_x38mt_e/desc;Allows the installation of Kh-38MTE guided missiles.
-modification/upab_500b_e/desc;Allows the installation of UPAB-500B-E guided bombs.
-modification/upab_500b_e;UPAB-500B-E
-modification/upab_1500_e/desc;Allows the installation of UPAB-1500B-E guided bombs.
-modification/upab_1500_e;UPAB-1500B-E
-modification/cn_sns_bomb/desc;Allows the installation of satellite guided bombs.
-modification/cn_sns_bomb;SNS
-modification/il_spice_250/desc;Allows the installation of SPICE 250 guided bombs.
-modification/il_spice_250;SPICE 250
-modification/cn_yings_3a/desc;Allows the installation of a YIGNS-III laser/electro-optical targeting pod.
-modification/cn_yings_3a;YIGNS-III
-modification/laser_rangefinder_lws_sep;LWS/LR
-modification/laser_rangefinder_lws_sep/desc;Laser warning system and Laser rangefinder
-modification/su_grom_e;Grom
-modification/su_grom_e/desc;Allows the installation of Grom-E2 guided bombs.
-modification/uk_hvar;HVAR
-modification/uk_hvar/desc;Allows the installation of HVAR unguided rockets.
-modification/it_macchi_m_910_gunpod;M-910-21/22-10 gun pod
-modification/it_macchi_m_910_gunpod/desc;Allows the installation of M-910-21/22-10 gun pods.
-sensors/jp_type_03_search;Type 03 TA
-sensors/cn_hq_11_search;HQ-11 TA
-sensors/su_sapphire_25;Sapphire-25/TP-26Sh1
-sensors/su_n_001ve;N001VE
-sensors/us_an_apg_79;AN/APG-79
-engine_model/mtu_8v_199_te21;MTU 8V 199 TE21
-engine_model/mtu_8v_199_te20;MTU 8V 199 TE20
-engine_model/6m70t4;6M70T4
-engine_model/1710-55;V-1710-55
-engine_model/r-1820-f53;Cyclone R-1820-F53
-engine_model/r985-48_an-2;R-985-48-AN-2
-engine_model/r-1535-96;R-1535-96
-engine_model/dsc1122;DSC1122
-transmission_model/3040_mx;3040 MX
-transmission_model/hd_4070;HD4070
-transmission_model/grs900r;GRS900R
-transmission_model/hswl_256b;HSWL 256B
-modification/cn_gb_laser_bomb/desc;Allows the installation of GB laser guided bombs.
-modification/cn_gb_laser_bomb;LGB
-modification/cn_glide_bomb/desc;Allows the installation of LS-6 guided bombs.
-modification/cn_glide_bomb;LS-6
-modification/305mm_ussr_64_sm_33_navy_ap;305-mm APCBC
-modification/305mm_ussr_64_sm_33_navy_ap_ammo_pack;305-mm APCBC
-engine_model/r15bd_300;R15BD-300
-modification/mig_25_r_40rd/desc;Allows the installation of R-40RD air-to-air missiles.
-modification/mig_25_r_40rd;R-40RD
-modification/mig_25_r_40td/desc;Allows the installation of R-40TD air-to-air missiles.
-modification/mig_25_r_40td;R-40TD
-modification/su_rvv_sd/desc;Allows the installation of RVV-SD air-to-air missiles.
-modification/su_rvv_sd;RVV-SD
-modification/406mm_us_mk8_mod0_navy_apcbc;406 mm Mk.8 Mod.0 APCBC
-modification/406mm_us_mk8_mod0_navy_apcbc_ammo_pack;406 mm Mk.8 Mod.0 APCBC
-engine_model/al_31fn_series_3;AL-31FN series 3
-engine_model/m88_2e4;M88-2E4
-engine_model/al_41f1s;AL-41F1S
-engine_model/ws_10b;WS-10B
-engine_model/viper_11;Viper 11
-engine_model/f414_ge_400;F414-GE-400
-engine_model/f414_ge_39e_rm16;F414-GE-39E (RM16)
-engine_model/r-1820-72w;R-1820-72w
+modification/me_210ca_1_40_mm_wgr41;W.Gr.41
+modification/me_210ca_1_40_mm_wgr41/desc;Allows the installation of 150 mm rockets Wgr.41
+modification/mavag_39m_antitank;40 mm cannon anti-tank magazine version
+modification/mavag_39m_antitank/short;AP
+modification/mavag_39m_antibomber;40 mm cannon magazine for air targets
+modification/mavag_39m_antibomber/short;Air targets
+modification/ch_kd_88/desc;Allows the installation of KD-88 guided missiles.
+modification/ch_kd_88;KD-88
+modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
+modification/us_ljdam;LJDAM
+modification/ch_yj_83k;YJ-83K
+modification/ch_yj_83k/desc;Allows the installation of YJ-83K guided anti-ship missiles.
+sensors/su_1rs1_4;1RS1-4
+sensors/su_1rs2_3;1RS2-3
+sensors/su_n_035e;N035E
+sensors/uk_captor_ecrs_1_pirate;CAPTOR ECRS Mk.1
+sensors/uk_captor_ecrs_2_pirate;CAPTOR ECRS Mk.2
+radar_hms_mode/desc;Helmet Mounted Sight
+avionics_sensor_radar/desc;Radar
+avionics_sensor_irst/desc;Infrared search and track system
+avionics_sensor_radar_irst/desc;Radar/Infrared search and track system
+avionics_sensor_rwr/desc;Radar warning receiver
+avionics_sensor_lws/desc;Laser Warning Receiver
+avionics_sensor_mlws/des;Missile approach warning system
+avionics_aim_spi/desc;Aiming point for the selected weapon
+avionics_hmd/desc;Helmet Mounted Sight
+avionics_aim_laser_designator/desc;Laser designator
+CCIP/desc;Constantly computed impact point for the selected weapon
+sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
+CCRP/desc;Continuously computed release point
+engine_model/vk_105ra;VK-105RA
+engine_model/iveco_vector_8v;VECTOR 8V
+engine_model/wm_k-14a;WM K-14A
+engine_model/wm_k-14b;WM K-14B
+engine_manufacturer/weiss_manfred;Weiss Manfred
+engine_model/6r_106_td_21;6R 106 TD21
+engine_model/vta_903t_v8;VTA903T V8
+engine_manufacturer/scania_vabis;Scania-Vabis
+engine_model/603_2;603/2
+transmission_model/3200_sp;3200 SP
+transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
+transmission_manufacturer/z_f;ZF
+transmission_model/zf_7hp_902;ZF 7HP 902
+modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6 IR guided bombs.
+modification/cn_glide_bomb_ir;LS-6 LR
+modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air missiles.
+modification/us_aim_120d;AIM-120D
+modification/cn_pl12a/desc;Allows the installation of PL-12A air-to-air missiles.
+modification/cn_pl12a;PL-12A
+aps/iron_fist_ld;Iron Fist Light Decoupled
+engine_model/rd-33k;RD-33K

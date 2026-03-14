@@ -9,6 +9,10 @@ weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T
 weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1954年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A式12.7毫米车载高射机枪 <color=#ff6f00>MG</color>
+weapons/gun_qjk_99_12_7_1;<color=@userlogColoredText>12.7 mm</color> QJK1999式12.7毫米航空机枪 <color=#ff6f00>MG</color>
+weapons/gun_qjk_99_12_7_1/short;QJK99
+weapons/cn_12_7_additionalpod_gun;<color=@userlogColoredText>12.7 mm</color> QJK1999式12.7毫米航空机枪 <color=#ff6f00>MG</color>
+weapons/cn_12_7_additionalpod_gun/short;QJK99
 weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> QJG2002式14.5毫米单管高射机枪 <color=#ff6f00>MG</color>
 weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
@@ -104,14 +108,16 @@ weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤�
 weapons/cn_ls_6_250/short;LS-6/250
 weapons/cn_ls_6_250_ir;<color=@userlogColoredText>300 kg</color> LS-6型250公斤制导滑翔炸弹 (红外导引头) <color=#ff6f00>BMB-IR/GNSS</color>
 weapons/cn_ls_6_250_ir/short;LS-6/250 (红外)
+weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6型500公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
+weapons/cn_ls_6_500/short;LS-6/500
+weapons/cn_ls_6_500_ir;<color=@userlogColoredText>300 kg</color> LS-6型500公斤制导滑翔炸弹 (红外导引头) <color=#ff6f00>BMB-IR/GNSS</color>
+weapons/cn_ls_6_500_ir/short;LS-6/500 (红外)
 weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
 weapons/cn_gp_500_2/short;500-2型
 weapons/cn_gp_500_3;<color=@userlogColoredText>469 kg</color> 500公斤3型航空爆破炸弹 <color=#ff6f00>BMB</color>
 weapons/cn_gp_500_3/short;500-3型
 weapons/cn_gp_500_4;<color=@userlogColoredText>508.3 kg</color> 500公斤4型航空爆破炸弹 <color=#ff6f00>BMB-HD</color>
 weapons/cn_gp_500_4/short;500-4型
-weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6型500公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
-weapons/cn_ls_6_500/short;LS-6/500
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;K/YJG500
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> GB1000型1000公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
@@ -168,6 +174,10 @@ weapons/cn_pl12;SD10A空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;SD10A
 weapons/cn_pl12_default;SD10A空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;SD10A
+weapons/cn_pl12a;PL12AE空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12a/short;PL12AE
+weapons/cn_pl12a_default;PL12AE空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12a_default/short;PL12AE
 weapons/cn_pl15;PL15 | K/AKK15空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl15/short;K/AKK15
 weapons/cn_pl15_default;PL15 | K/AKK15空空导弹 <color=#ff6f00>AAM-ARH</color>
@@ -182,10 +192,16 @@ weapons/cn_ba_9;AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_ba_9/short;AKD09
 weapons/cn_akd_10;AKD10空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_10/short;AKD10
+weapons/ch_kd_88_missile_tv;K/AKD88空地导弹 <color=#ff6f00>AGM-TV</color>
+weapons/ch_kd_88_missile_tv/short;K/AKD88
+weapons/ch_kd_88_missile_ir;K/AKD88A空地导弹 <color=#ff6f00>AGM-IR</color>
+weapons/ch_kd_88_missile_ir/short;K/AKD88A
 weapons/cn_ba_11;BA-11A型空地导弹 <color=#ff6f00>AGM-IR</color>
 weapons/cn_ba_11/short;BA-11A
 weapons/cn_yj_81k;YJ81 | H/AKJ08空舰导弹 <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ08
+weapons/ch_yj_83k_missile;YJ83K | H/AKJ83空舰导弹 <color=#ff6f00>AShM-ARH</color>
+weapons/ch_yj_83k_missile/short;H/AKJ83
 weapons/cn_hj_8a;HJ-8A | AFT08A反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8a/short;AFT08A
 weapons/cn_hj_8c;HJ-8C | AFT08C反坦克导弹 <color=#ff6f00>AGM-WG</color>
