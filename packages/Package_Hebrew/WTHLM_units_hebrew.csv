@@ -14,7 +14,7 @@ shop/group/il_tiran_4_group;ש 4 / 4 ןריט
 shop/group/il_gimel_tiran_group;6 ןריט / ג לק טוש
 shop/group/il_merkava_1_2_group;ב2 / רפושמ 1 הבכרמ
 shop/group/il_merkava_3_group;ז״ב ב / ח״מר 3 הבכרמ
-shop/group/il_merkava_4_group;"""LIC"" ב / ב4 הבכרמ"
+shop/group/il_merkava_4_group;"ש״טב ב / ב4 הבכרמ"
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -36,7 +36,7 @@ spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | ןמציו רזע 
 spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
 spitfire_lf_mk9e_weisman_2;רייפטיפס 
 s_199_shop;210.יס 
-s_199_0;" Avia Motors C.210 | ""ןיכס"" 210.יס "
+s_199_0;" Avia Motors C.210 | ""ןיכס"" 210.יס"
 s_199_1;210.יס 
 s_199_2;210.יס 
 p-51d-20-na_iaf_shop; יד 51-יפ
@@ -49,18 +49,18 @@ b-17g_iaf_1; י׳ג 17-יב
 b-17g_iaf_2; 17-יב
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop;13 רואטמ 
+meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | 13 םגד רואטמ
+meteor_nfmk13_1;13 רואטמ 
+meteor_nfmk13_2;רואטמ 
 meteor_fmk8_iaf_shop;8 רואטמ 
 meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | 8 םגד רואטמ
 meteor_fmk8_iaf_1;8 רואטמ 
 meteor_fmk8_iaf_2;רואטמ 
 meteor_frmk9_iaf_shop;9 רואטמ 
-meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | 9 םגד רואטמ 
+meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | 9 םגד רואטמ
 meteor_frmk9_iaf_1;9 רואטמ 
 meteor_frmk9_iaf_2;רואטמ 
-meteor_nfmk13_shop;13 רואטמ 
-meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | 13 םגד רואטמ 
-meteor_nfmk13_1;13 רואטמ 
-meteor_nfmk13_2;רואטמ 
 md_450b_ouragan_iaf_shop;ןגרוא 
 md_450b_ouragan_iaf_0; Avions Marcel Dassault | ןגרוא
 md_450b_ouragan_iaf_1;ןגרוא 
@@ -76,7 +76,7 @@ md_454_mystere_4a_iaf_0; Avions Marcel Dassault | IV רטסימ
 md_454_mystere_4a_iaf_1;IV רטסימ 
 md_454_mystere_4a_iaf_2;רטסימ 
 md_460_sambad_shop;2-ב רטסימ רפוס 
-md_460_sambad_0; Avions Marcel Dassault | 2-ב רטסימ רפוס
+md_460_sambad_0;" Avions Marcel Dassault | ""ד״במס"" 2-ב רטסימ רפוס"
 md_460_sambad_1;2-ב רטסימ רפוס 
 md_460_sambad_2;רטסימ רפוס 
 md_460_saar_shop;רעס
@@ -111,7 +111,7 @@ so_4050_vautour_2a_iaf_shop;A רוטוו ☨
 so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
 so_4050_vautour_2a_iaf_1;A רוטוו ☨
 so_4050_vautour_2a_iaf_2;רוטוו ☨
-f-84f_israel_iaf_shop; (תסייט 200) F-84F-51-GK
+f-84f_israel_iaf_shop;(תסייט 200) F-84F-51-GK 
 f-84f_israel_iaf_0; Republic Aviation Corporation | (תסייט 200) F-84F-51-GK Thunderstreak
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
@@ -134,7 +134,7 @@ kfir_c2_0;לארשיל תיריוואה היישעתה | C.2 ריפכ
 kfir_c2_1;C.2 ריפכ
 kfir_c2_2;Kfir
 kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ לארשיל תיריוואה היישעתה | Kfir Block 60
+kfir_c10_colombia_0;Kfir Block 60 לארשיל תיריוואה היישעתה ◡
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
 f-4e_iaf_shop; F-4E-48-MC
@@ -142,11 +142,11 @@ f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | סנרוק F-4E-48-MC
 f-4e_iaf_1; F-4E
 f-4e_iaf_2; F-4
 f-4e_kurnass_2000_shop;2000 סנרוק F-4E 
-f-4e_kurnass_2000_0; McDonnell Douglas Corporation Model 98HO | 2000 סנרוק F-4E
+f-4e_kurnass_2000_0; לארשיל תיריוואה היישעתה / McDonnell Douglas Corporation Model | 2000 סנרוק F-4E
 f-4e_kurnass_2000_1; F-4E
 f-4e_kurnass_2000_2; F-4
 nesher_shop;A רשנ
-nesher_0;Avions Marcel Dassault-Breguet Aviation / לארשיל תיריוואה היישעתה | A רשנ
+nesher_0;לארשיל תיריוואה היישעתה / Avions Marcel Dassault-Breguet Aviation | A רשנ
 nesher_1;A רשנ
 nesher_2;רשנ
 
@@ -172,19 +172,19 @@ f_16d_block_40_barak_2_missile_test_0; General Dynamics Corporation | II קר
 f_16d_block_40_barak_2_missile_test_1; F-16D
 f_16d_block_40_barak_2_missile_test_2; F-16
 f_16i_sufa_shop; F-16I
-f_16i_sufa_0; Lockheed Martin Corporation | הפוס F-16I 
+f_16i_sufa_0; Lockheed Martin Corporation | הפוס F-16I
 f_16i_sufa_1; F-16I
 f_16i_sufa_2; F-16
 f_15a_iaf_shop; F-15A-18-MC (MSIP)
-f_15a_iaf_0; McDonnell Douglas Corporation | (Multistage Improvement Program) זב F-15A-18-MC
+f_15a_iaf_0; McDonnell Douglas Corporation Model 199-1C | (Multistage Improvement Program) זב F-15A-18-MC
 f_15a_iaf_1; F-15A
 f_15a_iaf_2; F-15
 f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
-f_15c_baz_msip_0; McDonnell Douglas Corporation | (Multistage Improvement Program II) רפושמ זב F-15C-40-MC
+f_15c_baz_msip_0; McDonnell Douglas Corporation Model 199-1C | (Multistage Improvement Program II) רפושמ זב F-15C-40-MC
 f_15c_baz_msip_1; F-15C
 f_15c_baz_msip_2; F-15
 f_15i_raam_shop; F-15I
-f_15i_raam_0; McDonnell Douglas Corporation | םער F-15I
+f_15i_raam_0; McDonnell Douglas Corporation Model 199-1C | םער F-15I
 f_15i_raam_1; F-15I
 f_15i_raam_2; F-15
 
@@ -220,7 +220,7 @@ ah_64a_peten_0;▃ McDonnell Douglas Helicopter Systems | ןתפ AH-64A
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
 ah_64d_i_saraph_shop; AH-64D
-ah_64d_i_saraph_0; McDonnell Douglas Helicopter Systems | ףרש AH-64D
+ah_64d_i_saraph_0; Boeing Rotorcraft Systems | ףרש AH-64D
 ah_64d_i_saraph_1; AH-64D
 ah_64d_i_saraph_2; AH-64
 
@@ -238,17 +238,13 @@ ah_60_iaf_2;ABH Demonstrator
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 il_m_51_shop;(1975) 51-מ ןמרש
-il_m_51_0;7000 הקזחאו םוקיש זכרמ / Lima Locomotive Works | (1975) 51-מ ןמרש קנט
+il_m_51_0;7000 הקזחאו םוקיש זכרמ / Pressed Steel Car Company | (1975) 51-מ ןמרש קנט
 il_m_51_1;51-מ ןמרש
 il_m_51_2;Medium Tank
 il_m_51_w_shop;(814794-צ) 51-מ ןמרש
-il_m_51_w_0;7000 הקזחאו םוקיש זכרמ / Highland Park Ford Plant | (814794-צ) 51-מ ןמרש קנט
+il_m_51_w_0;7000 הקזחאו םוקיש זכרמ / Detroit Arsenal Tank Plant | (814794-צ) 51-מ ןמרש קנט
 il_m_51_w_1;51-מ ןמרש
 il_m_51_w_2;Medium Tank
-il_amx_13_75_shop;13 סכמא 
-il_amx_13_75_0; Atelier de construction de Roanne | 13 סכמא לק קנט
-il_amx_13_75_1;13 סכמא 
-il_amx_13_75_2;Light Tank
 il_m48a1_patton_III_shop;1 חגמ
 il_m48a1_patton_III_0;Chrysler Defense | M48 A1 קנט | 1 חגמ קנט
 il_m48a1_patton_III_1;1 חגמ
@@ -286,7 +282,7 @@ il_magach_6r_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 ק
 il_magach_6r_1;ר6 חגמ
 il_magach_6r_2;MBT
 il_magach_6b_shop;ב6 חגמ
-il_magach_6b_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 E2 קנט | ב 6 חגמ קנט
+il_magach_6b_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 RISE קנט | ב 6 חגמ קנט
 il_magach_6b_1;ב6 חגמ
 il_magach_6b_2;MBT
 il_magach_6_rocket_shop;(M261) ר6 חגמ
@@ -302,7 +298,7 @@ il_magach_6c_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A3
 il_magach_6c_1;ג6 חגמ
 il_magach_6c_2;MBT
 il_magach_6b_gal_batash_shop;ש״טב לג ב6 חגמ
-il_magach_6b_gal_batash_0;ןיבלס לעפמ תיאבצה היישעתה / Chrysler Defense | ש״טב לג ב 6 חגמ
+il_magach_6b_gal_batash_0;ןיבלס לעפמ תיאבצה היישעתה / Chrysler Defense | M60 A1 RISE קנט | ש״טב לג ב 6 חגמ
 il_magach_6b_gal_batash_1;ב6 חגמ
 il_magach_6b_gal_batash_2;MBT
 il_magach_7c_shop;ג7 חגמ
@@ -310,27 +306,31 @@ il_magach_7c_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | ג 7 �
 il_magach_7c_1;ג7 חגמ
 il_magach_7c_2;MBT
 il_magach_6b_gal_shop;לג ב6 חגמ
-il_magach_6b_gal_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 E2 קנט | לג ב 6 חגמ קנט
+il_magach_6b_gal_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 RISE קנט | לג ב 6 חגמ קנט
 il_magach_6b_gal_1;ב6 חגמ
 il_magach_6b_gal_2;MBT
+il_amx_13_75_shop;13 סכמא 
+il_amx_13_75_0; Atelier de construction de Roanne | 13 סכמא לק קנט
+il_amx_13_75_1;13 סכמא 
+il_amx_13_75_2;Light Tank
 il_aml_90_shop;90 למא 
-il_aml_90_0; Panhard | 90 למא תינוירש
+il_aml_90_0; Panhard type 245 | 90 למא תינוירש
 il_aml_90_1;90 למא 
 il_aml_90_2;Light Tank
 il_centurion_mk_5_shot_shop;5 ןוירוטנס 
-il_centurion_mk_5_shot_0; Royal Ordnance Factory Leeds | 5 ןמיס ןוירוטנס קנט
+il_centurion_mk_5_shot_0;" Royal Ordnance Factory Leeds | ""טוש"" 5 ןמיס ןוירוטנס קנט"
 il_centurion_mk_5_shot_1;5 ןוירוטנס 
 il_centurion_mk_5_shot_2;MBT
-il_tcm_20_shop;(ינק-וד) מ״מ 20 ד״לחז
-il_tcm_20_0;White Motor Company | (ינק-וד) עיינתמ מ״מ 20 לזיד הצחמל ילחז
-il_tcm_20_1;(ינק-וד) מ״מ 20 ד״לחז
+il_tcm_20_shop;ינק-וד ןוחירצ ד״לחז
+il_tcm_20_0;White Motor Company | מ״מ 20 ינק-וד ןוחירצ לזיד הצחמל ילחז
+il_tcm_20_1;ינק-וד ןוחירצ ד״לחז
 il_tcm_20_2;SPAAG
 il_zsu_57_2_shop;2-57-.וי.סא.יז 
 il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | 2-57-.וי.סא.יז מ״נ ת״מות
 il_zsu_57_2_1;2-57-.וי.סא.יז 
 il_zsu_57_2_2;SPAAG
 il_m163_vulcan_shop;טבוח
-il_m163_vulcan_0;General Electric Company | טבוח מ״נ ת״מות
+il_m163_vulcan_0;General Electric Company | M163 מ״נ ת״מות | טבוח מ״נ ת״מות
 il_m163_vulcan_1;טבוח
 il_m163_vulcan_2;SPAAG
 il_m109_shop; M109
@@ -352,33 +352,29 @@ il_sholef_2;SPH
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 il_tiran_4_shop;4 ןריט
-il_tiran_4_0;Ural'skij vagonostroityel'nyj zavod imyeni I. V. Stalina / שומיחה ליח | 4 ןריט קנט
+il_tiran_4_0;שומיחה ליח / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | 4 ןריט קנט
 il_tiran_4_1;4 ןריט
 il_tiran_4_2;MBT
-il_tiran_4_sh_shop;ש 4 ןריט
-il_tiran_4_sh_0;Ural'skij vagonostroityel'nyj zavod imyeni I. V. Stalina / שומיחה ליח | רירש 4 ןריט קנט
+il_tiran_4_sh_shop;(early) ש 4 ןריט
+il_tiran_4_sh_0;שומיחה ליח / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | (early) רירש 4 ןריט קנט
 il_tiran_4_sh_1;ש 4 ןריט
 il_tiran_4_sh_2;MBT
 il_centurion_shot_kal_alef_shop;א לק טוש
-il_centurion_shot_kal_alef_0;Royal Ordnance Factory Leeds / שומיחה ליח | א לק טוש קנט
+il_centurion_shot_kal_alef_0;שומיחה ליח / Royal Ordnance Factory Leeds | א לק טוש קנט
 il_centurion_shot_kal_alef_1;א לק טוש
 il_centurion_shot_kal_alef_2;MBT
 il_centurion_shot_kal_gimel_shop;ג לק טוש
-il_centurion_shot_kal_gimel_0;Royal Ordnance Factory Leeds / שומיחה ליח | ג לק טוש קנט
+il_centurion_shot_kal_gimel_0;שומיחה ליח / Royal Ordnance Factory Leeds | ג לק טוש קנט
 il_centurion_shot_kal_gimel_1;ג לק טוש
 il_centurion_shot_kal_gimel_2;MBT
 il_centurion_shot_kal_d_shop;ד לק טוש
-il_centurion_shot_kal_d_0;Royal Ordnance Factory Leeds / שומיחה ליח | ד לק טוש קנט
+il_centurion_shot_kal_d_0;שומיחה ליח / Royal Ordnance Factory Leeds | ד לק טוש קנט
 il_centurion_shot_kal_d_1;ד לק טוש
 il_centurion_shot_kal_d_2;MBT
-uk_centurion_shot_kal_d_shop;▄ ד לק טוש
-uk_centurion_shot_kal_d_0;▄ Royal Ordnance Factory Leeds / שומיחה ליח | ד לק טוש קנט
-uk_centurion_shot_kal_d_1;▄ ד לק טוש
+uk_centurion_shot_kal_d_shop;ד לק טוש ▄
+uk_centurion_shot_kal_d_0;▄ שומיחה ליח / Royal Ordnance Factory Leeds | ד לק טוש קנט
+uk_centurion_shot_kal_d_1;ד לק טוש ▄
 uk_centurion_shot_kal_d_2;MBT
-il_tiran_6_shop;ןריט 6
-il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo שומיחה ליח | 6 ןריט קנט
-il_tiran_6_1;ןריט 6
-il_tiran_6_2;MBT
 il_zsu_23_4_shop;שידנאג
 il_zsu_23_4_0;Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | 4-23-.וי.סא.יז מ״נ ת״מות | שידנאג מ״נ ת״מות
 il_zsu_23_4_1;שידנאג
@@ -392,11 +388,15 @@ il_m113a1_tow_0;FMC Corporation | M113 A1 ש׳מגנ | (ףרי׳ג) ש׳מגנ �
 il_m113a1_tow_1;(ףרי׳ג) סלדרב
 il_m113a1_tow_2;Light Tank
 it_m47_105_shop; M47 RKM
-it_m47_105_0; Detroit Arsenal / הדלפ תוקיציו תכתמ תוישעת ןדרוא + תיאבצה היישעתה | M47 RKM
+it_m47_105_0;M47 RKM הדלפ תוקיציו תכתמ תוישעת ןדרוא + תיאבצה היישעתה / Detroit Arsenal 
 it_m47_105_1; M47 RKM
 it_m47_105_2;Medium Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_tiran_6_shop;ןריט 6
+il_tiran_6_0;שומיחה ליח / Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo | 6 ןריט קנט
+il_tiran_6_1;ןריט 6
+il_tiran_6_2;MBT
 il_merkava_mk_1_shop;1 הבכרמ
 il_merkava_mk_1_0;7000 הקזחאו םוקיש זכרמ | 1 ןמיס הבכרמ קנט
 il_merkava_mk_1_1;1 הבכרמ
@@ -441,16 +441,16 @@ il_merkava_mk_4b_shop;ב4 הבכרמ
 il_merkava_mk_4b_0;7000 הקזחאו םוקיש זכרמ | ב4 ןמיס הבכרמ קנט
 il_merkava_mk_4b_1;ב4 הבכרמ
 il_merkava_mk_4b_2;MBT
-il_merkava_mk_4_lic_shop;"""LIC"" ב4 הבכרמ"
-il_merkava_mk_4_lic_0;"7000 הקזחאו םוקיש זכרמ | ""Low Intensity Conflict"" ב4 ןמיס הבכרמ קנט"
-il_merkava_mk_4_lic_1;ב4 הבכרמ
+il_merkava_mk_4_lic_shop;(2006) ש״טב ב4 הבכרמ
+il_merkava_mk_4_lic_0;"7000 הקזחאו םוקיש זכרמ | (2006) ש״טב ב4 ןמיס הבכרמ קנט"
+il_merkava_mk_4_lic_1;ש״טב ב4 הבכרמ
 il_merkava_mk_4_lic_2;MBT
 il_merkava_mk_4m_shop;מ4 הבכרמ
-il_merkava_mk_4m_0;7000 הקזחאו םוקיש זכרמ | חור ליעמ4 ןמיס הבכרמ קנט
+il_merkava_mk_4m_0;7000 הקזחאו םוקיש זכרמ | חור ליעמ 4 ןמיס הבכרמ קנט
 il_merkava_mk_4m_1;מ4 הבכרמ
 il_merkava_mk_4m_2;MBT
 il_machbet_shop;טבחמ
-il_machbet_0;לארשיל תיריוואה היישעתה / General Electric Company | טבחמ מ״נ ת״מות
+il_machbet_0;לארשיל תיריוואה היישעתה / General Electric Company | M163 מ״נ ת״מות | טבחמ מ״נ ת״מות
 il_machbet_1;טבחמ
 il_machbet_2;SPAAG
 
@@ -478,7 +478,7 @@ il_eitan_2;IFV
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
-il_spyder_aio_0;תומדקתמ המיחל תוכרעמ לאפר | SPYDER Missile Firing Unit All-in-One Short Range
+il_spyder_aio_0;SPYDER Missile Firing Unit All-in-One Short Range תומדקתמ המיחל תוכרעמ לאפר
 il_spyder_aio_1;SPYDER MFU AiO SR
 il_spyder_aio_2;SPAAM
 

@@ -14,8 +14,9 @@ sensors/su_n_001ve;"Система управления вооружением �
   • Радиолокационная станция Н001ВЕ
 • Оптико-электронная прицельная система ОЭПС-27 <color=#ff6f00>IRST</color>"
 
-sensors/su_n_035e;Радиолокационная система управления Н035 «Ирбис» <color=#ff6f00>RDR-AESA</color>
 sensors/su_n_001vep;РЛПК-27ВЭШ Меч-М <color=#ff6f00>RDR-PD</color>
+sensors/su_n_010m;Радиолокационный прицельный комплекс Н010М «Жук-М» <color=#ff6f00>RDR-PD</color>
+sensors/su_n_035e;Радиолокационная система управления Н035 «Ирбис» <color=#ff6f00>RDR-AESA</color>
 sensors/su_9s18m3;Радиолокационная станция 9С18М3 «Купол-М3» <color=#ff6f00>RDR-PESA</color>
 sensors/su_viking;Радиолокационная станция 9С35М3 <color=#ff6f00>RDR-PESA</color>
 sensors/su_1rs1_4;Станция обнаружения целей 1РС1-4 <color=#ff6f00>RDR-PESA</color>
@@ -30,6 +31,12 @@ sensors/su_spo-150-30sm;Система предупреждения об обл�
 //TARGETING PODS
 weapons/su_apk_9;Агрегат почвообрабатывающий комбинированный АПК-9 <color=#ff6f00>TGP-EO</color>
 weapons/su_apk_9/short;АПК-9
+weapons/su_phantasmagoria_a;Контейнерная Л-080 «Фантасмагория-А» <color=#ff6f00>TGP-RG</color>
+weapons/su_phantasmagoria_a/short;Л-080
+weapons/su_phantasmagoria_b_beck;Контейнерная Л-081 «Фантасмагория-B» <color=#ff6f00>TGP-RG</color>
+weapons/su_phantasmagoria_b_beck/short;Л-081
+weapons/su_phantasmagoria_b_front;Контейнерная Л-081 «Фантасмагория-B» <color=#ff6f00>TGP-RG</color>
+weapons/su_phantasmagoria_b_front/short;Л-081
 
 //COUNTERMEASURES
 counterMeasures/l_370v28_5l;Л-370-5Л <color=#ff6f00>CM-DIR</color>

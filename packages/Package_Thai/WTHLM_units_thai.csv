@@ -5,16 +5,16 @@
 shop/group/f_5_f_16_thailand_group;บ.ข.๑๘ข (2014) / ๑๙
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
-h-75n_shop;ไทป์ ๑๖
-h-75n_0;Curtiss-Wright Corperation Hawk Model 75N | เครื่องบินขับไล่แบบที่ ๑๑ | ไทป์ ๑๖
-h-75n_1;ไทป์ ๑๖
-h-75n_2;ไทป์ ๑๖
+h-75n_shop;บ.ข.๑๑
+h-75n_0;Curtiss-Wright Corperation Hawk Model 75N | เครื่องบินขับไล่แบบที่ ๑๑
+h-75n_1;บ.ข.๑๑
+h-75n_2;บ.ข.๑๑
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 sb2c_5_thailand_shop;บ.จ.๓
-sb2c_5_thailand_0;Curtiss-Wright Corporation | เครื่องบินโจมตีแบบที่ ๓
+sb2c_5_thailand_0;Curtiss-Wright Corporation Model 84G | เครื่องบินโจมตีแบบที่ ๓
 sb2c_5_thailand_1;บ.จ.๓
 sb2c_5_thailand_2;บ.จ.๓
 
@@ -22,7 +22,7 @@ sb2c_5_thailand_2;บ.จ.๓
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f-84g_thailand_shop;บ.ข.๑๖
-f-84g_thailand_0;North American Rockwell | เครื่องบินขับไล่แบบที่ ๑๖
+f-84g_thailand_0;Republic Aviation Corporation AP-23 | เครื่องบินขับไล่แบบที่ ๑๖
 f-84g_thailand_1;บ.ข.๑๖
 f-84g_thailand_2;บ.ข.๑๖
 
@@ -46,7 +46,7 @@ av_8s_late_thailand_2;บ.ขล.๑
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 a_7e_thailand_shop;บ.จต.๑ก
-a_7e_thailand_0;LTV Corporation | เครื่องบินโจมตีแบบที่ ๑ก
+a_7e_thailand_0;Vought Corporation | เครื่องบินโจมตีแบบที่ ๑ก
 a_7e_thailand_1;บ.จต.๑ก
 a_7e_thailand_2;บ.จต.๑
 f-5a_thailand_shop;บ.ข.๑๘
@@ -72,7 +72,7 @@ f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | เครื่อ�
 f_16a_block_15_ocu_thailand_1;บ.ข.๑๙
 f_16a_block_15_ocu_thailand_2;บ.ข.๑๙
 saab_jas39c_thailand_shop;บ.ข.๒๐
-saab_jas39c_thailand_0;Saab 39 C | เครื่องบินขับไล่แบบที่ ๒๐
+saab_jas39c_thailand_0;Saab 39 Gripen C | เครื่องบินขับไล่แบบที่ ๒๐
 saab_jas39c_thailand_1;บ.ข.๒๐
 saab_jas39c_thailand_2;บ.ข.๒๐
 
