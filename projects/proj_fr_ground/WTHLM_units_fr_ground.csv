@@ -49,9 +49,9 @@ fr_amc_35_shop;A.M.C. 35
 fr_amc_35_0;Société anonyme des usines Renault A.C.G. 1 | Automitrailleuse de cavalerie type combat modèle 1935
 fr_amc_35_1;A.M.C. 35
 fr_amc_35_2;Cavalry Armored Combat Car
-fr_saint_chamond_shop;St Chamond mle. 1918
+fr_saint_chamond_shop;St-Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
-fr_saint_chamond_1;St Chamond mle. 1918
+fr_saint_chamond_1;St-Chamond mle. 1918
 fr_saint_chamond_2;Assault Tank
 fr_renault_r39_shop;R. 35 (37 S.A. 38)
 fr_renault_r39_0;Société anonyme des usines Renault Z.M. | Char léger modèle 1935 Renault (Canon de 37 mm semi-automatique modèle 1938)
@@ -176,13 +176,17 @@ fr_m36b2_cefeo_2;Tank Destroyer
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 fr_amx_elc_bis_shop;E.L.C. bis
-fr_amx_elc_bis_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90
+fr_amx_elc_bis_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Engin léger de combat bis avec tourelle-casemate de 90"
 fr_amx_elc_bis_1;E.L.C. bis
 fr_amx_elc_bis_2;Light Tank
-fr_amx_elc_901_shop;E.L.C. (T.C. 901)
-fr_amx_elc_901_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate 901
+
+fr_amx_elc_901_shop;E.L.C. (TC.901)
+fr_amx_elc_901_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Engin léger de combat avec tourelle-casemate de 901"
 fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
+
 fr_amx_m4_shop;A.M.X. M. 4
 fr_amx_m4_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen M. 4 A.M.X.
 fr_amx_m4_1;A.M.X. M. 4
