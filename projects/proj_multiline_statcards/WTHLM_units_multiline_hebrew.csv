@@ -15,20 +15,20 @@
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 spitfire_mk9c_iaf_shop;IX רייפטיפס 
-spitfire_mk9c_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_mk9c_iaf_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס "
 spitfire_mk9c_iaf_1;IX רייפטיפס 
 spitfire_mk9c_iaf_2;רייפטיפס 
 
 spitfire_lf_mk9e_iaf_shop;(ק״כ) IX רייפטיפס 
-spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס 
 <color=#adadad>(הצוצק ףנכ)</color>"
 spitfire_lf_mk9e_iaf_1;IX רייפטיפס 
 spitfire_lf_mk9e_iaf_2;רייפטיפס 
 
 spitfire_lf_mk9e_weisman_shop;ןמציו לש IX רייפטיפס 
-spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס 
 <color=@currencyGoldColor>ןמציו רזע לש</color>"
 spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
@@ -201,6 +201,12 @@ nesher_0;"<color=#81c3fc>לארשיל תיריוואה היישעתה <color=@co
 A רשנ"
 nesher_1;A רשנ
 nesher_2;רשנ
+
+mig_21_2000_iaf_shop; MiG-21 2000
+mig_21_2000_iaf_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. 
+MiG-21 2000 Aerostar + לארשיל תיריוואה היישעתה / P. V. Dyemyent'yeva</color>"
+mig_21_2000_iaf_1; MiG-21 2000
+mig_21_2000_iaf_2; MiG-21
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_10_iaf_shop; F-16A-15OCU-CF
@@ -391,7 +397,7 @@ il_magach_6_2;MBT
 il_magach_6a_shop;א6 חגמ
 il_magach_6a_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 A1 קנט</color>
-א 6 חגמ קנט"
+א6 חגמ קנט"
 il_magach_6a_1;א6 חגמ
 il_magach_6a_2;MBT
 
@@ -405,14 +411,14 @@ il_magach_5_2;MBT
 il_magach_6r_shop;ר6 חגמ
 il_magach_6r_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 קנט</color>
-ר 6 חגמ קנט"
+ר6 חגמ קנט"
 il_magach_6r_1;ר6 חגמ
 il_magach_6r_2;MBT
 
 il_magach_6b_shop;ב6 חגמ
 il_magach_6b_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 A1 RISE קנט</color>
-ב 6 חגמ קנט"
+ב6 חגמ קנט"
 il_magach_6b_1;ב6 חגמ
 il_magach_6b_2;MBT
 
@@ -427,34 +433,34 @@ il_magach_6_rocket_2;MBT
 il_magach_6m_shop;ח״דט מ6 חגמ
 il_magach_6m_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 קנט</color>
-ח״דט מ 6 חגמ קנט"
+ח״דט מ6 חגמ קנט"
 il_magach_6m_1;ח״דט מ6 חגמ
 il_magach_6m_2;MBT
 
 il_magach_6c_shop;ג6 חגמ
 il_magach_6c_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 A3 קנט</color>
-ג 6 חגמ קנט"
+ג6 חגמ קנט"
 il_magach_6c_1;ג6 חגמ
 il_magach_6c_2;MBT
 
 il_magach_6b_gal_batash_shop;ש״טב לג ב6 חגמ
 il_magach_6b_gal_batash_0;"<color=#81c3fc>ןיבלס לעפמ תיאבצה היישעתה <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 A1 RISE קנט</color>
-ש״טב לג ב 6 חגמ"
+ש״טב לג ב6 חגמ"
 il_magach_6b_gal_batash_1;ב6 חגמ
 il_magach_6b_gal_batash_2;MBT
 
 il_magach_7c_shop;ג7 חגמ
 il_magach_7c_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
-ג 7 חגמ קנט"
+ג7 חגמ קנט"
 il_magach_7c_1;ג7 חגמ
 il_magach_7c_2;MBT
 
 il_magach_6b_gal_shop;לג ב6 חגמ
 il_magach_6b_gal_0;"<color=#81c3fc>7000 הקזחאו םוקיש זכרמ <color=@commonTextColor>/</color> Chrysler Defense</color>
 <color=#7ce68f>M60 A1 RISE קנט</color>
-לג ב 6 חגמ קנט"
+לג ב6 חגמ קנט"
 il_magach_6b_gal_1;ב6 חגמ
 il_magach_6b_gal_2;MBT
 

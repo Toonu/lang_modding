@@ -33,6 +33,7 @@ weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002
 weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> PGZ2009式双35毫米自行高炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37毫米1型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965年式双管37毫米高射机关炮 <color=#ff6f00>ACNN</color>
+weapons/37mm_type_76_user_cannon;<color=@userlogColoredText>37 mm</color> PGZ1988式双管37毫米履带式自行高炮 <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959式57毫米高射炮 <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986年式73毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -53,6 +54,7 @@ weapons/120mm_122TM_user_cannon;<color=@userlogColoredText>120 mm</color> 1971�
 weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 | PTZ1989式120毫米自行反坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1988C式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998式125毫米坦克炮 <color=#ff6f00>CNN</color>
+weapons/125mm_ZPT_98_vt4b_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998A式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> PL1959A式130毫米加农炮 <color=#ff6f00>CNN-HWZ</color>
@@ -60,6 +62,8 @@ weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PL
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
+37mm_heit_1955;55式37毫米曳杀榴弹
+37mm_apit_1955;55式37毫米曳穿甲弹
 type_59_he;59式57毫米曳杀榴弹
 type_59_apcbc;59式57毫米被帽穿甲弹
 type_59_ap;59式57毫米穿甲曳弹
@@ -196,6 +200,20 @@ weapons/ch_kd_88_missile_tv;K/AKD88空地导弹 <color=#ff6f00>AGM-TV</color>
 weapons/ch_kd_88_missile_tv/short;K/AKD88
 weapons/ch_kd_88_missile_ir;K/AKD88A空地导弹 <color=#ff6f00>AGM-IR</color>
 weapons/ch_kd_88_missile_ir/short;K/AKD88A
+weapons/cn_yj91a;YJ91 | K/AKD91空地导弹 <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91a/short;K/AKD91
+weapons/cn_yj91_l_111;YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_111/short;K/AKD91 (PRGS-4VP)
+weapons/cn_yj91_l_112;YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_112/short;K/AKD91 (PRGS-5VP)
+weapons/cn_yj91_l_113;YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_113/short;K/AKD91 (PRGS-6VP)
+weapons/cn_yj91as;YJ91A | H/AKJ91空舰导弹 <color=#ff6f00>AShM-ARH</color>
+weapons/cn_yj91as/short;H/AKJ91
+weapons/cn_ld10;LD10轻型近程反辐射导弹 <color=#ff6f00>AGM-PRH</color>
+weapons/cn_ld10/short;LD10
+weapons/cn_cm_102;CM102反辐射导弹武器系统 <color=#ff6f00>AGM-PRH</color>
+weapons/cn_cm_102/short;CM102
 weapons/cn_ba_11;BA-11A型空地导弹 <color=#ff6f00>AGM-IR</color>
 weapons/cn_ba_11/short;BA-11A
 weapons/cn_yj_81k;YJ81 | H/AKJ08空舰导弹 <color=#ff6f00>AShM-ARH</color>
